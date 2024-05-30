@@ -304,4 +304,24 @@ de fonar una vocal que suena entre las dos vocales.
 
 Además, *the* tiene el sonido [ð], que es una de las dos pronunciaciones principales de TH en inglés.
 Es como una D, pero soltando mucho aire entre la lengua y los dientes.
-    
+
+## Diferencias en el uso
+
+Los artículos funcionan de manera muy similar en inglés y en español. Solo hay una 
+excepción importante. En español, sustantivos genéricos o incontables al principio 
+de una oración deben tener un artículo determinado:
+
+    Los gatos son divertidos.
+
+    La gasolina es cara.
+
+En inglés, los sustantivos genéricos o incontables al principio de una oración no llevan artículo:
+
+    Cats are fun.
+
+    Gas is expensive.
+
+# Ejercicios
+
+Memoriza la conjugación del verbo *to be*. Memoriza también los siguientes símbolos fonéticos
+con su significado: [i:], [i], [ɪ], [ə], [ð].
