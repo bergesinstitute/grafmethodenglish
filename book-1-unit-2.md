@@ -245,6 +245,11 @@ y ponemos el otro sustantivo a continuación. Nos quedará: Y's X.
 
     The house of Juan. => Juan's house. (La casa de Juan).
 
+Si el sustantivo que posee termina en S, añadimos solamente
+el apóstrofe.
+
+    The house of my parents. => My parents' house. (La casa de mis padres).
+
 # Adverbios en inglés
 
 Los adverbios son palabras que describen verbos o adjetivos. 
@@ -347,7 +352,7 @@ tendemos a pronunciar la A como [ə].
 *I am in New York, but Pedro is in London.*
 (Yo estoy en Nueva York, pero Pedro está en Londres).
 
-# Homework
+# Ejercicios
 
 ## 1. Traduce
 
@@ -404,5 +409,5 @@ mismo que en inglés (por ejemplo, China = China).
 8. Usted no está feliz.
 9. La madre no está cansada.
 10. Las niñas no son de Canada.
-11. Ustedes no están enojadas.
-12. Ellas no están enojadas.
+11. Ustedes no están enfadadas.
+12. Ellas no están enfadadas.
