@@ -138,6 +138,22 @@ De nuevo tenemos algunos símbolos fonéticos que no conocemos. Recomendamos
 tratar de usar solamente los que conocemos ([i:], [ɪ]) e ignorar los demás,
 tratando de pronunciar los diferentes pronombres imitando a tu profesor.
 
+Solamente la tercera persona del síngular tiene género (*he, she*, pare *él,
+ella*, respectivamente). Además, tiene
+una tercera forma, *it*, que se usa para objetos inanimados. 
+
+En el resto de las personas no podemos saber el género. *They*
+se puede traducir como *ellos* o como *ellas*. De la misma manera,
+solo podemos traducir *ellos* y *ellas* como *they*.
+
+## Nota sobre los pronombres formales
+
+En español, tenemos los pronombres formales *usted* y *ustedes*,
+que tienen significado de segunda persona pero se conjugan en tercera
+persona (*tú eres => usted es, vosotros sois => ustedes son*).
+En inglés no existen. *Tú, usted, vosotros* y *ustedes* se traducirán
+como *you*.
+
 # El verbo to be
 
 ## To be

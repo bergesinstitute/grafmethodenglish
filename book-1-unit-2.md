@@ -99,7 +99,8 @@ y muy cercana a una E, casi diciendo LEV.
 
 Los adjetivos modifican sustantivos. En español, deben concordar en género y número
 (bolso rojo, casas rojas). En inglés los sustantivos no tienen género,
-y los adjetivos no cambian para sustantivos en singular o plural:
+y los adjetivos no cambian para sustantivos en singular o plural. Además,
+siempre van **antes** del sustantivo:
 *red bag* (bolso rojo), *red houses* (casas rojas).
 
 # Los colores en inglés
@@ -167,12 +168,10 @@ en una U normal.
 
     tired [taɪrd] - cansado
 
-S de small, s de short
-
 ## Sobre la S
 
-En *sad*, la S es la misma que por ejemplo en la palabra *sala* en español.
-En *small*, la S es la misma, pero en español no tenemos palabras que 
+En *sad*, la S es la misma que, por ejemplo, en la palabra *sala* en español.
+En *small*, la S es también la misma, pero en español no tenemos palabras que 
 empiecen con una S que no esté acompañando a una vocal.
 
 Por esta razón, tendemos a añadir una E antes: [esmɔl]. Tenemos que tratar
@@ -189,8 +188,221 @@ Tenemos en el adjetivo *short* este nuevo sonido:
 
 Este símbolo representa el sonido con el que normalmente pronunciamos SH
 en inglés. En español no existe (aunque a veces lo usamos cuando
-decimos shhhh para hacer callar a alguien). Se pronuncia haciendo
+decimos *shhhh* para mandar callar a alguien). Se pronuncia haciendo
 como una CH, pero sin tocar el paladar con la lengua.
 
 Otras palabras que usan este sonido son shower [ʃaʊər] (ducha) 
 y show [ʃoʊ] (espectáculo, programa).
+
+# Preposiciones básicas en inglés
+
+    in [ɪn] - en
+
+    on [ɔn] - en
+
+    at [æt] - en
+
+    from [frəm] - de
+
+    of [əv] - de
+
+*In, on* y *at* se traducen como *en*. Se usan en situaciones diferentes.
+A veces hay hasta diferencias regionales en determinadas situaciones. En general:
+
+- Usaremos *in* cuando queremos indicar que estamos **dentro** de un sitio. 
+También lo usaremos para indicar que estamos en un país o una ciudad.
+
+
+    I'm in the house. (Estoy en / dentro de la casa).
+
+    I'm in Spain. (Estoy en España).
+
+- Usaremos *on* cuando queremos indicar que estamos **encima de** algo.
+
+    
+    The book is on the table. (El libro está en / sobre la mesa).
+
+- Usaremos *at* cuando queremos indicar que estamos en un lugar concreto,
+como el gimnasio, la biblioteca o el supermercado.
+
+    
+    I'm at the supermarket. (Estoy en el supermercado).
+
+*From* y *of* se traducen como *de*. 
+From se refiere más al origen o procedencia de las cosas o las personas:
+
+    I am from Madrid. (Soy de Madrid).
+
+*Of* se usa para expresar posesión:
+
+    I don't like the color of the house. (No me gusta el color de la casa).
+    
+# El genitivo sajón
+
+Para expresar posesión, en lugar de decir el X de Y en inglés normalmente 
+modificamos el sustantivo que posee, añadiéndole apóstrofe y S,
+y ponemos el otro sustantivo a continuación. Nos quedará: Y's X.
+
+    The house of Juan. => Juan's house. (La casa de Juan).
+
+# Adverbios en inglés
+
+Los adverbios son palabras que describen verbos o adjetivos. 
+No tienen género ni número. Aquí va un adverbio importante:
+
+    very - muy
+
+*I am very tired*. (Yo estoy muy cansado).
+
+# Palabras y expresiones básicas en inglés
+
+    yes [jɛs] - sí
+    
+    no [noʊ] - no
+    
+    hello ['hɛloʊ] - hola
+    
+    goodbye [gʊd'baɪ] / bye [baɪ] - adiós
+    
+    please [pli:z] - por favor
+    
+    thank you [θæŋk ju:] - gracias
+    
+    you are welcome [ju: ɑ:r 'wɛlkəm] - de nada
+    
+    house ['haʊs] - casa
+    
+    car [kɑr] - coche / auto
+    
+    good morning [gʊd 'mɔrnɪŋ] - buenos días
+    
+    good afternoon [gʊd æftər'nun] - buenas tardes (después de comer)
+    
+    good evening [gʊd i:vnɪŋ] - buenas tardes (por la tarde/noche)
+
+    good night [gʊd naɪt] - buenas noches
+
+    man [mæn] - hombre
+
+    woman [ˈwʊmən] - mujer
+
+    boy [bɔɪ] - niño
+
+    girl [gɜrl] - niña
+
+## Plural de man y woman
+
+Los plurales de *man* y *woman* son irregulares:
+
+    men [mɛn] - hombres
+
+    women [wɪmɪn] - mujeres
+
+La pronunciación de *women* es especialmente difícil porque no
+se corresponde en nada con la manera en la que se escribe.
+
+## Nota sobre la T final en inglés
+
+En *good night* [gʊd naɪt] (buenas noches) la T final se puede pronunciar de 
+dos maneras. Pronunciándola claramente, o poniendo la boca como para pronunciarla
+pero sin hacer el chasquido final de la lengua. Estas dos maneras
+se conocen como T fuerte y T suave, respectivamente. 
+
+Las dos son comunes y correctas. Cuando hablamos rápido es común usar
+sobre todo la T final suave, pero es más fácil para los hispanohablantes
+normalmente tratar de hacer siempre la T final fuerte.
+
+# Números del 1 al 5 en inglés
+
+    one [wʌn] - uno
+
+    two [tu:] - dos
+
+    three [θri:] - tres
+
+    four [fɔr] - cuatro
+
+    five [faɪv] - cinco
+
+# Conjunciones en inglés
+
+Las conjunciones son palabras que se utilizan para unir palabras u oraciones.
+
+    and [ænd], [ənd] - y
+
+    or [ɔ:r] - o
+
+    but [bʌt] - pero
+
+*And* se pronuncia de dos maneras. Cuando enfatizamos la palabra,
+pronunciamos la A [æ], pero cuando está dentro de una frase
+tendemos a pronunciar la A como [ə].
+
+*I am from Madrid and Laura is from Barcelona.*
+(Yo soy de Madrid y Laura es de Barcelona).
+
+*Juan is in London or in New York.*
+(Juan está en Londres on en Nueva York).
+
+*I am in New York, but Pedro is in London.*
+(Yo estoy en Nueva York, pero Pedro está en Londres).
+
+# Homework
+
+## 1. Traduce
+
+1. El hijo está triste.
+2. Estoy triste.
+3. El gato está triste.
+4. El perro es negro.
+5. Tú eres bajo.
+6. Usted es baja.
+7. Ella está feliz.
+8. Los hermanos son altos.
+9. El gato es pequeño.
+10. El tío está triste.
+11. La tía está feliz.
+
+## 2. Traduce
+
+1. Usted es bajo.
+2. Usted está cansado.
+3. Usted está enfadado.
+4. Ustedes están cansados.
+5. Ustedes están tristes.
+6. Ustedes están felices.
+
+## 3. Traduce
+
+Si no aparece ninguna traducción, el nombre en español es el 
+mismo que en inglés (por ejemplo, China = China).
+
+1. La madre es de España (Spain [speɪn]).
+2. El padre está en Montreal.
+3. La madre está en Cuba.
+4. Madrid está en España.
+5. París está en Francia (France). 
+6. Soy de Pakistan.
+7. Ustedes son de Nevada.
+8. La abuela es de California.
+9. El abuelo es de San Diego.
+10. Ellas son altas.
+11. Ellos son bajos.
+12. Ustedes son de España.
+13. Ellas están cansadas.
+14. Yo soy de Colombia.
+
+## 4. Traduce
+
+1. No estás triste.
+2. Los hermanos no están tristes.
+3. No eres alto.
+4. El gato no es rojo.
+5. Usted no es de Cuba.
+6. El perro no es azul.
+7. Tú no eres de China.
+8. Usted no está feliz.
+9. La madre no está cansada.
+10. Las niñas no son de Canada.
+11. Ustedes no están enojadas.
+12. Ellas no están enojadas.
