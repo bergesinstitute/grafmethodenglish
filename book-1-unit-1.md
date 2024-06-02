@@ -48,7 +48,7 @@ El alfabeto inglés tiene 26 letras:
     
     V [vi:]
     
-    W [ˈdʌbəl ju:]
+    W ['dʌbəl ju:]
     
     X [ɛks]
     
@@ -295,6 +295,10 @@ El único artículo determinado en inglés es *the*. Se usa tanto para singular 
 
     some [səm]  - unos, unas
 
+> A veces pronunciamos *a* [eɪ], especialmente cuando hablamos muy despacio.
+> Cuando hablamos rápido y *a* está en medio de una oración, que es lo que
+> ocurre la mayoría de las veces, lo pronunciamos [ə].
+
 Usamos *a* para singular y *some* para plural.
 
     un piano => a piano
@@ -313,10 +317,12 @@ En palabras que empiezan con una vocal o un sonido vocálico, *a* se convierte e
 
 ## Pronunciación de los artículos en inglés
 
-En los tres artículos tenemos el sonido [ə] (una E minúscula al revés). 
-Es una E que se parece a una A, o una A que se parece a una E. Para pronunciarla,
-puedes poner la boca en una posición intermedia entre la A y la E, y tratar
-de fonar una vocal que suena entre las dos vocales.
+En los tres artículos tenemos el sonido [ə] (una E minúscula al revés).
+
+Normalmente, [ə] aparece en una sílaba débil, y a veces se 
+describe como una vocal ambigua, primitiva y "perezosa", emitida
+directamente desde la garganta, sin hacer mucho esfuerzo y sin abrir 
+mucho la boca. Está como entre la A, la E, y la O.
 
 Además, *the* tiene el sonido [ð], que es una de las dos pronunciaciones principales de TH en inglés.
 Es como una D, pero soltando mucho aire entre la lengua y los dientes.

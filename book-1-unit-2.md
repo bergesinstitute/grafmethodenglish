@@ -89,7 +89,7 @@ a pronunciar las vocales de manera diferente, e incluso a pronunciar dos sonidos
 que son diferentes en otros sitios de la misma manera.
 
 En algunos casos sí que merece la pena exagerar la pronunciación de las vocales.
-Por ejemplo, *leave* [ˈli:v] (irse) y *live* [lɪv] (vivir) se pueden confundir
+Por ejemplo, *leave* ['li:v] (irse) y *live* [lɪv] (vivir) se pueden confundir
 fácilmente si no las pronunciamos bien.
 
 Para pronunciar *leave*, exageraremos la I larga. Para pronunciar *live*, haremos la I muy corta
@@ -271,7 +271,7 @@ No tienen género ni número. Aquí va un adverbio importante:
     
     please [pli:z] - por favor
     
-    thank you [θæŋk ju:] - gracias
+    thank you [θæŋk ju:], thanks [θæŋks] - gracias
     
     you are welcome [ju: ɑ:r 'wɛlkəm] - de nada
     
@@ -283,17 +283,17 @@ No tienen género ni número. Aquí va un adverbio importante:
     
     good afternoon [gʊd æftər'nun] - buenas tardes (después de comer)
     
-    good evening [gʊd i:vnɪŋ] - buenas tardes (por la tarde/noche)
+    good evening [gʊd i:vnɪŋ] - buenas tardes (por la tarde-noche)
 
     good night [gʊd naɪt] - buenas noches
 
     man [mæn] - hombre
 
-    woman [ˈwʊmən] - mujer
+    woman ['wʊmən] - mujer
 
     boy [bɔɪ] - niño
 
-    girl [gɜrl] - niña
+    girl [gərl] - niña
 
 ## Plural de man y woman
 

@@ -35,7 +35,7 @@ Aquí tenemos una fórmula básica que funciona en todo el mundo:
 > En inglés solamente usamos el signo interrogativo final (?). Lo
 > mismo con el signo exclamativo (!).
 
-# Preguntas en inglés
+# Preguntas en inglés con el verbo to be
 
 ## Pronombres interrogativos
 
@@ -109,6 +109,193 @@ conversaciones:
 
     song [sɔŋ] - canción
 
+# El verbo to have (tener) en presente
+
+## Conjugación
+
+    I have
+
+    you have
+
+    he / she /it has
+
+    we have
+
+    you have
+
+    they have
+
+La conjugación del verbo *to have* es muy sencilla. Solamente
+cambia en la tercera persona del singular (*has*).
+
+En español, el verbo *tener* cambiar en cada persona: *tengo, tienes, tiene,
+tenemos, tenéis, tienen*. En inglés los verbos son mucho más sencillos de
+conjugar. La dificultad radica en la pronunciación, que es objetivamente
+más compleja que la del español.
+
+## Pronunciación
+
+Las dos conjugaciones del verbo *to have* se pronuncian así:
+
+    have [hæv]
+
+    has [hæz]
+
+Cuando tenemos *have* o *has* dentro de una oración y lo decimos rápido
+la vocal casi desaparece, y se termina pronunciando:
+
+    have [həv]
+
+    has [həz]
+
+*Peter and Mary have two sons.* (Peter y Mary tienen dos hijos).
+
+*Mary has a black car.* (Mary tiene un coche negro).
+
+## Contracciones
+
+En las oraciones afirmativas, podemos contraer el pronombre y el verbo:
+
+    I have => I 've
+
+    you have => you've
+
+    he has => he's
+    
+    she has => she's
+    
+    it has => it's
+
+    we have => we've
+
+    you have => you've
+
+    they have => they've
+
+>Aunque es importante conocerlas, en general para gente que habla inglés como segunda
+lengua es más fácil evitar usarlas hasta que no se tenga un nivel bastante avanzado,
+ya que su pronunciación es difícil.
+
+En las oraciones negativas podemos contraer el verbo y la partícula negativa en estos casos:
+
+    have not => haven't
+
+    has not => hasn't
+
+En algunos casos tenemos dos contracciones posibles, sujeto + verbo, o verbo + *not:*
+
+    she has not => she's not / she hasn't
+
+    they have not => they've not / they haven't
+
+# El verbo to do (hacer) en presente
+
+## Conjugación en presente
+
+    I do
+
+    you do
+
+    he / she /it does
+
+    we do
+
+    you do
+
+    they do
+
+La conjugación del verbo *to do* es muy sencilla. Solamente
+cambia en la tercera persona del singular (*does*).
+
+## Pronunciación
+
+Las dos conjugaciones del verbo *to do* se pronuncian así:
+
+    do [duː]
+
+    has [dʌz]
+
+## Contracciones
+
+Con el verbo *to do*, no hay contracciones de sujeto + verbo.
+Las dos únicas contracciones permitidas son entre el verbo
+y la partícula negativa:
+
+    do not => don't
+
+    does not => doesn't
+
+## Uso
+
+### To do como verbo normal
+
+El verbo *to do* significa *hacer*. Para decir por ejemplo *hago flexiones*
+diremos *I do pushups*.
+
+### To do como verbo auxiliar
+
+La mayoría de las veces que usamos *to do* lo usamos como verbo auxiliar.
+
+Con el verbo *to be*, para hacer una pregunta, simplemente invertimos
+el sujeto y el verbo. *I am => Am I? You are => Are you?*
+
+Con el verbo *to have* y con la mayoría de los verbos vamos a
+necesitar usar *to do*.
+
+#### Preguntas
+
+Para hacer preguntas, ponemos primero el verbo *to do* conjugado,
+después el sujeto, y después el verbo que queremos usar:
+
+    Do you have brothers or sisters? - ¿Tienes hermanos o hermanas?
+
+    Do you have a dog or a cat? - ¿Tienes un perro o un gato?
+
+    Does your sister have a dog or a cat? - ¿Tiene tu hermana un perro o un gato?
+
+#### Negativo
+
+Hemos dicho antes que para hacer el negativo con el verbo *to have*
+simplemente añadimos *not*, como hacíamos con el verbo *to be*.
+
+En realidad, aunque esta forma existe, casi siempre usaremos en su lugar la
+construcción del negativo con el verbo *to do*, que es la que usaremos
+con la mayoría de los verbos, y que consiste en sujeto, *to do* en
+negativo, y el verbo que queremos usar (*to have* en este caso).
+
+    I do not have brothers or sisters. - No tengo hermanos o hermanas.
+
+    I do not have a dog or a cat. - No tengo un perro o un gato.
+
+    My sister does not have a dog or a cat. - Mi hermana no tiene un perro o un gato.
+
+# El verbo to go (ir) en presente
+
+## Conjugación
+
+    I go
+
+    you go
+
+    he / she /it goes
+
+    we go
+
+    you go
+
+    they go
+
+La conjugación del verbo *to go* es muy sencilla. Solamente
+cambia en la tercera persona del singular (*goes*).
+
+## Pronunciación
+
+Las dos conjugaciones del verbo *to go* se pronuncian así:
+
+    go [goʊ]
+
+    goes [ɡəʊz]
+
 # Ejercicios
 
 ## 1. Traduce
@@ -152,3 +339,4 @@ The house ______ in Ibiza. My father's car ______ black.
 9. Su hermana y mi hija están cansadas.
 10. My primo es de Perú.
 
+## 5. Memoriza la conjugación y la pronunciación de los verbos to have, to do y to go
