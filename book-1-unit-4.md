@@ -70,7 +70,7 @@ En inglés, los días de la semana siempre van con mayúscula.
 
 # La preposición to
 
-    to - a
+    to [tu]  - a
 
 *I go to the synagogue.* (Voy a la sinagoga).
 
