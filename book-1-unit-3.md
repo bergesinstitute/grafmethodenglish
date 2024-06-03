@@ -57,6 +57,18 @@ Aquí tenemos una fórmula básica que funciona en todo el mundo:
 
     which [wɪtʃ] - cuál
 
+## El sonido tʃ
+
+Es el sonido del dígrafo CH en español. En inglés normalmente se pronuncia igual.
+
+Ejemplo en español:
+
+    chapa ['tʃapa]
+
+Ejemplo en inglés:
+
+    cheap [tʃi:p] - barato
+
 ## Ejemplos
 
     Where are your from? - ¿De dónde eres? (Lit. ¿Dónde eres tú de?)
@@ -101,11 +113,11 @@ conversaciones:
 
     book [bʊk] - libro
 
-    movie ['muːvi] - película
+    movie ['mu:vi] - película
 
     city ['sɪti] - ciudad
 
-    soccer team ['sɑkər tiːm] / football team ['fʊtbɔl tiːm] - equipo de fútbol
+    soccer team ['sɑkər ti:m] / football team ['fʊtbɔl ti:m] - equipo de fútbol
 
     song [sɔŋ] - canción
 
@@ -211,7 +223,7 @@ cambia en la tercera persona del singular (*does*).
 
 Las dos conjugaciones del verbo *to do* se pronuncian así:
 
-    do [duː]
+    do [du:]
 
     has [dʌz]
 
@@ -242,10 +254,11 @@ el sujeto y el verbo. *I am => Am I? You are => Are you?*
 Con el verbo *to have* y con la mayoría de los verbos vamos a
 necesitar usar *to do*.
 
-#### Preguntas
+#### Oraciones interrogativas
 
-Para hacer preguntas, ponemos primero el verbo *to do* conjugado,
-después el sujeto, y después el verbo que queremos usar:
+En las oraciones interrogativas ponemos primero el verbo *to do* conjugado,
+después el sujeto, y por último el verbo que queremos usar,
+en infinitivo.
 
     Do you have brothers or sisters? - ¿Tienes hermanos o hermanas?
 
@@ -253,15 +266,16 @@ después el sujeto, y después el verbo que queremos usar:
 
     Does your sister have a dog or a cat? - ¿Tiene tu hermana un perro o un gato?
 
-#### Negativo
+#### Oraciones negativas
 
-Hemos dicho antes que para hacer el negativo con el verbo *to have*
+Hemos dicho antes que para construir una oración negativa con el verbo *to have*
 simplemente añadimos *not*, como hacíamos con el verbo *to be*.
 
 En realidad, aunque esta forma existe, casi siempre usaremos en su lugar la
 construcción del negativo con el verbo *to do*, que es la que usaremos
 con la mayoría de los verbos, y que consiste en sujeto, *to do* en
-negativo, y el verbo que queremos usar (*to have* en este caso).
+negativo, conjugado, y el verbo que queremos usar (*to have* en este caso),
+en infinitivo.
 
     I do not have brothers or sisters. - No tengo hermanos o hermanas.
 

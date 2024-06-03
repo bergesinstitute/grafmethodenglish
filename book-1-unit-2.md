@@ -152,7 +152,7 @@ en una U normal.
 
 # Algunos adjetivos típicos en inglés
 
-    big [bɪg] - grande
+    big [bɪg] / large [lɑrdʒ] - grande
 
     small [smɔl] - pequeño
 
@@ -275,13 +275,13 @@ No tienen género ni número. Aquí va un adverbio importante:
     
     you are welcome [ju: ɑ:r 'wɛlkəm] - de nada
     
-    house ['haʊs] - casa
+    house [haʊs] - casa
     
     car [kɑr] - coche / auto
     
     good morning [gʊd 'mɔrnɪŋ] - buenos días
     
-    good afternoon [gʊd æftər'nun] - buenas tardes (después de comer)
+    good afternoon [gʊd æftər'nu:n] - buenas tardes (después de comer)
     
     good evening [gʊd i:vnɪŋ] - buenas tardes (por la tarde-noche)
 
@@ -305,6 +305,17 @@ Los plurales de *man* y *woman* son irregulares:
 
 La pronunciación de *women* es especialmente difícil porque no
 se corresponde en nada con la manera en la que se escribe.
+
+## El sonido θ
+
+En la expresión *thank you* encontramos este sonido. Muchas veces el dígrafo 
+TH se pronuncia así en inglés. Este sonido existe en español,
+pero solamente en la Península Ibérica y en Guinea Ecuatorial.
+
+Es la famosa consonante fricativa linguointerdental que una persona de
+Castilla, por ejemplo, usaría para pronunciar zapato [θa'pato] o 
+cenicero [θeni'θero]. En Latinoamérica (y en algunas zonas de España) 
+estas dos palabras se pronunciarían [sa'pato] y [seni'sero] respectivamente.
 
 ## Nota sobre la T final en inglés
 

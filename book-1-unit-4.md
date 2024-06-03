@@ -8,7 +8,7 @@
 
     day [deɪ] - día
 
-    week [wiːk] - semana
+    week [wi:k] - semana
 
     month [mʌnθ] - mes
 
@@ -40,7 +40,7 @@ En inglés, los días de la semana siempre van con mayúscula.
 
     supermarket ['supərmɑrkɪt] - supermercado
 
-    movie theater ['muːvi 'θiətər] - cine
+    movie theater ['mu:vi 'θiətər] - cine
 
     theatre ['θiətər] - teatro
 
@@ -48,7 +48,7 @@ En inglés, los días de la semana siempre van con mayúscula.
 
     club [klʌb] - club
 
-    school [skuːl] - escuela
+    school [sku:l] - escuela
 
     coffee shop ['kɔfi ʃɑp] - cafetería especializada en café
 
