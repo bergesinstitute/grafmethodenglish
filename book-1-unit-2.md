@@ -265,7 +265,7 @@ No tienen género ni número. Aquí va un adverbio importante:
     
     no [noʊ] - no
     
-    hello ['hɛloʊ] - hola
+    hello ['hɛloʊ] / hi [haɪ] - hola
     
     goodbye [gʊd'baɪ] / bye [baɪ] - adiós
     

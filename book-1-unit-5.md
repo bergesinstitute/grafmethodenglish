@@ -195,7 +195,7 @@ es como [s], pero con un poco de vibración de las cuerdas vocales:
 
     they sing
 
-> Pare un hispanohablante es más sencillo tratar de pronunciar [z] al final
+> Para un hispanohablante es más sencillo tratar de pronunciar [z] al final
 > de una palabra directamente [s].
 
 En este verbo la tercera persona necesita un ajuste ortográfico, 
@@ -215,6 +215,21 @@ En este verbo la tercera persona necesita un ajuste ortográfico,
 pero fonéticamente la pronunciación no cambia:
 
     study => studies ['stʌdiz]
+
+# Pronunciación de las palabras que terminan en [s] o [z]
+
+En general, tanto en los verbos que terminan
+en [s] o [z] como *close* o *dance* como en los sustantivos que terminan en [s] o [z],
+como *house* [haʊs] (casa) o *nose* [noʊz] (nariz) al añadir una S la pronunciación del final
+cambia a [zɪz].
+
+    close => closes ['kloʊzɪz]
+
+    dance => dances ['dænsɪz]
+
+    house => houses ['haʊzɪz]
+
+    nose => noses ['noʊzɪz]
 
 ## Oraciones interrogativas y negativas
 

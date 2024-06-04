@@ -18,13 +18,15 @@
 
     store [stɔr] - tienda
 
-    letter [ˈlɛtər] - carta
+    letter ['lɛtər] - carta
 
     email ['i:meɪl] - correo electrónico / email
 
     text message [tɛkst 'mɛsɪdʒ] - mensaje de texto
 
     book [bʊk] - libro
+
+    computer [kəm'pjutər] - ordenador / computadora
 
 # El sujeto y el objeto
 
@@ -172,6 +174,43 @@ para poco (haciéndolo negativo):
 
     every Tuesday - cada martes
 
+## Dónde ponerlas
+
+Las expresiones con *every* van normalmente al final de la oración:
+
+    I cook every day.
+
+    I run in the park every Tuesday.
+
+Las demás van generalmente así, aunque pueden funcionar bien en otros lugares:
+
+### Oraciones afirmativas
+
+En las oraciones afirmativas normalmente ponemos la expresión temporal 
+entre el sujeto y el verbo.
+
+    I usually drink water in the morning. 
+
+    I always cook on Mondays.
+
+### Oraciones interrogativas
+
+En las oraciones interrogativas, normalmente la ponemos también entre el sujeto
+y el verbo:
+
+    Do you usually drink water in the morning?
+
+    Do you always cook on Mondays?
+
+### Oraciones negativas
+
+En las oraciones negativas, normalmente la ponemos entre *don't* 
+/ *doesn't* y el verbo:
+
+    I usually drink water in the morning.
+
+    I don't always cook on Mondays.
+
 # Present simple
 
 El *present simple* equivale al tiempo presente en español.
@@ -186,3 +225,52 @@ como en español:
     I always study a lot. (Siempre estudio mucho).
 
     San Francisco is a city in California. (San Francisco es una ciudad en California).
+
+# Conversations
+
+Alberto: Hi Nuria. Where do you work?
+
+Nuria: Hi Alberto, I work in an office in Cuzco.
+
+A: Do you take the train [treɪn] (tren) to work?
+
+N: Sometimes I take the train, sometimes I walk. Where do you work?
+
+A: I work in a school. 
+
+N: Where is your school?
+
+A: My school is in Móstoles.
+
+****
+
+Carmen: Luis, where do you usually eat breakfast?
+
+Luis: I usually eat breakfast at home, but I sometimes eat breakfast
+in a café.
+
+C: Do you cook a lot?
+
+L: Yes, I cook breakfast almost every morning and I cook dinner every night.
+
+C: I never cook. I always eat breakfast in my office and I always eat dinner
+at a restaurant.
+
+****
+
+Max: Do you read a lof of books?
+
+Paulina: I read a lot of books, do you read a lot of books?
+
+M: I don't read a lot. I watch a lot of movies.
+
+P: I don't have a TV in my house, but I watch movies on my computer.
+
+**** 
+
+Luisa: Tomás, do you send and receive many emails every day?
+
+Tomás: I receive a lot of emails, but I don't send a lot of emails. 
+Do you receive a lot of emails?
+
+L: I receive a lot of spam ['spæm].
