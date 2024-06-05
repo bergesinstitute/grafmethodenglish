@@ -171,6 +171,8 @@ I: My bedroom is a closet.
 
     watch [wɑtʃ] - ver / mirar
 
+    wear [wɛr] - llevar (algo puesto)
+
     work [wərk] - trabajar
 
     write [raɪt] - escribir

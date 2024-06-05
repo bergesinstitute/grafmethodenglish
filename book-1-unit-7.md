@@ -32,11 +32,11 @@
 
     foot [fʊt] - pie
 
-Algunas partes del cuerpo tienen plural irregular:
+*Tooth* y *foot* tienen plural irregular:
 
-    teeth [tiːθ] - dientes
+    teeth [ti:θ] - dientes
 
-    feet [fiːt] - pies
+    feet [fi:t] - pies
 
 # Números del 0 al 100 en inglés
 
@@ -157,6 +157,8 @@ P: I'm twenty-seven.
 
 # ¿Qué hora es?
 
+## Pedir y dar la hora
+
     time [taɪm] - tiempo / hora
 
 Esta es la fórmula para pedir la hora en inglés:
@@ -200,6 +202,8 @@ hacemos algo cada día a una hora determinada (voy al gimnasio cada día a las t
 
 En español, usamos *a las* (o *a la* para la una). En inglés, usamos *at*.
 
+Para preguntar, en español usamos *a qué hora*. En inglés usamos *what time*.
+
     What time do you eat breakfast?
 
     I eat breakfast at 7 am.
@@ -223,7 +227,7 @@ llevan algún extra. Aquí van algunos:
 
     shave [ʃeɪv] - afeitarse
 
-    brush your teeth [brʌʃ jɔ:r tiːθ] - lavarse los dientes
+    brush your teeth [brʌʃ jɔ:r ti:θ] - lavarse los dientes
 
     shower ['ʃaʊər] - ducharse
 
@@ -235,9 +239,36 @@ llevan algún extra. Aquí van algunos:
 
     go to bed [goʊ tu bɛd] - acostarse
 
-    fall asleep [fɔːl ə'sliːp] - dormirse
+    fall asleep [fɔ:l ə'sli:p] - dormirse
 
 En español, decimos *los dientes* y *la cara*. En inglés tenemos que usar
 un posesivo: *I wash my face, you wash your face, we brush our teeth,* etc.
 
 > En *dressed*, *ed* se pronuncia como una T.
+
+# Conversation
+
+Pérez: Hi Silvia, what time to you get up every morning?
+
+Silvia: Hi Pérez. I get up at seven every morning.
+
+P: Do you wash your face every morning?
+
+S: Yes, I wash my face every morning and every night.
+
+P: What time do you take the subway?
+
+S: I take the subway at nine.
+
+P: What time do you go to bed every day?
+
+S: I go to bed at eleven, what time do you go to bed?
+
+P: I go to bed at eleven thirty.
+
+# Laura and I
+
+Laura and I get up at 7 am every morning. We wash our faces, we brush our teeth, and we eat breakfast.
+At 8, we shower. I shave at 8:30. At 9, we get dressed. We work from 10 am to 6 pm. At 6:15 we go home.
+We then go to the gym, watch TV, and eat dinner. We usually go to bed at 10 pm.
+
