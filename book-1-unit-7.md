@@ -272,3 +272,139 @@ Laura and I get up at 7 am every morning. We wash our faces, we brush our teeth,
 At 8, we shower. I shave at 8:30. At 9, we get dressed. We work from 10 am to 6 pm. At 6:15 we go home.
 We then go to the gym, watch TV, and eat dinner. We usually go to bed at 10 pm.
 
+# Ejercicios
+
+## 1. Responde, usando oraciones completas
+
+1. What's your favorite food?
+2. What's your favorite city?
+3. Where do you live?
+4. Do you work in an office?
+5. Do you walk to your office?
+6. Do you eat dinner with your friends at a restaurant every Saturday?
+7. Do you eat pizza on Tuesday evenings?
+8. Do you usually buy a lot of shoes?
+9. Do you always cook on Sunday nights?
+10. What time do you usually eat dinner?
+11. How old are you?
+12. How old is your friend?
+13. What time do you go to your office?
+14. What time do you study Spanish?
+
+## 2. Traduce
+
+1. Mi hermana vive en Madrid.
+2. Siempre escribo cartas a mi primo.
+3. A veces recibo cartas de mi amigo David.
+4. Vivo en Barcelona y mi amigo vive en Valencia.
+5. ¿Vives en Granada?
+6. Ellos venden muchos sofás.
+7. ¿Escribes mucho?
+8. María envía correos electrónicos a Mario cada día.
+9. ¿Cuántas sillas hay en tu apartamento?
+10. Usted vive en Barcelona.
+11. ¿Sara y Pedro viven en Valencia?
+12. Ustedes no venden sillas.
+13. ¿Escribes cartas o escribes correos electrónicos?
+14. El Corte Inglés abre los sábados.
+15. Nosotros vamos al gimnasio cada día y tenemos brazos grandes.
+16. Su cabeza es pequeña pero su nariz es grande.
+17. ¿A qué hora te levantas?
+18. Tengo dos ojos azules.
+19. Voy al gimnasio a las 7 de la mañana cada día.
+20. Nuestras orejas son grandes y nuestras bocas son rojas.
+21. Su pelo es negro.
+22. Mis dientes son blancos.
+
+## 3. Escribe los números
+
+5
+
+13
+
+17
+
+32
+
+28
+
+22
+
+53
+
+68
+
+51
+
+80
+
+93
+
+11
+
+24
+
+48
+
+59
+
+67
+
+76
+
+79
+
+72
+
+## 4. What time is it?
+
+2:45
+
+5:24
+
+9:05
+
+11:40
+
+6:00
+
+7:15
+
+8:58
+
+10:00
+
+1:17
+
+1:59
+
+4:32
+
+2:08
+
+6:10
+
+6:50
+
+1:44
+
+2:30
+
+## 5. Traduce
+
+1. Juan se levanta a las 7 de la mañana.
+2. Yo siempre me cepillo los dientes a las 8 de la mañana.
+3. Sara se lava la cara cada día.
+4. Ellos se acuestan a las 11 de la noche los sábados.
+5. Juan se afeita cada día.
+6. Ella siempre se ducha en el gimnasio.
+7. ¿A qué hora te vistes cada día?
+
+## 6. Responde, usando oraciones completas
+
+1. What time do you get up?
+2. What time do you go to bed?
+3. Do you always shower in the morning?
+4. What dime do you shower?
+5. Do you wash your face every day?
+6. Do you brush your teeth every night?

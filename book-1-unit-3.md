@@ -4,7 +4,7 @@
     
     Second-person singular: your [jɔ:r] - tu / tus
     
-    Third-person singular: his [hɪz], her [hər] - su / sus
+    Third-person singular: his [hɪz], her [hər], its [ɪts] - su / sus
     
     First-person plural: our [aʊr] - nuestro / nuestra / nuestros / nuestras
     
@@ -94,7 +94,9 @@ al final (*from*, en el ejemplo anterior).
 # Cosas favoritas, en inglés
 
 Para preguntar ¿cuál es to X favorito? en inglés usaremos *what* (qué) en
-lugar de *which* (cuál).
+lugar de *which* (cuál). Además, es muy común usar la contracción *what's* [wəts],
+que es lo mismo que *what is*.
+
 
     What's your favorite color? - ¿Cuál es tu color favorito?
 

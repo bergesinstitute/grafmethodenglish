@@ -108,7 +108,55 @@ artículo, como hacemos en español.
 
     He likes dogs. (Le gustan los perros).
 
+# Ejercicios
 
+## 1. Responde, usando oraciones completas
 
+1. How many shoes do you have?
+2. How many pants do you have?
+3. Do you sometimes wear a suit?
+4. How many t-shirts are there in your house?
+5. How many coats do you have?
+6. Do you have a lot of dresses?
+7. Do you sometimes wear a skirt?
 
-    
+## 2. Traduce
+
+1. Tengo una bufanda para ti.
+2. Compro un traje por noventa euros.
+3. Tengo dos camisas para ella.
+4. Siempre compro vestidos para ellos.
+5. ¿Es el libro para mí?
+6. La canción es para él.
+7. La carta es para ellas.
+8. El coche es para nosotros.
+9. Los zapatos son para mí.
+
+## 3. Responde, usando oraciones completas
+
+1. Do you like to dance?
+2. Do you like to read boos?
+3. Does your friend like to go to the gym?
+4. Do you like to cook?
+5. Do you like cats?
+6. Does your friend like cats?
+
+## 4. Traduce
+
+1. ¿Te gusta cocinar?
+2. A Sandra le gustan los gatos.
+3. A Pedro no le gustan los perros.
+4. Te gusta Juan.
+5. ¿Te gusta Juan?
+6. No te gusta Juan.
+
+## 5. Dibuja un monstruo con:
+
+- Two heads
+- Four eyes
+- Four ears
+- Three arms
+- A lot of hair in the heads in its heads
+- Four legs
+- Two very large mouths
+- Very sharp [ʃɑ:p] teeth (dientes muy afilados)

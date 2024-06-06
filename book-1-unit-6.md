@@ -226,6 +226,30 @@ como en español:
 
     San Francisco is a city in California. (San Francisco es una ciudad en California).
 
+# Good / bad / well / badly
+
+    good [gʊd] - bueno (adjetivo)
+
+    bad [bæd] - malo (adjetivo)
+
+    well [wɛl] - bien (adverbio)
+
+    badly ['bædli] - mal (adverbio)
+
+Como *good* y *bad* son adjetivos, solamente podemos usarlos para modificar sustantivos. Las
+personas o las cosas pueden ser buenas o malas.
+
+    The song is good. (La canción es buena).
+    
+    The song is bad. (La canción es mala).
+
+*Well* y *badly* son adverbios. Los usamos para modificar verbos, o en otras palabras, para
+expresar cómo de bien o mal hacemos una acción.
+
+    I sing well. (Yo canto bien).
+
+    I sing badly. (Yo canto mal).
+
 # Conversations
 
 Alberto: Hi Nuria. Where do you work?
@@ -274,3 +298,68 @@ Tomás: I receive a lot of emails, but I don't send a lot of emails.
 Do you receive a lot of emails?
 
 L: I receive a lot of spam ['spæm].
+
+# Ejercicios
+
+## 1. Traduce
+
+1. Camino en el parque cada día.
+2. Tú bailas con Rita.
+3. Trabajamos en una tienda.
+4. Ustedes no cocinan los lunes.
+5. Ellas siempre estudian en la escuela.
+6. ¿Tocas la guitarra?
+7. No toco el piano.
+8. Trabajo en una tienda y mi hermana trabaja en una oficina.
+9. ¿Trabajas en un restaurante?
+10. A veces trabajo con Pedro, a veces con María.
+11. Siempre canto y bailo en mi cuarto.
+12. Siempre cocino en mi apartamento los viernes por la noche.
+13. Leo muchos libros.
+14. No entiendo a Pedro.
+15. Ellos no venden guitarras, ellos venden pianos.
+
+## 2. Escribe una conversación usando los verbos y los sustantivos que hemos visto hasta ahora
+
+## 3. Responde
+
+1. Do you drink a lot of Coca-Cola?
+2. Do you eat pizza every day?
+3. Do you sometimes eat at McDonald's?
+4. Do you read Forbes every week?
+5. Do you write a lot on your computer?
+6. Do you sing in your bedroom?
+7. Do you dance in the club every Friday?
+
+## 4. Mi familia
+
+    friends [frɛndz] - amigos
+
+I live in Barcelona. I have one sister. My sister lives in Granada, and
+my parents live in Alicante. My grandfather lives in Badajoz. My sister
+has two sons and one daughter. I have two uncles and one aunt, and I
+have five cousins. My cousin Carlos lives in Barcelona. On Saturdays
+I play the guitar with my cousin. On Sundays I eat at a restaurant
+and I watch movies with my friends.
+
+## 5. Pronuncia los siguientes verbos, tratando de exagerar los sonidos vocálicos
+
+- Eat
+- Read
+- Sell
+- Send
+- Talk
+- Walk
+
+## 6. Traduce
+
+1. Tengo muchos zapatos.
+2. Nosotros comemos poco.
+3. Mary tiene muchas sillas negras.
+4. Mi casa no tiene muchas ventanas.
+5. Jorge tiene muchos armarios en su apartamento.
+6. Yo camino mucho en el parque los domingos.
+7. Luis escribe muchas cartas.
+8. Ana escribe muy bien.
+9. Mi tío cocina bien.
+10. Casablanca es una buena película.

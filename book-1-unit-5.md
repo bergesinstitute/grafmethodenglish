@@ -6,7 +6,7 @@
 
     room [ru:m] - habitación / cuarto
 
-    bedroom ['bɛdru:m] - habitación donde se duerme
+    bedroom ['bɛdru:m] - dormitorio
 
     living room ['lɪvɪŋ ru:m] - sala de estar / salón
 
@@ -89,6 +89,12 @@ Con sustantivos contables, diremos:
 
     There aren't any chairs. (No hay sillas).
 
+## Interrogativo
+
+En oraciones interrogativas tenemos que cambiar el orden.
+
+    How many windows are there in your house? (¿Cuántas ventanas hay en tu casa?)
+
 ## Cosas que hay en nuestra casa
 
 Para hablar de las cosas que tenemos en nuestra casa, podemos usar
@@ -163,7 +169,7 @@ I: My bedroom is a closet.
 
     talk ['tɔ:k] - hablar
 
-    understand [ʌndər'stænd] - comprender
+    understand [ʌndər'stænd] - comprender / entender
 
     walk [wɔ:k] - caminar
 
@@ -257,3 +263,62 @@ I do not have brothers or sisters. - No tengo hermanos o hermanas.
     I do dance on Friday nights. - No bailo los viernes por la noche.
 
     I do not run in the park on Saturdays. - No corro en el parque los sábados.
+
+# Ejercicios
+
+## 1. Traduce
+
+1. Una casa.
+2. Unas casas grandes.
+3. Dos sillas.
+4. Hay un sofá en mi dormitorio.
+5. Mi casa tiene dos dormitorios y un baño grande.
+6. Tengo un armario grande en mi cuarto.
+7. Hay dos ventanas en mi salón.
+8. Hay una mesa en mi cocina.
+9. Hay cuatro sillas en mi cuarto.
+10. Mi silla es roja.
+11. Mi baño es muy pequeño.
+12. La cocina de mi padre es muy pequeña.
+13. La cocina de Bob es azul.
+14. Hay un cuarto pequeño en mi apartamento.
+15. Hay dos baños en la casa de mi hermana.
+16. Mi casa tiene un salón muy grande y una cocina muy pequeña.
+17. Mi cocina no tiene una puerta, pero mi cocina tiene tres ventanas.
+
+## 2. Tu casa
+
+In my house there are two bedrooms, a living room, large kitchen, and two bathrooms.
+In my living room there are five windows, a table, four chairs, a TV, and a piano.
+
+¿Qué hay en tu casa?
+
+## 3. Traduce
+
+1. Mi madre tiene un sofá verde, y su salón es muy grande.
+2. Su padre es de Madrid, pero ella es de Montevideo.
+3. Mi apartamento es pequeño, pero mi cuarto es grande.
+4. Nuestra cocina es amarilla y su cocina es azul.
+5. Ustedes tienen un baño grande.
+6. Tenemos un armario rosa en el baño.
+7. Nuestro apartamento tiene un salón grande y una cocina pequeña.
+8. Hay cinco sillas en mi cuarto.
+9. Ana tiene dos primos.
+10. Los jueves ellos van al supermercado.
+11. My dormitorio tiene dos ventanas.
+12. Su hermana está en Valencia.
+13. Sara va a la iglesia los miércoles.
+14. Nuestra casa tiene un salón grande.
+15. ¿Tienes hermanos o hermanas?
+16. ¿Qué haces los sábados por la mañana?
+17. ¿Cuál es su película favorita?
+18. El sofá de mi madre es rojo.
+
+## 4. Pronuncia los siguientes verbos, tratando de exagerar los sonidos vocálicos
+
+- Talk
+- Walk
+- Drink
+- Dance
+- Receive
+- Sing
