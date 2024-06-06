@@ -313,9 +313,9 @@ Usamos *a* para singular y *some* para plural.
 
 En palabras que empiezan con una vocal o un sonido vocálico, *a* se convierte en *an*:
 
-    una manzana => an apple
+    una manzana => an apple [ən æpəl]
 
-    un huevo => an egg
+    un huevo => an egg [ən ɛg]
 
 ## Pronunciación de los artículos en inglés
 
