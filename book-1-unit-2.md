@@ -166,7 +166,7 @@ en una U normal.
 
     angry ['æŋgri] - enfadado / enojado
 
-    tired [taɪrd] - cansado
+    tired ['taɪərd] - cansado
 
 ## Sobre la S
 
