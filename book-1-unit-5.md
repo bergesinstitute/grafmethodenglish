@@ -127,6 +127,8 @@ I: My bedroom is a closet.
 
 # Más verbos
 
+## Lista de verbos
+
     buy [baɪ] - comprar
 
     call [kɔ:l] - llamar
@@ -185,7 +187,7 @@ I: My bedroom is a closet.
 
 > Cuidado con la L en *talk* y *walk* y la W en *write*. Se ignoran por completo.
 
-## Conjugación
+## Conjugación del presente
 
 Para conjugar los verbos en presente, simplemente tenemos que añadir
 una S a la tercera persona del singular, pronunciándola [z], que
@@ -239,9 +241,9 @@ cambia a [zɪz].
 
     nose => noses ['noʊzɪz]
 
-## Oraciones interrogativas y negativas
+# Oraciones interrogativas y negativas
 
-### Oraciones interrogativas
+## Oraciones interrogativas
 
 En las oraciones interrogativas ponemos primero el verbo *to do* conjugado,
 después el sujeto, y por último el verbo que queremos usar,
@@ -253,7 +255,7 @@ Do you have brothers or sisters? - ¿Tienes hermanos o hermanas?
 
     Do you run in the park on Saturdays? - ¿Corres en el parque los sábados?
 
-### Oraciones negativas
+## Oraciones negativas
 
 En las oraciones negativas ponemos primero el sujeto, después el verbo *to do* en
 negativo, conjugado, y por último el verbo que queremos usar, en infinitivo.

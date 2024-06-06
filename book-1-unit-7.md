@@ -215,7 +215,7 @@ Para preguntar, en español usamos *a qué hora*. En inglés usamos *what time*.
 # Verbos de rutina diaria y cuidado personal
 
 En español, la mayoría de estos verbos son pronominales, a veces también llamados
-reflexivos: *me levanto*, me lavo la cara, me cepillo los dientes...*
+reflexivos: *me levanto, me lavo la cara, me cepillo los dientes...*
 
 En inglés, algunos son verbos normales, algunos son *phrasal verbs*, que son
 verbos que van siempre acompañados de una preposición, y algunos son verbos que además

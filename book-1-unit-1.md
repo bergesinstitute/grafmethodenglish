@@ -120,6 +120,8 @@ imitando a tu profesor.
 
 # Los pronombres personales en inglés
 
+## Los pronombres
+
 First-person singular: yo (I)
 
     Primera persona del singular: I [aɪ]

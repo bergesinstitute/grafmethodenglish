@@ -105,7 +105,7 @@ siempre van **antes** del sustantivo:
 
 # Los colores en inglés
 
-Aquí tenemos algunos colores en inglés:
+## Los colores
 
     red [rɛd] - rojo
     
@@ -150,7 +150,9 @@ Ocurre en la palabra *good* [gʊd]. Es una U que se acerca mucho a una O. Para
 esto, tenemos que tener la boca mucho más abierta de lo que la tenemos
 en una U normal.
 
-# Algunos adjetivos típicos en inglés
+# Algunos adjetivos comunes en inglés
+
+## Adjetivos comunes
 
     big [bɪg] / large [lɑrdʒ] - grande
 
@@ -168,7 +170,7 @@ en una U normal.
 
     tired ['taɪərd] - cansado
 
-## Sobre la S
+## Nota sobre la S
 
 En *sad*, la S es la misma que, por ejemplo, en la palabra *sala* en español.
 En *small*, la S es también la misma, pero en español no tenemos palabras que 
@@ -180,7 +182,7 @@ de evitar esto, y pronunciar la S sin nada antes: [smɔl].
 Otras palabras similares son *space* [speɪs] (espacio) 
 y *snail* [sneɪl] (caracol).
 
-## Sobre SH
+## El dígrafo SH
 
 Tenemos en el adjetivo *short* este nuevo sonido:
 
@@ -260,6 +262,8 @@ No tienen género ni número. Aquí va un adverbio importante:
 *I am very tired*. (Yo estoy muy cansado).
 
 # Palabras y expresiones básicas en inglés
+
+## Palabras y expresiones básicas
 
     yes [jɛs] - sí
     

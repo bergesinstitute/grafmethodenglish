@@ -137,6 +137,9 @@ de referencia.
 
 # Drinks (bebidas)
 
+Aquí tienes una lista de bebidas. No necesitas memorizarlas todas, es solamente una guía
+de referencia.
+
     water ['wɔtər] - agua
 
     shake [ʃeɪk] - batido

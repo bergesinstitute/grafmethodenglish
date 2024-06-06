@@ -216,7 +216,7 @@ V: My favorite supermarket is Mercadona.
 
 A: Where is Mercadona?
 
-V: Mercadona está en Avenida de América.
+V: Mercadona is on Avenida de América.
 
 # Ejercicios
 

@@ -150,7 +150,7 @@ artículo, como hacemos en español.
 5. ¿Te gusta Juan?
 6. No te gusta Juan.
 
-## 5. Dibuja un monstruo con:
+## 5. Dibuja un monstruo con
 
 - Two heads
 - Four eyes

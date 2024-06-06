@@ -204,7 +204,7 @@ En algunos casos tenemos dos contracciones posibles, sujeto + verbo, o verbo + *
 
 # El verbo to do (hacer) en presente
 
-## Conjugación en presente
+## Conjugación
 
     I do
 
@@ -355,4 +355,8 @@ The house ______ in Ibiza. My father's car ______ black.
 9. Su hermana y mi hija están cansadas.
 10. My primo es de Perú.
 
-## 5. Memoriza la conjugación y la pronunciación de los verbos to have, to do y to go
+## 5. Memoriza la conjugación y la pronunciación de los siguientes verbos: 
+
+- To have 
+- To do 
+- To go
