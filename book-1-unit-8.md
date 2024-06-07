@@ -22,7 +22,7 @@
 
     jacket ['dʒækɪt] - chaqueta
 
-    socks [sɑ:ks] - calcetines
+    socks [sɑks] - calcetines
 
     underwear ['ʌndərwɛər] - ropa interior
 
@@ -32,7 +32,7 @@
 
     cap [kæp] - gorra
 
-    scarf [skɑrf] - bufanda
+    scarf [skɑ:rf] - bufanda
 
     gloves [ɡlʌvz] - guantes
 
@@ -46,7 +46,7 @@ Tanto *por* como *para* se traducen normalmente como *for*.
 
     La falda es para María. => The skirt is for María.
 
-    Compro un vestido por 20 euros. => I buy a dress for 20 euros ['jʊɹoʊs].
+    Compro un vestido por 20 euros. => I buy a dress for 20 euros ['juroʊz].
 
 # Pronombres de objeto en inglés
 

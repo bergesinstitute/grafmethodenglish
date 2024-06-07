@@ -55,22 +55,26 @@ En las palabras monosílabas no se pone.
 
     ɑ: (una A minúscula escrita como se escribe a mano)
 
-Es una A todavía más abierta que la A española. Para pronunciarla puedes hacer una A abriendo la boca
-más de lo normal. Como tiene los dos puntos, es larga: AAAA.
+Es una A en la que abrimos mucho la boca verticalmente bajando mucho la barbilla,
+pero la mantenemos muy cerrada a lo ancho, y ponemos la lengua muy atrás. 
+Como casi siempre va con los dos puntos, es normalmente larga, aunque
+a veces puede ser corta ([ɑ]).
 
     ʌ (una V minúscula al revés)
 
-Es un sonido difícil para los hispanohablantes. Es una vocal que suena como entre una A
+Es una vocal que suena como entre una A
 y una O, y además es muy corta. Una manera de pronunciarla es cerrar la boca un poco como
-para una O pero tratar de fonar una A. Es importante no alargarla.
+para una O pero tratar de fonar una A. Es importante no alargarla, ya que es una vocal
+corta.
 
     ɔ (una C minúscula al revés)
 
-Es una O en la que abrimos mucho la boca y bajamos la barbilla de manera exagerada.
+Es una O en la que bajamos la barbilla de manera exagerada. A veces es corta,
+y a veces larga ([ɔ:]).
 
     æ (ligadura de las letras A y E)
 
-Es una vocal entre una A y una E, como [ə], pero mucho más abierta. Una manera de hacerla
+Es una vocal entre una A y una E, muy abierta. Una manera de hacerla
 es abriendo mucho la boca a lo ancho y llevando la lengua lo más adelante posible.
 
 ## Nota sobre la letra V
@@ -131,7 +135,7 @@ siempre van **antes** del sustantivo:
     
     brown [braʊn] - marrón
 
-## Símbolos fonéticos importantes
+## Más símbolos fonéticos importantes
 
     ɛ (épsilon minúscula)
 
@@ -142,7 +146,7 @@ manera exagerada.
 
 Muchos hispanohablantes tienen problemas con este sonido, que no
 existe en español. Aparece por ejemplo
-en los nombres James [dʒeɪmz] y John [dʒɑn]. La J tiene que sonar muy fuerte,
+en los nombres James [dʒeɪmz] y John [dʒɑ:n]. La J tiene que sonar muy fuerte,
 con mucho aire saliendo de la boca, casi como si pronunciáramos CH en 
 español.
 
@@ -156,7 +160,7 @@ en una U normal.
 
 ## Adjetivos comunes
 
-    big [bɪg] / large [lɑrdʒ] - grande
+    big [bɪg] / large [lɑ:rdʒ] - grande
 
     small [smɔl] - pequeño
 
@@ -283,7 +287,7 @@ No tienen género ni número. Aquí va un adverbio importante:
     
     house [haʊs] - casa
     
-    car [kɑr] - coche / auto
+    car [kɑ:r] - coche / auto
     
     good morning [gʊd 'mɔrnɪŋ] - buenos días
     

@@ -28,7 +28,7 @@
 
     bed [bɛd] - cama
 
-    apartment [ə'pɑrtmənt] - apartamento
+    apartment [ə'pɑ:rtmənt] - apartamento
 
 # There is / there are (hay)
 
@@ -62,7 +62,7 @@ En este caso sí que vamos a usar una contracción siempre:
 
     There isn't [ðər 'ɪzənt]
 
-    There aren't [ðər 'ɑrənt]
+    There aren't [ðər 'ɑ:rənt]
 
 En general, si queremos decir que no hay algo,
 vamos a usar una fórmula diferente de la española.

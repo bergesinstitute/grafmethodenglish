@@ -22,7 +22,7 @@
 
     skin [skɪn] - piel
 
-    arm [ɑrm] - brazo
+    arm [ɑ:rm] - brazo
 
     hand [hænd] - mano
 

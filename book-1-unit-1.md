@@ -38,7 +38,7 @@ El alfabeto inglés tiene 26 letras:
     
     Q [kju:]
     
-    R [ɑɹ]
+    R [ɑ:r]
     
     S [ɛs]
     
@@ -58,65 +58,61 @@ El alfabeto inglés tiene 26 letras:
 
 ## El Alfabeto Fonético Internacional
 
-La fonética del inglés es más compleja que la del español. Además, usa una variante del alfabeto
-latino sin ser un idioma que viene del latín. 
-
-No podemos inferir la pronunciación
-de una palabra leyéndola, como hacemos en español, porque a menudo algunas letras se 
-comportan de manera inesperada.
+La fonética del inglés es más compleja que la del español.
 
 Para aprender a pronunciar ciertas palabras, vamos a hacer uso del alfabeto fonético internacional,
-que intenta representar directamente los fonemas de las palabras.
+que intenta representar directamente los fonemas de las palabras, ya
+que, en inglés, es difícil inferir la pronunciación de una palabra
+basándonos únicamente en cómo se escribe.
 
 Es un sistema bastante complejo, así que lo vamos a simplificar en la medida de lo posible.
 
 Aquí van algunas reglas básicas:
 
-### Vocales básicas
+### Cinco fonemas vocálicos básicos
 
-Las cinco vocales del español se representan así: [a], [e], [i], [o], [u].
+Los cinco fonemas vocálicos del español se representan así: [a], [e], [i], [o], [u],
+y en español se corresponden con las letras A, E, I, O, U.
 
-Por ejemplo, la letra A en inglés se pronuncia [ei], o sea las letras E e I en español, 
-pero juntas.
+El inglés tiene estos cinco fonemas vocálicos, pero además tiene muchos otros.
 
-El inglés tiene estas cinco vocales. 
+### Fonemas vocálicos largos
 
-### Vocales largas
+El inglés tiene varios fonemas vocálicos largos. Se representan usando los dos puntos. 
+Los más típicos son [i:] y [u:].
 
-Además, el inglés a veces tiene vocales largas. Las más típicas son la I y la U.
-Se representan así: [i:], [u:].
+Cuando veamos estos símbolos, tenemos que hacer la vocal exageradamente larga:
 
-Por ejemplo, la letra E se pronuncia [i:], lo que sería una I larga: IIII...
+    [i:] => iiii
 
-Prueba a pronunciar estas dos letras:
-
-    D => DI (muy corta)
-
-    E => IIII... (muy larga, exagerando)
+    [u:] => uuuu
 
 ### La I que es casi una E
 
-Por ahora tenemos dos Is en inglés: [i], que es la misma que en español, y [i:], que es muy larga.
+Por ahora tenemos dos sonidos asociados a la letra I en inglés: 
+[i], que es el sonido de la I en español, y [i:], que es como la I en español, 
+pero muy larga.
 
 Por ejemplo la palabra *sea* (mar) se pronuncia [si]. La palabra *beet* (rábano) se pronuncia
 [bi:t].
 
-Hay una tercera I que se representa así: [ɪ] (una I mayúscula pequeña). Es una I muy corta que suena
-casi como una E. La palabra *bit* (trozo, pedazo) la usa: [bɪt].
+Hay una tercera I que se representa así: [ɪ] (una I mayúscula pequeña). 
+Suena como una I muy corta que se acerca mucho a una E. La palabra *bit* (trozo, pedazo) 
+la usa: [bɪt].
 
 Trata de exagerar la diferencia:
 
-    beet => BIIIIT
+    beet => biiiit
 
-    sea => SI, una I intermedia, como la I del español
+    sea => si, como el adverbio de afirmación en español
 
-    bit => BɪT, casi diciendo BET
+    bit => BɪT, casi diciendo bet
 
 ### Otros símbolos
 
-Hay muchos símbolos diferentes en la sección del alfabeto. Por ahora, recomendamos
-ignorar estos símbolos y tratar de memorizar la pronunciación de las letras
-imitando a tu profesor.
+Hay muchos símbolos fonéticos diferentes en la sección del alfabeto. 
+Por ahora, recomendamos ignorar estos símbolos y tratar de memorizar 
+la pronunciación de las letras imitando a tu profesor.
 
 # Los pronombres personales en inglés
 
@@ -136,8 +132,11 @@ First-person singular: yo (I)
 
     Tercera persona del plural: they [ðeɪ]
 
+> El símbolo [j] representa el sonido de la Y en español que usamos
+> en palabras como *ya* o *ayer*.
+
 De nuevo tenemos algunos símbolos fonéticos que no conocemos. Recomendamos
-tratar de usar solamente los que conocemos ([i:], [ɪ]) e ignorar los demás,
+tratar de usar solamente los que conocemos ([i:], [ɪ], [j]) e ignorar los demás,
 tratando de pronunciar los diferentes pronombres imitando a tu profesor.
 
 Solamente la tercera persona del síngular tiene género (*he, she*, pare *él,
@@ -319,6 +318,8 @@ En palabras que empiezan con una vocal o un sonido vocálico, *a* se convierte e
 
 ## Pronunciación de los artículos en inglés
 
+### El sonido ə
+
 En los tres artículos tenemos el sonido [ə] (una E minúscula al revés).
 
 Normalmente, [ə] aparece en una sílaba débil, y a veces se 
@@ -326,8 +327,11 @@ describe como una vocal ambigua, primitiva y "perezosa", emitida
 directamente desde la garganta, sin hacer mucho esfuerzo y sin abrir 
 mucho la boca. Está como entre la A, la E, y la O.
 
-Además, *the* tiene el sonido [ð], que es una de las dos pronunciaciones principales de TH en inglés.
-Es como una D, pero soltando mucho aire entre la lengua y los dientes.
+### El sonido ð
+
+Además, *the* tiene el sonido [ð], que es una de las dos maneras de las que 
+pronunciamos el dígrafo TH en inglés. Es como una D, pero soltando mucho 
+aire entre la lengua y los dientes.
 
 ## Diferencias en el uso
 
@@ -347,5 +351,13 @@ En inglés, los sustantivos genéricos o incontables al principio de una oració
 
 # Ejercicios
 
-Memoriza la conjugación del verbo *to be*. Memoriza también los siguientes símbolos fonéticos
-con su significado: [i:], [i], [ɪ], [ə], [ð].
+## 1. Memoriza la conjugación del verbo *to be*
+
+## 2. Memoriza los siguientes símbolos fonéticos con su significado 
+
+- [i:] 
+- [i] 
+- [ɪ] 
+- [j] 
+- [ə]
+- [ð]

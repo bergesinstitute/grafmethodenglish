@@ -83,7 +83,7 @@ de referencia.
 
     vegetables ['vɛdʒtəbəlz] - verduras / vegetales
 
-    artichoke ['ɑrtɪtʃoʊk] - alcachofa
+    artichoke ['ɑ:rtɪtʃoʊk] - alcachofa
 
     asparagus [ə'spærəgəs] - espárrago
 
@@ -111,7 +111,7 @@ de referencia.
 
     broccoli ['brɑkəli] - brócoli
 
-    garlic ['gɑrlɪk] - ajo
+    garlic ['gɑ:rlɪk] - ajo
 
     onion ['ʌnjən] - cebolla
 

@@ -36,7 +36,7 @@ En inglés, los días de la semana siempre van con mayúscula.
 
 # Places (lugares)
 
-    market ['mɑrkɪt] - mercado
+    market ['mɑ:rkɪt] - mercado
 
     supermarket ['supərmɑrkɪt] - supermercado
 
@@ -58,7 +58,7 @@ En inglés, los días de la semana siempre van con mayúscula.
 
     gym [dʒɪm] - gimnasio
 
-    park [pɑrk] - parque
+    park [pɑ:rk] - parque
 
     church [tʃərtʃ] - iglesia
 
