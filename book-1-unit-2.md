@@ -48,7 +48,7 @@ De nuevo, recomendamos ignorar los símbolos fonéticos que no conocemos y trata
 la pronunciación de las palabras imitando a tu profesor. Dicho esto, aquí van algunos
 símbolos fonéticos que merecen mención especial.
 
-    ' (apóstrofe, o rayita pequeña vertical)
+    ' (apóstrofe o rayita pequeña vertical)
 
 Este apóstrofe se pone antes de una sílaba que tiene acento fonético (o sea, una sílaba fuerte).
 En las palabras monosílabas no se pone.
@@ -60,22 +60,22 @@ pero la mantenemos muy cerrada a lo ancho, y ponemos la lengua muy atrás.
 Como casi siempre va con los dos puntos, es normalmente larga, aunque
 a veces puede ser corta ([ɑ]).
 
+    æ (ligadura de las letras A y E)
+
+Es una vocal muy abierta que suena como entre una A y una E. 
+Para pronunciarla, abre mucho la boca a lo ancho y pon la lengua lo más adelante posible.
+
     ʌ (una V minúscula al revés)
 
 Es una vocal que suena como entre una A
-y una O, y además es muy corta. Una manera de pronunciarla es cerrar la boca un poco como
-para una O pero tratar de fonar una A. Es importante no alargarla, ya que es una vocal
-corta.
+y una O. Para pronunciarla, cierra la boca un poco como
+para decir una O, pero trata de decir A. Es importante no alargarla, ya que es una vocal
+corta, siempre.
 
     ɔ (una C minúscula al revés)
 
 Es una O en la que bajamos la barbilla de manera exagerada. A veces es corta,
 y a veces larga ([ɔ:]).
-
-    æ (ligadura de las letras A y E)
-
-Es una vocal entre una A y una E, muy abierta. Una manera de hacerla
-es abriendo mucho la boca a lo ancho y llevando la lengua lo más adelante posible.
 
 ## Nota sobre la letra V
 
@@ -83,29 +83,31 @@ En español, pronunciamos tanto la B como la V como una B [b]. En inglés, la B 
 la V es [v], que es como una V que es casi una F, dejando salir aire entre los dientes
 y el labio inferior.
 
-## Nota sobre las vocales
+## Nota sobre los fonemas vocálicos
 
-Las vocales del inglés son complicadas, porque 1. hay muchos sonidos vocálicos, y 2. no se
+Las vocales del inglés son complicadas, porque 1. Hay muchos fonemas vocálicos, y 2. No se
 corresponden con las vocales que vemos escritas.
 
-En general, es bueno no obsesionarse con hacer todas las vocales perfectas, sino poco a poco
-tratar de imitar cómo la gente las pronuncia. En este libro hemos tratado de mantener las
+En este libro hemos tratado de mantener las
 transcripciones fonéticas bastante universales, pero muchos dialectos del inglés tienden
-a pronunciar las vocales de manera diferente, e incluso a pronunciar dos sonidos vocálicos
+a pronunciar las vocales de manera diferente, e incluso a pronunciar dos fonemas vocálicos
 que son diferentes en otros sitios de la misma manera.
 
-En algunos casos sí que merece la pena exagerar la pronunciación de las vocales.
+En general, es bueno no obsesionarse con pronunciar todos los fonemas vocálicos perfectamente, 
+sino poco a poco tratar de imitar la manera en la que la gente los pronuncia. 
+
+En algunos casos sí que merece la pena exagerar mucho la pronunciación de ciertos fonemas vocálicos.
 Por ejemplo, *leave* ['li:v] (irse) y *live* [lɪv] (vivir) se pueden confundir
-fácilmente si no las pronunciamos bien.
+fácilmente si no los pronunciamos bien.
 
 Para pronunciar *leave*, exageraremos la I larga. Para pronunciar *live*, haremos la I muy corta
-y muy cercana a una E, casi diciendo LEV.
+y muy cercana a una E, casi diciendo *lev*.
 
 # Los adjetivos en inglés
 
 Los adjetivos modifican sustantivos. En español, deben concordar en género y número
-(bolso rojo, casas rojas). En inglés los sustantivos no tienen género,
-y los adjetivos no cambian para sustantivos en singular o plural. Además,
+(*bolso rojo, casas rojas*). En inglés los sustantivos no tienen género,
+y los adjetivos no cambian cuando acompañan a sustantivos en plural. Además,
 siempre van **antes** del sustantivo:
 *red bag* (bolso rojo), *red houses* (casas rojas).
 
@@ -142,7 +144,7 @@ siempre van **antes** del sustantivo:
 Es una E muy abierta. Para hacerla, haz una E abriendo la boca a lo ancho de
 manera exagerada.
 
-    dʒ (una D seguida de la letra ezh)
+    dʒ (una D minúscula seguida de la letra ezh)
 
 Muchos hispanohablantes tienen problemas con este sonido, que no
 existe en español. Aparece por ejemplo
@@ -180,7 +182,7 @@ en una U normal.
 
 En *sad*, la S es la misma que, por ejemplo, en la palabra *sala* en español.
 En *small*, la S es también la misma, pero en español no tenemos palabras que 
-empiecen con una S que no esté acompañando a una vocal.
+empiecen con una S que no va acompañando a una vocal.
 
 Por esta razón, tendemos a añadir una E antes: [esmɔl]. Tenemos que tratar
 de evitar esto, y pronunciar la S sin nada antes: [smɔl].
@@ -322,14 +324,14 @@ En la expresión *thank you* encontramos este sonido. Muchas veces el dígrafo
 TH se pronuncia así en inglés. Este sonido existe en español,
 pero solamente en la Península Ibérica y en Guinea Ecuatorial.
 
-Es la famosa consonante fricativa linguointerdental que una persona de
+Es la famosa consonante fricativa linguointerdental sorda que una persona de
 Castilla, por ejemplo, usaría para pronunciar zapato [θa'pato] o 
 cenicero [θeni'θero]. En Latinoamérica (y en algunas zonas de España) 
 estas dos palabras se pronunciarían [sa'pato] y [seni'sero] respectivamente.
 
 ## Nota sobre la T final en inglés
 
-En *good night* [gʊd naɪt] (buenas noches) la T final se puede pronunciar de 
+En *good night* la T final se puede pronunciar de 
 dos maneras. Pronunciándola claramente, o poniendo la boca como para pronunciarla
 pero sin hacer el chasquido final de la lengua. Estas dos maneras
 se conocen como T fuerte y T suave, respectivamente. 
@@ -350,6 +352,14 @@ normalmente tratar de hacer siempre la T final fuerte.
 
     five [faɪv] - cinco
 
+## Nota sobre la T inicial en inglés
+
+En las palabras que empiezan con [t], como *two*, es común en inglés
+soltar mucho aire entre la punta de la lengua y los incisivos
+superiores, pronunciándola casi como el dígrafo CH en español,
+con la diferencia de que en [t] siempre tocamos los incisivos
+con la lengua.
+
 # Conjunciones en inglés
 
 Las conjunciones son palabras que se utilizan para unir palabras u oraciones.
@@ -360,8 +370,8 @@ Las conjunciones son palabras que se utilizan para unir palabras u oraciones.
 
     but [bʌt] - pero
 
-*And* se pronuncia de dos maneras. Cuando enfatizamos la palabra,
-pronunciamos la A [æ], pero cuando está dentro de una frase
+*And* se pronuncia de dos maneras. Cuando enfatizamos la conjunción,
+pronunciamos la A [æ], pero en la mayoría de los casos
 tendemos a pronunciar la A como [ə].
 
 *I am from Madrid and Laura is from Barcelona.*

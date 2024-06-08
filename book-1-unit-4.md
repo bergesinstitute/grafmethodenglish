@@ -12,7 +12,7 @@
 
     month [mʌnθ] - mes
 
-    year [jɪr] - año
+    year [jɪər] - año
 
 # Los días de la semana, en inglés
 
@@ -114,7 +114,7 @@ implícito, tanto en inglés como en español, es *cada lunes*.
 
 # ¿Qué haces los lunes?
 
-Para preguntar *qué haces*, necesitamos usar el verbo *to do*, que significa hacer,
+Para preguntar *qué haces*, necesitamos usar el verbo *to do*, que significa *hacer,*
 pero como es una pregunta, necesitamos también usar el verbo *to do* como verbo auxiliar:
 
     What do you do on Mondays? - ¿Qué haces los lunes?

@@ -12,7 +12,7 @@
 
     kitchen ['kɪtʃən] - cocina
 
-    bathroom ['bæθru:m] - baño
+    bathroom ['bɑːθru:m] - baño
 
     closet ['klɑzɪt] - armario
 
@@ -45,7 +45,7 @@ o presencia de algo. No cambia con el género y el número:
     
     Hay unas guitarras.
 
-En inglés, usaremos *there is* [ðər is] para singular y *there are*
+En inglés, usaremos *there is* [ðər ɪz] para singular y *there are*
 [ðər ɑ:r] para plural:
 
     There is a piano.
@@ -122,9 +122,6 @@ J: Does your bedroom have a closet?
 
 I: My bedroom is a closet.
 
-> *En inglés preguntamos *what color*, literlamente *qué color*, en lugar
-> de *de qué color*.
-
 # Más verbos
 
 ## Lista de verbos
@@ -133,7 +130,7 @@ I: My bedroom is a closet.
 
     call [kɔ:l] - llamar
 
-    close [kləʊz] - cerrar
+    close [kloʊz] - cerrar
 
     cook [kʊk] - cocinar
 
@@ -249,22 +246,26 @@ En las oraciones interrogativas ponemos primero el verbo *to do* conjugado,
 después el sujeto, y por último el verbo que queremos usar,
 en infinitivo.
 
-Do you have brothers or sisters? - ¿Tienes hermanos o hermanas?
+    Do you have brothers or sisters? - ¿Tienes hermanos o hermanas?
 
     Do you dance on Friday nights? - ¿Bailas los viernes por la noche?
 
     Do you run in the park on Saturdays? - ¿Corres en el parque los sábados?
+
+    Does your sister run in the park on Saturdays? - ¿Tu hermana corre en el parque los sábados?
 
 ## Oraciones negativas
 
 En las oraciones negativas ponemos primero el sujeto, después el verbo *to do* en
 negativo, conjugado, y por último el verbo que queremos usar, en infinitivo.
 
-I do not have brothers or sisters. - No tengo hermanos o hermanas.
+    I do not have brothers or sisters. - No tengo hermanos o hermanas.
 
-    I do dance on Friday nights. - No bailo los viernes por la noche.
+    I do not dance on Friday nights. - No bailo los viernes por la noche.
 
     I do not run in the park on Saturdays. - No corro en el parque los sábados.
+
+    Your sister does not run in the park on Saturdays. - Tu hermana no corre en el parque los sábados.
 
 # Ejercicios
 
@@ -316,7 +317,7 @@ In my living room there are five windows, a table, four chairs, a TV, and a pian
 17. ¿Cuál es su película favorita?
 18. El sofá de mi madre es rojo.
 
-## 4. Pronuncia los siguientes verbos, tratando de exagerar los sonidos vocálicos
+## 4. Pronuncia los siguientes verbos, tratando de exagerar los fonemas vocálicos
 
 - Talk
 - Walk

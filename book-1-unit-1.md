@@ -325,7 +325,7 @@ En los tres artículos tenemos el sonido [ə] (una E minúscula al revés).
 Normalmente, [ə] aparece en una sílaba débil, y a veces se 
 describe como una vocal ambigua, primitiva y "perezosa", emitida
 directamente desde la garganta, sin hacer mucho esfuerzo y sin abrir 
-mucho la boca. Está como entre la A, la E, y la O.
+mucho la boca, con los labios y la lengua completamente relajados.
 
 ### El sonido ð
 

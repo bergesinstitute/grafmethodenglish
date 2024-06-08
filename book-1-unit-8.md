@@ -16,7 +16,7 @@
 
     belt [bɛlt] - cinturón
 
-    suit [su:t] - traje
+    suit [sju:t] - traje
 
     sweater ['swɛtər] - jersey / suéter
 
@@ -81,13 +81,19 @@ Si en lugar de *gustar* o *encantar* usamos el verbo *amar*, la cosa cambia:
 
     Amo Madrid. Sujeto: Yo. Objeto: Madrid.
 
-En inglés, el verbo *like* funciona como el verbo *amar*.
+En inglés, el verbo *like*, aunque se usa para decir que algo nos gusta, funciona como el verbo *amar*.
 
     I like Madrid. (Me gusta Madrid).
 
     He likes Laura. (A él le gusta Laura).
 
-Para oraciones negativas, tenemos que usar el verbo auxiliar *to do*, como siempre:
+Para oraciones interrogativas, tenemos que usar el verbo auxiliar *to do*, como siempre:
+
+    Do you like Madrid? (¿Te gusta Madrid?)
+
+    Does he like Laura? (¿A él le gusta Laura?)
+
+Y para oraciones negativas, lo mismo:
 
     I do not like Madrid. (No me gusta Madrid).
 

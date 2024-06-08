@@ -32,8 +32,7 @@ Aquí tenemos una fórmula básica que funciona en todo el mundo:
 
     Nice to meet you. - Encantado de conocerte.
 
-> En inglés solamente usamos el signo interrogativo final (?). Lo
-> mismo con el signo exclamativo (!).
+> En inglés solamente usamos los signos interrogativo y exclamativo finales (?), (!).
 
 # Preguntas en inglés con el verbo to be
 
@@ -49,9 +48,9 @@ Aquí tenemos una fórmula básica que funciona en todo el mundo:
 
     who [hu:] - quién
 
-    how much [haʊ mʌtʃ] - cuánto (para incontable)
+    how much [haʊ mʌtʃ] - cuánto (para sustantivos incontables)
 
-    how many [haʊ 'mɛni] - cuántos / cuántas (para contable)
+    how many [haʊ 'mɛni] - cuántos / cuántas (para sustantivos contables)
 
     why [waɪ] - por qué
 
@@ -71,7 +70,7 @@ Ejemplo en inglés:
 
 ## Ejemplos
 
-    Where are your from? - ¿De dónde eres? (Lit. ¿Dónde eres tú de?)
+    Where are you from? - ¿De dónde eres? (Lit. ¿Dónde eres tú de?)
 
     I am from Madrid. - Soy de Madrid.
 
@@ -93,7 +92,7 @@ al final (*from*, en el ejemplo anterior).
 
 # Cosas favoritas, en inglés
 
-Para preguntar ¿cuál es to X favorito? en inglés usaremos *what* (qué) en
+Para preguntar ¿cuál es tu X favorito? en inglés usaremos *what* (qué) en
 lugar de *which* (cuál). Además, es muy común usar la contracción *what's* [wəts],
 que es lo mismo que *what is*.
 
@@ -107,7 +106,7 @@ que es lo mismo que *what is*.
     My favorite animal is the cat. - Mi animal favorito es el gato.
 
 > Para nuestro color favorito, en lugar de decir
-> mi color favorito es el X, diremos my favorite color is X, 
+> *mi color favorito es el X,* diremos *my favorite color is X,* 
 > sin artículo.
 
 Aquí tenemos otros sustantivos que podemos usar en este tipo de 
@@ -131,7 +130,7 @@ conversaciones:
 
     you have
 
-    he / she /it has
+    he / she / it has
 
     we have
 
@@ -170,7 +169,7 @@ la vocal casi desaparece, y se termina pronunciando:
 
 En las oraciones afirmativas, podemos contraer el pronombre y el verbo:
 
-    I have => I 've
+    I have => I've
 
     you have => you've
 
@@ -210,7 +209,7 @@ En algunos casos tenemos dos contracciones posibles, sujeto + verbo, o verbo + *
 
     you do
 
-    he / she /it does
+    he / she / it does
 
     we do
 
@@ -293,7 +292,7 @@ en infinitivo.
 
     you go
 
-    he / she /it goes
+    he / she / it goes
 
     we go
 

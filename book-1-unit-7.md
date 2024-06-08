@@ -127,6 +127,14 @@ se pronuncia ['twɛnti wʌn].
 
 79 - Seventy-nine
 
+## El sonido z
+
+Cuando está al final de una palabra, [z] suena muy parecido a [s], aunque si escuchamos
+bien [z] tiene una pequeña vibración de las cuerdas vocales que [s] no tiene.
+
+Cuando está al principio de una palabra, como en el número 0, debemos exagerar
+esta vibración, como si imitáramos el zumbido de una abeja.
+
 # Tener años, en inglés
 
 ## Somos "X años viejos"
@@ -197,7 +205,7 @@ las 12 pm, y después de las 11 pm van las 12 am.
 
 ## Hacer algo a una hora determinada
 
-Es diferente dar la hora a alguien (son las tres y veinte) y decir que
+Es diferente dar la hora a alguien (son las tres y veinte) que decir que
 hacemos algo cada día a una hora determinada (voy al gimnasio cada día a las tres y veinte).
 
 En español, usamos *a las* (o *a la* para la una). En inglés, usamos *at*.

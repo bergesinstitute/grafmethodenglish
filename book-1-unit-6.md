@@ -118,7 +118,7 @@ Aquí tenemos los ejemplos anteriores traducidos al inglés:
 
     little salt
 
-Con sustantivos incontables, usamos *many* y *few*:
+Con sustantivos contables, usamos *many* y *few*:
 
     many ['mɛni]
     
@@ -134,7 +134,8 @@ Aquí tenemos los ejemplos anteriores traducidos al inglés:
 
     few windows
 
-That said, people tend to use *a lot of* and *not many* often:
+Dicho esto, la gente suele usar normalmente *a lot of* y *not many* en lugar
+de *many* y *few*:
 
     a lot of closets
 
@@ -193,7 +194,7 @@ entre el sujeto y el verbo.
 
     I usually drink water in the morning. 
 
-    I always cook on Mondays.
+    Alberto always cooks on Mondays.
 
 ### Oraciones interrogativas
 
@@ -202,16 +203,16 @@ y el verbo:
 
     Do you usually drink water in the morning?
 
-    Do you always cook on Mondays?
+    Does Alberto always cook on Mondays?
 
 ### Oraciones negativas
 
 En las oraciones negativas, normalmente la ponemos entre *don't* 
 / *doesn't* y el verbo:
 
-    I usually drink water in the morning.
+    I don't usually drink water in the morning.
 
-    I don't always cook on Mondays.
+    Albeto doesn't always cook on Mondays.
 
 # Present simple
 
@@ -344,7 +345,7 @@ have five cousins. My cousin Carlos lives in Barcelona. On Saturdays
 I play the guitar with my cousin. On Sundays I eat at a restaurant
 and I watch movies with my friends.
 
-## 5. Pronuncia los siguientes verbos, tratando de exagerar los sonidos vocálicos
+## 5. Pronuncia los siguientes verbos, tratando de exagerar los fonemas vocálicos
 
 - Eat
 - Read
