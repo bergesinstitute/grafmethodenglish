@@ -141,7 +141,7 @@ artículo, como hacemos en español.
 ## 3. Responde, usando oraciones completas
 
 1. Do you like to dance?
-2. Do you like to read boos?
+2. Do you like to read books?
 3. Does your friend like to go to the gym?
 4. Do you like to cook?
 5. Do you like cats?
@@ -162,7 +162,7 @@ artículo, como hacemos en español.
 - Four eyes
 - Four ears
 - Three arms
-- A lot of hair in the heads in its heads
+- A lot of hair in its heads
 - Four legs
 - Two very large mouths
 - Very sharp [ʃɑ:p] teeth (dientes muy afilados)

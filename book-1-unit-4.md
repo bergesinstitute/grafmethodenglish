@@ -4,7 +4,7 @@
 
     minute ['mɪnɪt] - minuto
 
-    hour [aʊr] - hora
+    hour ['aʊr] - hora
 
     day [deɪ] - día
 
@@ -70,7 +70,7 @@ En inglés, los días de la semana siempre van con mayúscula.
 
 # La preposición to
 
-    to [tu]  - a
+    to [tu] - a
 
 *I go to the synagogue.* (Voy a la sinagoga).
 
@@ -241,7 +241,7 @@ Necesitarás usar el verbo auxiliar *to do* en las preguntas.
 2. Where ___________ they ___________ on Wednesdays? On Wednesdays they ___________ to the park.
 3. Where ___________ your grandmother ___________ on Sundays? On Sundays my grandmother ___________ to church.
 4. Where ___________ you ___________ on Thursdays? On Thursdays we ___________ to the club.
-5. Where ___________ she ___________ on Fridays? On Fridays whe ___________ to the gym.
+5. Where ___________ she ___________ on Fridays? On Fridays she ___________ to the gym.
 
 ## 3. Completa, usando to do en las preguntas y to go en las respuestas
 

@@ -6,11 +6,11 @@ El alfabeto inglés tiene 26 letras:
 
     A [ei]
     
-    B [bi]
+    B [bi:]
     
-    C [si]
+    C [si:]
     
-    D [di]
+    D [di:]
     
     E [i:]
     
@@ -67,8 +67,6 @@ basándonos únicamente en cómo se escribe.
 
 Es un sistema bastante complejo, así que lo vamos a simplificar en la medida de lo posible.
 
-Aquí van algunas reglas básicas:
-
 ### Cinco fonemas vocálicos básicos
 
 Los cinco fonemas vocálicos del español se representan así: [a], [e], [i], [o], [u],
@@ -106,19 +104,17 @@ Trata de exagerar la diferencia:
 
     sea => si, como el adverbio de afirmación en español
 
-    bit => BɪT, casi diciendo bet
+    bit => bɪt, casi diciendo bet
 
 ### Otros símbolos
 
-Hay muchos símbolos fonéticos diferentes en la sección del alfabeto. 
+Hay muchos símbolos fonéticos diferentes presentes en la sección del alfabeto. 
 Por ahora, recomendamos ignorar estos símbolos y tratar de memorizar 
 la pronunciación de las letras imitando a tu profesor.
 
 # Los pronombres personales en inglés
 
 ## Los pronombres
-
-First-person singular: yo (I)
 
     Primera persona del singular: I [aɪ]
 
@@ -136,7 +132,7 @@ First-person singular: yo (I)
 > en palabras como *ya* o *ayer*.
 
 De nuevo tenemos algunos símbolos fonéticos que no conocemos. Recomendamos
-tratar de usar solamente los que conocemos ([i:], [ɪ], [j]) e ignorar los demás,
+tratar de usar solamente los que conocemos ([a], [e], [i:], [ɪ], [u:], [j]) e ignorar los demás,
 tratando de pronunciar los diferentes pronombres imitando a tu profesor.
 
 Solamente la tercera persona del síngular tiene género (*he, she*, pare *él,
@@ -160,8 +156,8 @@ como *you*.
 ## To be
 
 En español, tenemos dos verbos que equivalen a *to be*: *ser* y *estar*.
-*Ser* en español implica atributos que definen a algo o a alguien
-(ser alto, ser grande, ser de un color), mientras *estar* implica 
+*Ser* en español se usa con atributos que definen a algo o a alguien
+(ser alto, ser grande, ser de un color), mientras que *estar* se usa con atributos que implican 
 estados (estar roto, estar ocupado) o ubicación (estar aquí, estar en Zaragoza).
 
 En inglés, todo esto se expresa con *to be*. 
@@ -207,25 +203,25 @@ después del verbo.
 
     We are not from Madrid. (Nosotros no somos de Madrid).
 
-    Juan is not in Valencia. (Juan está en Valencia).
+    Juan is not in Valencia. (Juan no está en Valencia).
 
 ## Contracciones
 
 En las oraciones afirmativas, podemos contraer el pronombre y el verbo:
 
-    I am => I'm
+    I am => I'm [aɪm]
 
-    you are => you're
+    you are => you're [jʊr]
 
-    he is => he's
+    he is => he's [hiːz]
 
-    she is => she's
+    she is => she's [ʃiːz]
 
-    it is => it's
+    it is => it's [ɪts]
 
-    we are => we're
+    we are => we're [wiːər]
 
-    they are => they're
+    they are => they're [ðeɪər]
 
 >Aunque es importante conocerlas, en general para gente que habla inglés como segunda
 lengua es más fácil evitar usarlas hasta que no se tenga un nivel bastante avanzado, 
@@ -233,11 +229,11 @@ ya que su pronunciación es difícil.
 
 En las oraciones negativas podemos contraer el verbo y la partícula negativa en estos casos:
 
-    is not => isn't
+    is not => isn't ['ɪzənt]
 
-    are not => aren't
+    are not => aren't ['ɑrənt]
 
-En algunos casos tenemos dos contracciones posibles, sujeto + verbo, o verbo + *not:*
+Por lo que en las personas que usan *is* o *are* tenemos dos contracciones posibles: sujeto + verbo y verbo + *not:*
 
     she is not => she's not / she isn't
 
@@ -256,7 +252,7 @@ añadimos S al final, o si termina en S, SH, CH, X o Z, añadimos ES.
 
     whish => wishes (deseo => deseos)
 
-Si un sustantivo termina en Y, para construir el plural cambiamos Y por I:
+Si un sustantivo termina en Y, para construir el plural cambiamos Y por I y añadimos ES:
 
     city => cities (ciudad => ciudades)
 
@@ -266,7 +262,9 @@ Si un sustantivo termina en Y, para construir el plural cambiamos Y por I:
 
 ## Tipos de artículos
 
-Existen dos tipos de artículos, tanto en inglés como en español. En español, tenemos cuatro artículos
+Existen dos tipos de artículos, tanto en inglés como en español: artículos determinados y artículos indeterminados.
+
+En español, tenemos cuatro artículos
 determinados (*el, la, los, las*) que usamos con sustantivos que nuestro interlocutor conoce o 
 puede identificar. Por ejemplo, si le digo a Sara que estuve en *el restaurante* anoche, 
 estoy asumiendo que Sara sabe de qué restaurante estoy hablando.
@@ -336,8 +334,8 @@ aire entre la lengua y los dientes.
 ## Diferencias en el uso
 
 Los artículos funcionan de manera muy similar en inglés y en español. Solo hay una 
-excepción importante. En español, sustantivos genéricos o incontables al principio 
-de una oración deben tener un artículo determinado:
+excepción importante. En español, los sustantivos genéricos o incontables que van al principio 
+de una oración deben ir precedidos de un artículo determinado:
 
     Los gatos son divertidos.
 

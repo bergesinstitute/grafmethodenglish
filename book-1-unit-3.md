@@ -1,16 +1,16 @@
 # Adjetivos posesivos en inglés
 
-    First-person singular: my [maɪ] - mi / mis
+    Primera persona del singular: my [maɪ] - mi / mis
     
-    Second-person singular: your [jɔ:r] - tu / tus
+    Segunda persona del singular: your [jɔ:r] - tu / tus
     
-    Third-person singular: his [hɪz], her [hər], its [ɪts] - su / sus
+    Tercera persona del singular: his [hɪz], her [hər], its [ɪts] - su / sus
     
-    First-person plural: our [aʊr] - nuestro / nuestra / nuestros / nuestras
+    Primera persona del plural: our [aʊr] - nuestro / nuestra / nuestros / nuestras
     
-    Second-person plural: your [jɔ:r] - vuestro / vuestra / vuestros / vuestras
+    Segunda persona del plural: your [jɔ:r] - vuestro / vuestra / vuestros / vuestras
     
-    Third-person plural: their [ðər] - su / sus
+    Tercera persona del plural: their [ðər] - su / sus
 
 Mientras que en español tenemos diferentes adjetivos posesivos para una o más
 de una cosa poseída (*mi gato, mis gatos*), en inglés el adjetivo posesivo
@@ -48,7 +48,7 @@ Aquí tenemos una fórmula básica que funciona en todo el mundo:
 
     who [hu:] - quién
 
-    how much [haʊ mʌtʃ] - cuánto (para sustantivos incontables)
+    how much [haʊ mʌtʃ] - cuánto / cuánta (para sustantivos incontables)
 
     how many [haʊ 'mɛni] - cuántos / cuántas (para sustantivos contables)
 
@@ -78,7 +78,7 @@ Ejemplo en inglés:
 
     Madrid is in Spain. - Madrid está en España.
 
-## Inversión del verbo y el pronombre
+## Inversión del verbo y el sujeto
 
 Cuando hacemos preguntas en inglés, cambiamos el orden del sujeto
 y el verbo.
@@ -169,21 +169,21 @@ la vocal casi desaparece, y se termina pronunciando:
 
 En las oraciones afirmativas, podemos contraer el pronombre y el verbo:
 
-    I have => I've
+    I have => I've [aɪv]
 
-    you have => you've
+    you have => you've [juːv]
 
-    he has => he's
+    he has => he's [hiːz]
     
-    she has => she's
+    she has => she's [ʃiːz]
     
-    it has => it's
+    it has => it's [ɪts]
 
-    we have => we've
+    we have => we've [wiːv]
 
-    you have => you've
+    you have => you've [juːv]
 
-    they have => they've
+    they have => they've [ðeɪv]
 
 >Aunque es importante conocerlas, en general para gente que habla inglés como segunda
 lengua es más fácil evitar usarlas hasta que no se tenga un nivel bastante avanzado,
@@ -191,11 +191,11 @@ ya que su pronunciación es difícil.
 
 En las oraciones negativas podemos contraer el verbo y la partícula negativa en estos casos:
 
-    have not => haven't
+    have not => haven't ['hævənt]
 
-    has not => hasn't
+    has not => hasn't ['hæzənt]
 
-En algunos casos tenemos dos contracciones posibles, sujeto + verbo, o verbo + *not:*
+Por lo que tenemos, en todas las personas, dos contracciones posibles: sujeto + verbo y verbo + *not:*
 
     she has not => she's not / she hasn't
 
@@ -226,7 +226,7 @@ Las dos conjugaciones del verbo *to do* se pronuncian así:
 
     do [du:]
 
-    has [dʌz]
+    does [dʌz]
 
 ## Contracciones
 
@@ -234,9 +234,9 @@ Con el verbo *to do*, no hay contracciones de sujeto + verbo.
 Las dos únicas contracciones permitidas son entre el verbo
 y la partícula negativa:
 
-    do not => don't
+    do not => don't [doʊnt]
 
-    does not => doesn't
+    does not => doesn't ['dʌzənt]
 
 ## Uso
 
@@ -309,7 +309,7 @@ Las dos conjugaciones del verbo *to go* se pronuncian así:
 
     go [goʊ]
 
-    goes [ɡəʊz]
+    goes [ɡoʊz]
 
 # Ejercicios
 

@@ -65,14 +65,14 @@ En este caso sí que vamos a usar una contracción siempre:
     There aren't [ðər 'ɑ:rənt]
 
 En general, si queremos decir que no hay algo,
-vamos a usar una fórmula diferente de la española.
+vamos a usar una fórmula diferente de la fórmula que usamos en español.
 
 ### Sustantivos incontables
 
 Los sustantivos incontables no se pueden
 contar en unidades. *Sal* o *azúcar* son dos ejemplos.
-Decimos mucha sal o poca sal, pero no decimos tres sales 
-o dos azúcares.
+Decimos *mucha sal* o *poca sal,* pero no decimos *tres sales* 
+o *dos azúcares.*
 
 Con sustantivos incontables, diremos:
 
@@ -82,7 +82,7 @@ Con sustantivos incontables, diremos:
 
 Los sustantivos contables se pueden contar en unidades.
 *Terrón* o *cucharada* son dos ejemplos. Podemos
-hablar de dos cucharadas, o de tres terrones de azúcar,
+hablar de *dos cucharadas,* o de *tres terrones de azúcar,*
 por ejemplo.
 
 Con sustantivos contables, diremos: 
@@ -291,7 +291,7 @@ negativo, conjugado, y por último el verbo que queremos usar, en infinitivo.
 
 ## 2. Tu casa
 
-In my house there are two bedrooms, a living room, large kitchen, and two bathrooms.
+In my house there are two bedrooms, a living room, a large kitchen, and two bathrooms.
 In my living room there are five windows, a table, four chairs, a TV, and a piano.
 
 ¿Qué hay en tu casa?

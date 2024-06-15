@@ -10,7 +10,7 @@
 
     brother ['brʌðər] - hermano
 
-    sister ['sistər] - hermana
+    sister ['sɪstər] - hermana
 
     son [sʌn] - hijo
 
@@ -97,7 +97,7 @@ En general, es bueno no obsesionarse con pronunciar todos los fonemas vocálicos
 sino poco a poco tratar de imitar la manera en la que la gente los pronuncia. 
 
 En algunos casos sí que merece la pena exagerar mucho la pronunciación de ciertos fonemas vocálicos.
-Por ejemplo, *leave* ['li:v] (irse) y *live* [lɪv] (vivir) se pueden confundir
+Por ejemplo, *leave* [li:v] (irse) y *live* [lɪv] (vivir) se pueden confundir
 fácilmente si no los pronunciamos bien.
 
 Para pronunciar *leave*, exageraremos la I larga. Para pronunciar *live*, haremos la I muy corta
@@ -109,7 +109,7 @@ Los adjetivos modifican sustantivos. En español, deben concordar en género y n
 (*bolso rojo, casas rojas*). En inglés los sustantivos no tienen género,
 y los adjetivos no cambian cuando acompañan a sustantivos en plural. Además,
 siempre van **antes** del sustantivo:
-*red bag* (bolso rojo), *red houses* (casas rojas).
+*red handbag* (bolso rojo), *red houses* (casas rojas).
 
 # Los colores en inglés
 
@@ -127,7 +127,7 @@ siempre van **antes** del sustantivo:
     
     pink [pɪŋk] - rosa
     
-    purple ['pɝpəl] - púrpura / morado
+    purple ['pərpəl] - púrpura / morado
     
     black [blæk] - negro
     
@@ -182,7 +182,7 @@ en una U normal.
 
 En *sad*, la S es la misma que, por ejemplo, en la palabra *sala* en español.
 En *small*, la S es también la misma, pero en español no tenemos palabras que 
-empiecen con una S que no va acompañando a una vocal.
+empiezan con una S que no va acompañando a una vocal.
 
 Por esta razón, tendemos a añadir una E antes: [esmɔl]. Tenemos que tratar
 de evitar esto, y pronunciar la S sin nada antes: [smɔl].
@@ -201,8 +201,8 @@ en inglés. En español no existe (aunque a veces lo usamos cuando
 decimos *shhhh* para mandar callar a alguien). Se pronuncia haciendo
 como una CH, pero sin tocar el paladar con la lengua.
 
-Otras palabras que usan este sonido son shower [ʃaʊər] (ducha) 
-y show [ʃoʊ] (espectáculo, programa).
+Otras palabras que usan este sonido son *shower* [ʃaʊər] (ducha) 
+y *show* [ʃoʊ] (espectáculo, programa).
 
 # Preposiciones básicas en inglés
 
@@ -216,30 +216,29 @@ y show [ʃoʊ] (espectáculo, programa).
 
     of [əv] - de
 
-*In, on* y *at* se traducen como *en*. Se usan en situaciones diferentes.
-A veces hay hasta diferencias regionales en determinadas situaciones. En general:
+*In, on* y *at* se traducen como *en*. Se usan en situaciones diferentes. En general:
 
-- Usaremos *in* cuando queremos indicar que estamos **dentro** de un sitio. 
-También lo usaremos para indicar que estamos en un país o una ciudad.
+- Usamos *in* cuando queremos indicar que estamos **dentro** de un sitio. 
+También lo usamos para indicar que estamos en un país o una ciudad.
 
 
     I'm in the house. (Estoy en / dentro de la casa).
 
     I'm in Spain. (Estoy en España).
 
-- Usaremos *on* cuando queremos indicar que estamos **encima de** algo.
+- Usamos *on* cuando queremos indicar que estamos **encima de** algo.
 
     
     The book is on the table. (El libro está en / sobre la mesa).
 
-- Usaremos *at* cuando queremos indicar que estamos en un lugar concreto,
+- Usamos *at* cuando queremos indicar que estamos en un lugar concreto,
 como el gimnasio, la biblioteca o el supermercado.
 
     
     I'm at the supermarket. (Estoy en el supermercado).
 
 *From* y *of* se traducen como *de*. 
-From se refiere más al origen o procedencia de las cosas o las personas:
+*From* se refiere más al origen o procedencia de las cosas o las personas:
 
     I am from Madrid. (Soy de Madrid).
 
@@ -247,6 +246,7 @@ From se refiere más al origen o procedencia de las cosas o las personas:
 
     I don't like the color of the house. (No me gusta el color de la casa).
     
+
 # El genitivo sajón
 
 Para expresar posesión, en lugar de decir el X de Y en inglés normalmente 
@@ -325,8 +325,8 @@ TH se pronuncia así en inglés. Este sonido existe en español,
 pero solamente en la Península Ibérica y en Guinea Ecuatorial.
 
 Es la famosa consonante fricativa linguointerdental sorda que una persona de
-Castilla, por ejemplo, usaría para pronunciar zapato [θa'pato] o 
-cenicero [θeni'θero]. En Latinoamérica (y en algunas zonas de España) 
+Castilla, por ejemplo, usaría para pronunciar *zapato* [θa'pato] o 
+*cenicero* [θeni'θero]. En Latinoamérica (y en algunas zonas de España) 
 estas dos palabras se pronunciarían [sa'pato] y [seni'sero] respectivamente.
 
 ## Nota sobre la T final en inglés
@@ -370,6 +370,8 @@ Las conjunciones son palabras que se utilizan para unir palabras u oraciones.
 
     but [bʌt] - pero
 
+    because [bɪ'kɔz] - porque
+
 *And* se pronuncia de dos maneras. Cuando enfatizamos la conjunción,
 pronunciamos la A [æ], pero en la mayoría de los casos
 tendemos a pronunciar la A como [ə].
@@ -382,6 +384,9 @@ tendemos a pronunciar la A como [ə].
 
 *I am in New York, but Pedro is in London.*
 (Yo estoy en Nueva York, pero Pedro está en Londres).
+
+*Pedro is sad because he is very tired.*
+(Pedro está triste porque él está muy cansado).
 
 # Ejercicios
 

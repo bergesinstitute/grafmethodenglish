@@ -39,13 +39,17 @@ El objeto es la persona o la cosa que la recibe.
 
 # La A personal
 
-En español y en inglés la estructura de la frase es idéntica
+En español y en inglés la estructura de la oración es idéntica
 cuando tenemos un sujeto, un verbo, y un objeto gramatical
 que a su vez es un objeto inanimado:
 
-    Yo compro un coche. I buy a car.
+    Yo compro un coche. 
 
-    Ella envía un mensaje de texto. She sends a text message.
+    I buy a car.
+
+    Ella envía un mensaje de texto. 
+
+    She sends a text message.
 
 Cuando el objeto gramatical es una persona, en español añadimos
 la preposición *a*:
@@ -146,14 +150,14 @@ de *many* y *few*:
     not many windows
 
 Por último, en español *mucho* y *poco* se pueden usar como adverbios,
-añadiendo información sobre cuánto hacemos una acción:
+añadiendo información sobre *cuánto* hacemos una acción:
 
     Cocino mucho.
 
     Estudio poco.
 
 En inglés, es común usar *a lot* como adverbio, tanto para *mucho* como
-para poco (haciéndolo negativo):
+para *poco* (haciéndolo negativo):
 
     I cook a lot.
 
@@ -212,7 +216,7 @@ En las oraciones negativas, normalmente la ponemos entre *don't*
 
     I don't usually drink water in the morning.
 
-    Albeto doesn't always cook on Mondays.
+    Alberto doesn't always cook on Mondays.
 
 # Present simple
 

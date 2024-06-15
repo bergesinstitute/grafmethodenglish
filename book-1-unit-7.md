@@ -177,7 +177,7 @@ Y así respondemos:
 
     It's five.
 
-Aunque existen fórmulas para en punto, y cuarto, menos cinco, etc. lo
+Aunque existen fórmulas para *en punto, y cuarto, menos cinco,* etc. lo
 más común es decir los números directamente.
 
     It's four fifteen.
@@ -187,6 +187,12 @@ más común es decir los números directamente.
     It's eleven fourty-five.
 
     It's two fifty-five.
+
+Cuando tenemos un 0 en el primer dígito de los minutos, en lugar de *zero* decimos la letra O:
+
+    9:02 - It's nine O two
+
+    4:05 - It's four O five
 
 En inglés no se usa habitualmente el formato de 24 horas (se le llama *hora militar*, porque
 solo se usa en el ejército).
@@ -264,7 +270,7 @@ P: Do you wash your face every morning?
 
 S: Yes, I wash my face every morning and every night.
 
-P: What time do you take the subway?
+P: What time do you take the subway ['sʌbweɪ] (metro)?
 
 S: I take the subway at nine.
 
@@ -302,27 +308,26 @@ We then go to the gym, watch TV, and eat dinner. We usually go to bed at 10 pm.
 ## 2. Traduce
 
 1. Mi hermana vive en Madrid.
-2. Siempre escribo cartas a mi primo.
-3. A veces recibo cartas de mi amigo David.
-4. Vivo en Barcelona y mi amigo vive en Valencia.
-5. ¿Vives en Granada?
-6. Ellos venden muchos sofás.
-7. ¿Escribes mucho?
-8. María envía correos electrónicos a Mario cada día.
-9. ¿Cuántas sillas hay en tu apartamento?
-10. Usted vive en Barcelona.
-11. ¿Sara y Pedro viven en Valencia?
-12. Ustedes no venden sillas.
-13. ¿Escribes cartas o escribes correos electrónicos?
-14. El Corte Inglés abre los sábados.
-15. Nosotros vamos al gimnasio cada día y tenemos brazos grandes.
-16. Su cabeza es pequeña pero su nariz es grande.
-17. ¿A qué hora te levantas?
-18. Tengo dos ojos azules.
-19. Voy al gimnasio a las 7 de la mañana cada día.
-20. Nuestras orejas son grandes y nuestras bocas son rojas.
-21. Su pelo es negro.
-22. Mis dientes son blancos.
+2. A veces recibo cartas de mi amigo David.
+3. Vivo en Barcelona y mi amigo vive en Valencia.
+4. ¿Vives en Granada?
+5. Ellos venden muchos sofás.
+6. ¿Escribes mucho?
+7. María envía muchos correos electrónicos cada día.
+8. ¿Cuántas sillas hay en tu apartamento?
+9. Usted vive en Barcelona.
+10. ¿Sara y Pedro viven en Valencia?
+11. Ustedes no venden sillas.
+12. ¿Escribes cartas o escribes correos electrónicos?
+13. El Corte Inglés abre los sábados.
+14. Nosotros vamos al gimnasio cada día y tenemos brazos grandes.
+15. Su cabeza es pequeña pero su nariz es grande.
+16. ¿A qué hora te levantas?
+17. Tengo ojos azules.
+18. Voy al gimnasio a las 7 de la mañana cada día.
+19. Nuestras orejas son grandes y nuestras bocas son rojas.
+20. Su pelo es negro.
+21. Mis dientes son blancos.
 
 ## 3. Escribe los números
 
@@ -413,6 +418,6 @@ We then go to the gym, watch TV, and eat dinner. We usually go to bed at 10 pm.
 1. What time do you get up?
 2. What time do you go to bed?
 3. Do you always shower in the morning?
-4. What dime do you shower?
+4. What time do you shower?
 5. Do you wash your face every day?
 6. Do you brush your teeth every night?
