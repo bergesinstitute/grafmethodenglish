@@ -120,7 +120,7 @@ estas dos palabras se pronunciarían [sa'pato] y [seni'sero] respectivamente.
 
 En inglés, aparece por ejemplo en *Thursday* ['θərzdeɪ] (jueves).
 
-    tʃ
+    tʃ (una T minúscula seguida de la letra esh)
 
 Es el sonido del dígrafo CH en español. En inglés normalmente se pronuncia igual.
 Aparece por ejemplo en *cheap* [tʃi:p] (barato).
@@ -151,6 +151,43 @@ que son diferentes en otros sitios de la misma manera.
 
 En general, es bueno no obsesionarse con pronunciar todos los fonemas vocálicos perfectamente,
 sino poco a poco tratar de imitar la manera en la que la gente los pronuncia. 
+
+## Nota sobre la S
+
+En *sad*, la S es la misma que, por ejemplo, en la palabra *sala* en español.
+En *small*, la S es también la misma, pero en español no tenemos palabras que
+empiezan con una S que no va acompañando a una vocal.
+
+Por esta razón, tendemos a añadir una E antes: [esmɔl]. Tenemos que tratar
+de evitar esto, y pronunciar la S sin nada antes: [smɔl].
+
+Otras palabras similares son *space* [speɪs] (espacio)
+y *snail* [sneɪl] (caracol).
+
+## Nota sobre la V
+
+En español, pronunciamos tanto la B como la V como una B [b]. En inglés, la B es [b], pero
+la V es [v], que es como una V que es casi una F, dejando salir aire entre los dientes
+y el labio inferior.
+
+## Nota sobre la T inicial en inglés
+
+En las palabras que empiezan con [t], como *two*, es común en inglés
+soltar mucho aire entre la punta de la lengua y los incisivos
+superiores, pronunciándola casi como el dígrafo CH en español,
+con la diferencia de que en [t] siempre tocamos los incisivos
+con la lengua.
+
+## Nota sobre la T final en inglés
+
+En *good night* la T final se puede pronunciar de
+dos maneras. Pronunciándola claramente, o poniendo la boca como para pronunciarla
+pero sin hacer el chasquido final de la lengua. Estas dos maneras
+se conocen como T fuerte y T suave, respectivamente.
+
+Las dos son comunes y correctas. Cuando hablamos rápido es común usar
+sobre todo la T final suave, pero es más fácil para los hispanohablantes
+normalmente tratar de hacer siempre la T final fuerte.
 
 # Ejercicios
 
