@@ -40,7 +40,7 @@ Con verbos, usamos lo siguiente:
 
 Con sustantivos incontables, hacemos esto:
 
-    as much (...) as - tanto (...) como
+    as much (...) as - tanto/a (...) como
 
 *I have as much money as you*. (Tengo tanto dinero como tú).
 
@@ -54,7 +54,7 @@ Con sustantivos contables, hacemos esto:
 
 ### El más
 
-Para *el más (...)*, en inglés, cuando el adjetivo tiene una sola sílaba,
+Para *el más (...) / la más (...)*, en inglés, cuando el adjetivo tiene una sola sílaba,
 tenemos que modificar el adjetivo y añadir *est* al final, y poner *the* antes.
 
     Soy el más alto. I am the tallest.

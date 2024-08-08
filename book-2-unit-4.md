@@ -133,8 +133,8 @@ Si el infinitivo termina en una Y precedida de una consonante, cambiaremos Y por
     Ella estudió => She studied ['stʌdid]
 
 Como vemos, es muy fácil. Pero la dificultad está en la pronunciación.
-En los ejemplos anteriores, por ejemplo, la D en *called* se pronuncia como una D,
-pero la D en *danced* se pronuncia como una T. ¿Qué está ocurriendo aquí?
+En los ejemplos anteriores, por ejemplo, *ed* en *called* se pronuncia como una D,
+pero *ed* en *danced* se pronuncia como una T.
 
 ## Pronunciación
 
@@ -170,3 +170,142 @@ se pronuncia [æk'sɛptɪd].
 
 Dicho esto, es mejor tratar de memorizar la pronunciación del pasado de cada verbo que 
 aprendemos individualmente, sin tratar de pensar demasiado en las reglas de pronunciación.
+
+# Lista de verbos regulares del grupo 1
+
+Con estos verbos, *ed* se pronuncia [t].
+
+    ask [æsk]* (preguntar) => asked
+
+    cook [kʊk] (cocinar) => cooked
+
+    dance [dæns]* (bailar) => danced
+
+    finish ['fɪnɪʃ] (terminar) => finished
+
+    fix [fɪks] (arreglar) => fixed
+
+    help [hɛlp] (ayudar) => helped
+
+    kiss [kɪs] (besar) => kissed
+
+    laugh [læf]* (reír) => laughed
+
+    like [laɪk] (gustar, pero con cambio de sujeto) => liked
+
+    look [lʊk] (mirar) => looked
+
+    miss [mɪs] (extrañar / echar de menos) => missed
+
+    stop [stɑp] (parar) => stopped**
+
+    talk ['tɔ:k] (hablar) => talked
+
+    touch [tʌtʃ] (tocar) => touched
+
+    walk [wɔ:k] (caminar) => walked
+
+    wash [wɑʃ] (lavar) => washed
+
+    watch [wɑtʃ] (ver / mirar) => watched
+
+    work [wərk] (trabajar) => worked
+
+> *Los verbos *ask*, *dance* y *laugh* tienen una pronunciación alternativa que es más típica en Reino Unido: [ɑ:sk], [dɑ:ns] [lɑ:f]
+
+> **El verbo *stop* necesita una P doble en el pasado: *stopped*.
+
+Es muy importante exagerar las consonantes finales. Por ejemplo, en *cooked*
+y *worked* necesitamos escuchar claramente [k] [t] al final.
+
+# Lista de verbos regulares del grupo 2
+
+Con estos verbos, *ed* se pronuncia [d].
+
+    agree [ə'gri:] (estar de acuerdo) => agreed    
+
+    answer [ænsər]* (responder) => answered    
+
+    believe [bɪ'li:v] (creer) => believed
+
+    call [kɔ:l] (llamar) => called
+
+    change [tʃeɪndʒ] (cambiar) => changed
+
+    clean [kli:n] (limpiar) => cleaned
+
+    close [kloʊz] (cerrar) => closed
+
+    die [daɪ] (morir) => died
+
+    destroy [dɪ'strɔɪ] (destruir) => destroyed
+
+    enjoy [ɛn'dʒɔɪ] (disfrutar) => enjoyed
+
+    fill [fɪl] (llenar) => filled
+
+    kill [kɪl] (matar) => killed
+
+    learn [lərn] (aprender) => learned
+
+    listen ['lɪsən] (escuchar) => listened
+
+    live [lɪv] (vivir) => lived
+
+    love [lʌv] (amar) => loved
+
+    move [mu:v] (moverse / mudarse) => moved
+
+    offer ['ɔfər] (ofrecer) => offered
+
+    open ['oʊpən] (abrir) => opened
+
+    play [pleɪ] (jugar / tocar un instrumento) => played
+
+    prefer [prɪ'fər] (preferir) => prefered
+
+    receive [rɪ'si:v] (recibir) => received
+
+    repair [rɪ'pɛr] (reparar) => repaired
+
+    remember [rɪ'mɛmbər] (recordar) => remembered
+
+    save [seɪv] (salvar / guardad) => saved
+
+    smile [smaɪl] (sonreír) => smiled
+
+    study ['stʌdi] (estudiar) => studied
+
+    travel ['trævəl] (viajar) => traveled
+
+    use [ju:z] (usar) => used
+
+> *El verbo *answer* tiene una pronunciación alternativa que es más típica en Reino Unido: ['ɑ:nsər]
+
+*Close* y *use* terminan en [z], que es muy similar a [s] para un hispanohablante, 
+pero es una consonante sonora, y por eso estos verbos están en este grupo.
+
+Es muy importante exagerar las consonantes finales. Por ejemplo, en *believed*,
+*lived* y *loved* necesitamos escuchar claramente [v] [d] al final.
+
+# Lista de verbos regulares del grupo 3
+
+Con estos verbos, *ed* se pronuncia [ɪd].
+
+    accept [æk'sɛpt] (aceptar) => accepted
+
+    end [ɛnd] (terminar) => ended
+
+    need [ni:d] (necesitar) => needed
+
+    repeat [rɪ'pi:t] (repetir) => repeated
+
+    start [stɑrt] (empezar) => started
+
+    translate [træns'leɪt] (traducir) => translated
+
+    visit ['vɪzɪt] (visitar) => visited
+
+    wait [weɪt] (esperar) => waited
+
+    want [wɑnt] (querer) => wanted
