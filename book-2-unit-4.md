@@ -197,11 +197,15 @@ Con estos verbos, *ed* se pronuncia [t].
 
     miss [mɪs] (extrañar / echar de menos) => missed
 
+    push [pʊʃ] (empujar) => pushed 
+
     stop [stɑp] (parar) => stopped**
 
     talk ['tɔ:k] (hablar) => talked
 
     touch [tʌtʃ] (tocar) => touched
+
+    use [ju:z] (usar) => used
 
     walk [wɔ:k] (caminar) => walked
 
@@ -226,6 +230,8 @@ Con estos verbos, *ed* se pronuncia [d].
 
     answer [ænsər]* (responder) => answered    
 
+    arrive [ə'raɪv] (llegar) => arrived
+
     believe [bɪ'li:v] (creer) => believed
 
     call [kɔ:l] (llamar) => called
@@ -238,11 +244,15 @@ Con estos verbos, *ed* se pronuncia [d].
 
     die [daɪ] (morir) => died
 
+    dream [dri:m] (soñar) => dreamed
+
     destroy [dɪ'strɔɪ] (destruir) => destroyed
 
     enjoy [ɛn'dʒɔɪ] (disfrutar) => enjoyed
 
     fill [fɪl] (llenar) => filled
+
+    follow ['fɑloʊ] (seguir) => followed
 
     kill [kɪl] (matar) => killed
 
@@ -262,6 +272,8 @@ Con estos verbos, *ed* se pronuncia [d].
 
     play [pleɪ] (jugar / tocar un instrumento) => played
 
+    pull [pʊl] (tirar de) => pulled
+
     prefer [prɪ'fər] (preferir) => prefered
 
     receive [rɪ'si:v] (recibir) => received
@@ -270,15 +282,23 @@ Con estos verbos, *ed* se pronuncia [d].
 
     remember [rɪ'mɛmbər] (recordar) => remembered
 
-    save [seɪv] (salvar / guardad) => saved
+    save [seɪv] (salvar / guardar) => saved
+
+    show [ʃoʊ] (mostrar) => showed
+
+    smell [smɛl] (oler) => smelled
 
     smile [smaɪl] (sonreír) => smiled
+
+    spell [spɛl] (deletrear) => spelled
 
     study ['stʌdi] (estudiar) => studied
 
     travel ['trævəl] (viajar) => traveled
 
-    use [ju:z] (usar) => used
+    try [traɪ] (intentar / tratar) => tried
+
+    turn [tərn] (girar / rotar) => turned
 
 > *El verbo *answer* tiene una pronunciación alternativa que es más típica en Reino Unido: ['ɑ:nsər]
 
@@ -294,9 +314,13 @@ Con estos verbos, *ed* se pronuncia [ɪd].
 
     accept [æk'sɛpt] (aceptar) => accepted
 
+    count [kaʊnt] (contar) => counted
+
     end [ɛnd] (terminar) => ended
 
     need [ni:d] (necesitar) => needed
+
+    rent [rɛnt] (alquilar) => rented
 
     repeat [rɪ'pi:t] (repetir) => repeated
 
