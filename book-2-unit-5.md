@@ -144,4 +144,34 @@
 
 # El gerundio
 
-# Before & after
+El gerundio en inglés se forma añadiendo *ing* [ɪŋ] al infinitivo del verbo.
+
+    sing (cantar) => singing (cantando)
+
+    eat (comer) => eating (comiendo)
+
+Hay algunas reglas ortográficas para ciertos verbos.
+
+En los verbos que terminan en una E que no se pronuncia, eliminamos la E:
+
+    believe (creer) => believing (creyendo)
+
+    have (tener) => having (teniendo)
+
+En los verbos que tienen una sola sílaba, o tienen más de una, pero el acento fonético está en la última, 
+y terminan en consonante - vocal - consonante, duplicamos la última consonante.
+
+    begin (empezar) => beginning (empezando)
+
+    forget (olvidar) => forgetting (olvidando)
+
+    stop (parar) => stopping (parando)
+
+    sit (sentarse) => sitting (sentándose)
+
+En los verbos que terminan en *ie*, cambiamos *ie* por Y.
+
+    die (morir) => dying (muriendo)
+
+Dicho esto, es mejor tratar de memorizar la ortografía de los diferentes gerundios individualmente
+que aprenderse todas estas reglas ortográficas.
