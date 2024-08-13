@@ -19,7 +19,7 @@ En inglés, no hay preposición, y podemos usar el gerundio o el verbo conjugado
 
 # Verbos modales
 
-## Los verbos modales importantes
+## Verbos modales importantes
 
     can [kæn] - poder
 
@@ -62,14 +62,14 @@ Los verbos *can, must* y *should* tienen contracciones negativas:
 
     shouldn't ['ʃʊdənt]
 
-> > *Can't* se pronuncia generalmente ['kant] en Estados Unidos y ['kɑ:nt] en Reino Unido.
+> *Can't* se pronuncia generalmente ['kant] en Estados Unidos y ['kɑ:nt] en Reino Unido.
 
 Dicho esto, la contracción negativa de *must* no se usa mucho, y la de *can* recomendamos evitarla porque a
 veces si hablamos rápido es difícil diferenciarla de la versión afirmativa.
 
 ## Oraciones interrogativas y negativas
 
-En oraciones interrogativas y negativas, 
+En las oraciones interrogativas y negativas, 
 los verbos modales no usan el verbo auxiliar *to do*. Siempre acompañan a otro verbo,
 o sea que, de alguna manera, lo reemplazan:
 
@@ -85,7 +85,7 @@ o sea que, de alguna manera, lo reemplazan:
 
 ### Can
 
-*Can* es usa de la misma manera que usamos *poder* en español. Tiene un uso adicional,
+*Can* se usa de la misma manera que usamos *poder* en español. Tiene un uso adicional,
 en el que significa *saber cómo hacer algo*.
 
 *I can swim.* (Sé nadar).
@@ -116,7 +116,7 @@ del verbo *to do* en oraciones afirmativas y negativas.
 
 ### Should
 
-*Should* equivale a condicional de *deber* en español.
+*Should* equivale al condicional de *deber* en español.
 
 *I should call him.* (Debería llamarlo).
 
