@@ -1,3 +1,11 @@
+# Time ago
+
+Para decir que hicimos algo hace X horas/días/años/etc., en inglés usaremos el adjetivo *ago* [ə'goʊ].
+
+*I did my homework two hours ago.* (Hice mis deberes hace dos horas).
+
+*I moved to Madrid three years ago.* (Me mudé a Madrid hace tres años).
+
 # Números de 101 a 1 millón en inglés
 
 Para 100-999:
@@ -57,3 +65,35 @@ Si es cualquier otro dígito, no añadiremos *and* después de *thousand*, ya qu
 > En inglés, usamos comas en lugar de puntos o espacios para separar los millares y millones.
 
 # Present progressive
+
+## Construcción
+
+Para las acciones que están ocurriendo en este momento, en español usamos el verbo *estar* seguido de un gerundio.
+
+En inglés, usaremos el verbo *to be* seguido de un gerundio.
+
+    estoy hablando => I am speaking
+    
+    estamos comiendo => we are eating
+    
+    está lloviendo => it's raining
+
+## Adverbios
+
+Es común usar el presente progresivo o *present progressive* con estos adverbios:
+
+    now [naʊ] - ahora
+
+    right now [raɪt naʊ] - ahora mismo 
+
+    today [tə'deɪ] - hoy
+
+## Conversation
+
+Victor: Hi Pamela, what are you doing right now?
+
+Pamela: Hi Victor. I am watching TV and reading a book. I am also cooking fish. What are you doing?
+
+V: I am writing an email and washing my clothes. My dog is eating.
+
+P: OK!

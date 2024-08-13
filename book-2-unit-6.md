@@ -182,7 +182,7 @@ C: I want to watch Clint Eastwood's new movie.
 
 E: OK. What time?
 
-C: The movie starts at 8:30 PM.
+C: The movie starts at 8:30 pm.
 
 E: Perfect. Do you want to eat dinner before?
 
