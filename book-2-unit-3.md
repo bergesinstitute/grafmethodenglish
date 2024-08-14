@@ -4,25 +4,44 @@
 
 ### Desigualdad
 
-En español, decimos *más (...) que* o *menos (...) que*. En inglés, cuando el adjetivo tiene una sola sílaba,
+En español, decimos *más (...) que* o *menos (...) que*. 
+
+#### Más que
+
+En inglés, para *más (...) que,* cuando lo usamos con un adjetivo y este tiene una sola sílaba,
 tenemos que modificar el adjetivo y añadir *er* al final, y después del adjetivo tenemos que poner *than* [ðən].
 
     Soy más alto que María. I am taller than María.
+
+> Si el adjetivo termina en consonante - vocal - consonante tendremos que duplicar la última consonante: *big* => *bigger.*
 
 Cuando el adjetivo tiene dos sílabas y termina en Y (*ugly*, por ejemplo), hacemos esto mismo,
 pero cambiamos Y por I:
 
     Soy más feo que María. I am uglier than María.
 
-Con el resto de adjetivos, en lugar de modificarlos, pondremos *more* [mɔ:r] antes.
+Con el resto de adjetivos, y con sustantivos, en lugar de modificarlos, pondremos *more* [mɔ:r] antes.
 
     Soy más educado que María. I am more polite than María.
+
+    Él tiene más dinero que su hermano. He has more money than his brother.
 
 Las versiones comparativas de *good* y *bad* son irregulares:
 
     better ['bɛtər] than - mejor que
 
     worse [wərs] than - peor que
+
+#### Menos que
+
+Para *menos (...) que*, tenemos que usar en todos los casos *less* [lɛs]
+antes del adjetivo o el sustantivo, y *than* después.
+
+    Soy menos alto que María. I am less tall than María.
+
+Aunque con adjetivos en general es mejor evitar esto y usar el que significa lo contrario:
+
+    Soy más bajo que María. I am shorter than María.
 
 ### Igualdad
 
@@ -237,3 +256,65 @@ Examples:
 En inglés, la fórmula más común es mes + día:
 
 *July 3, January 20,* etc. (El 3 de julio, el 20 de enero, etc.).
+
+# Ejercicios
+
+## 1. Traduce
+
+La traducción más correcta para *que yo* sería *than I*, pero mucha gente dice *than me*.
+
+1. David es más guapo que Miguel.
+2. ¿Quién es tan guapo como Miguel?
+3. Tengo más dinero que Sara.
+4. Mi apartamento es tan pequeño como un armario.
+5. Tengo tantos perros como Ana.
+6. María es más alta que Javier.
+7. Carol G vende más boletos (tickets) que Pat Metheny.
+8. Mi madre es más alta que yo. 
+9. Nuestra casa es más grande que la casa de Frodo.
+10. Mi apartamento es más pequeño que el apartamento de mi madre.
+11. Jorge pinta peor que Peter.
+12. Como tanta pizza como tú.
+13. Rihanna tiene tantos fans como Beyoncé.
+14. Kate es tan hermosa como María.
+15. La casa de Miguel es la más alta en el barrio (neighborhood).
+16. Mi amigo Kevin es el peor cantante en España.
+17. Mi primo Juan trabaja menos que un koala.
+18. Ferrán Adriá es el mejor chef del mundo. (*del mundo* = *in the world*)
+19. Leo es tan simpático como Pablo.
+20. Francis es más educado que Germán.
+21. Bill Gates es el hombre más rico del mundo.
+22. Jennifer es más joven que Pablo.
+23. Alberto es simpático, pero su hermana Sara es muy antipática.
+24. El pelo de Sara es más rizado que el pelo de María.
+25. Peter trabaja tanto como Marta.
+26. Alfredo tiene tantas chaquetas como Martín.
+
+## 2. Responde
+
+1. Do you usually work on Saturdays as much as on Mondays?
+2. Who is the most famous actor in the world?
+3. Which country is bigger, Russia or Canada?
+4. Which is the biggest dessert in the world?
+
+## 3. Escribe 3 oraciones usando comparativos y 3 usando superlativos
+
+## 4. Traduce
+
+1. El 26 de marzo fui a San Francisco.
+2. El 4 de julio ella fue al parque.
+3. El 20 de abril ellos fueron a una cafetería.
+4. El 23 de enero tú fuiste a Madrid.
+5. El 4 de febrero fui a un restaurante.
+6. El 5 de junio fuimos al supermercado.
+7. El 21 de septiembre usted fue al cine.
+8. El 22 de octubre ellas fueron al apartamento de Peter.
+9. El 14 de mayo fui a Burgos.
+10. El 31 de diciembre él fue a la oficina.
+11. El 1 de agosto ustedes fueron a Móstoles.
+12. El 27 de noviembre ellos fueron a un club.
+
+## 5. Traduce
+
+Fui al supermercado el lunes. El martes fui al parque. El miércoles fui a un restaurante. El jueves fui a Salamanca.
+Fui a la casa de mi amigo el viernes. El sábado fui al gimnasio.
