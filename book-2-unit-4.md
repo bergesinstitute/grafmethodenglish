@@ -333,3 +333,73 @@ Con estos verbos, *ed* se pronuncia [ɪd].
     wait [weɪt] (esperar) => waited
 
     want [wɑnt] (querer) => wanted
+
+# Ejercicios
+
+## 1. Memoriza todos los verbos que hemos visto en esta unidad, con su pronunciación en presente y en pasado
+
+## 2. Completa, usando to do en las preguntas y el verbo que tú prefieras en las respuestas
+
+1. ¿What __________ you __________ last Friday? Last Friday I ______________________________.
+2. ¿What __________ they __________ last Thursday? Last Thursday they ______________________________.
+3. ¿What __________ María __________ on Wednesday night? On Wednesday night María ______________________________.
+4. ¿What __________ we __________ on Monday? On Monday we ______________________________.
+
+## 3. Completa usando el verbo to go en past simple
+
+1. Last Thursday I ______________________________.
+2. On Wednesday night she ______________________________.
+3. On Friday at 5 pm we ______________________________.
+4. Last Sunday my friend Antonio ______________________________.
+
+## 4. Completa, usando to be o to have en past simple
+
+1. She __________ in Segovia last weekend.
+2. We __________ in Madrid in May.
+3. On June 23, they __________ a math exam.
+4. On april 15 I __________ a car accident.
+5. On September 30 my cousin __________ a son.
+6. Last Tuesday you __________ at the gym.
+7. Where __________ she on Saturday?
+8. Where __________ they on Friday?
+
+## 5. Traduce
+
+Last week:
+
+1. Caminé en el parque.
+2. Cociné mucho.
+3. Ella visitó a su madre y a su primo.
+4. Usted trabajó mucho.
+5. Ella ayudó a peter.
+6. Nosotros bailamos en un club.
+7. Ellos abrieron un restaurante.
+8. Tú estudiaste inglés.
+9. Nosotros limpiamos nuestra casa.
+10. Llamaste a Sarah.
+11. Ella llegó a las 5.
+
+## 6. Responde
+
+Last week:
+
+1. Did you clean your house?
+2. Did you wash your car?
+3. Did you talk to a lot of people?
+4. Were you worried or nervous?
+5. Did you walk in the park?
+6. Did you cook a lot?
+7. Did you watch TV?
+
+## 7. Completa, usando past simple
+
+1. Yesterday she __________ (receive) a letter.
+2. He __________ (smile) at me.
+3. María __________ (translate) the documents.
+4. The show __________ (start) at 5.
+5. __________ you __________ (work) last week?
+6. I __________ (work) last week.
+7. She __________ (study) a lot.
+8. Mario __________ (live) in Los Angeles last year.
+9. I __________ (follow) Sarah on Instagram.
+10. They __________ (move) to Madrid last month.

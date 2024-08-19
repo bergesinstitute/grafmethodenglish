@@ -17,6 +17,18 @@ En inglés, no hay preposición, y podemos usar el gerundio o el verbo conjugado
 
 *I ate dinner. After I ate dinner, I went to the park.*
 
+# Verbos que van seguidos de otro verbo
+
+Los verbos *want, *need* y *have* van muchas veces seguidos de un verbo en infinitivo.
+Cuando usamos *have* de esta manera significa *tener que*. En el infinitivo del verbo
+tenemos que incluir la preposición *to*.
+
+    Quiero ir => I want to go
+
+    Tengo que ir => I have to go
+
+    Necesito ir => I need to go
+
 # Verbos modales
 
 ## Verbos modales importantes
@@ -93,11 +105,11 @@ en el que significa *saber cómo hacer algo*.
 ### Must
 
 *Must* es muy formal, e igual que en español, no se usa demasiado. Es más común usar, en lugar de *must*,
-los siguientes verbos:
+los siguientes verbos que ya hemos mencionado anteriormente:
 
-    to have to - tener que hacer algo
+    have (to) - tener que hacer algo
 
-    to need to - necesitar hacer algo
+    need (to) - necesitar hacer algo
 
 *I have to finish the project.* (Tengo que terminar el proyecto).
 
@@ -200,3 +212,18 @@ John: Peter, did you go to Mary's show last night?
 Peter: I couldn't go. I had to work. Did you go?
 
 J: No, I also had to work.
+
+# Ejercicios
+
+## 1. Responde
+
+1. Do you want to drink water?
+2. Do you want to eat a donut?
+3. Can you go to that dinner?
+4. Do you need a vacation?
+5. Do you usually have to work on weekends?
+6. Do you have to go to the supermarket?
+7. Do you want to go to the gym more?
+8. Can you run 10 kilometers in less than 40 minutes?
+9. Do you need to drink coffee in the morning?
+

@@ -175,3 +175,91 @@ En los verbos que terminan en *ie*, cambiamos *ie* por Y.
 
 Dicho esto, es mejor tratar de memorizar la ortografía de los diferentes gerundios individualmente
 que aprenderse todas estas reglas ortográficas.
+
+# Adjetivos y pronombres demostrativos en inglés
+
+## Adverbios
+
+    here ['hɪər] - aquí / acá
+
+    there ['ðɛər] - ahí / allí / allá
+
+## Adjetivos y pronombres
+
+    this [ðɪs] - este / esta / esto
+
+    these ['ði:z] - estos / estas
+
+    that [ðæt] - ese / esa / eso / aquel / aquella / aquello  
+
+    those [ðoʊz] - esos / esas / aquellos / aquellas
+
+Los demostrativos pueden ser adjetivos o pronombres. Cuando van con un sustantivo, son adjetivos:
+
+*This house is big. That piano is black.* (Esta casa es grande. Ese piano es negro).
+
+Cuando van solos, son pronombres.
+
+*That's black.* (Eso es negro).
+
+Cuando hablamos de un objeto específico, es común añadir *one:*
+
+*That one is black.* (Ese es negro).
+
+# Ejercicios
+
+## 1. Memoriza todos los verbos que hemos visto en esta unidad, con su pronunciación en presente y en pasado
+
+## 2. Traduce
+
+Last week:
+
+1. Ellos vieron la televisión.
+2. María y Paula corrieron en el parque.
+3. Mi hermana escribió una carta.
+4. Yo comí pizza.
+5. Ella no comprendió la situación.
+6. Ella comprendió la situación.
+7. Mary y Teresa olvidaron el libro en el restaurante.
+
+## 3. Responde
+
+Last week:
+
+1. Did you read a lot?
+2. Did you drink a lot of coffee?
+3. Did you sing songs?
+4. Did you eat pizza?
+5. Did you spend a lot of money?
+6. Did you drive to work?
+7. Did you buy clothes?
+
+## 4. Completa, usando past simple
+
+1. On Monday she __________ (eat) at a restaurant.
+2. Juan __________ (pay) a lot of money.
+3. Yesterday she __________ (drink) a lot of water.
+4. Last year he __________ (sell) his house.
+5. On Tuesday he __________ (wear) a hat.
+6. She __________ (sit) at the table.
+7. Peter __________ (take) the bus.
+
+## 5. Escribe una pequeña redacción
+
+On my last vacation, I... Cuéntanos todo lo que hiciste en tus últimas vacaciones (en inglés es singular, *vacation*).
+
+## 6. Traduce
+
+1. Me gustan esas manzanas.
+2. ¿Fuiste a ese teatro con Mary?
+3. Esa casa es roja, pero esa casa es amarilla.
+4. Esta carta llegó esta mañana.
+5. Fui a ese restaurante en Getafe.
+6. ¿Viste ese programa?
+7. No fui a aquel museo en París.
+8. Esta ventana es muy grande. Esa es pequeña.
+9. ¿Es este tu gato?
+10. Tú no comprendiste este problema.
+11. Mary caminó de esa casa a aquel restaurante.
+12. Vendí estos libros.
+13. Sara llegó a este gimnasio a las 7. (Usa la preposición *at* con *arrive*).
