@@ -1,8 +1,10 @@
-# Before & after
+# Before, after, during
 
     before [bɪ'fɔr] - antes
 
     after ['æftər] - después
+
+    during ['djʊrɪŋ] - durante
 
 > *After* se pronuncia generalmente ['æftər] en Estados Unidos y ['ɑ:ftər] en Reino Unido.
 
@@ -16,6 +18,10 @@ En inglés, no hay preposición, y podemos usar el gerundio o el verbo conjugado
 *I ate dinner. After eating dinner, I went to the park.*
 
 *I ate dinner. After I ate dinner, I went to the park.*
+
+*During* solo se usa con sustantivos:
+
+*He lives in Los Angeles during the winter.* (Él vive en Los Angeles durante el invierno).
 
 # Verbos que van seguidos de otro verbo
 
@@ -97,10 +103,21 @@ o sea que, de alguna manera, lo reemplazan:
 
 ### Can
 
-*Can* se usa de la misma manera que usamos *poder* en español. Tiene un uso adicional,
-en el que significa *saber cómo hacer algo*.
+*Can* se usa de la misma manera que usamos *poder* en español. 
+
+*I can help you with this.* (Puedo ayudarte con esto).
+
+*I cannot go.* (No puedo ir).
+
+Tiene un uso adicional, en el que significa *saber cómo hacer algo*.
 
 *I can swim.* (Sé nadar).
+
+A veces, podemos usar en lugar the *can* el siguiente verbo:
+
+    be able ['eɪbəl] (to) - poder / ser capaz de
+
+*I'm not able to go.* (No puedo ir).
 
 ### Must
 
@@ -156,11 +173,16 @@ del verbo *to do* en oraciones afirmativas y negativas.
 
 *I couldn't go last night.* (No pude ir anoche).
 
+Igual que con *can*, podemos usar en su lugar *be able (to)*:
+
+*I wasn't able to go last night.* (No pude ir anoche).
+
 *Must* no tiene pasado. En su lugar, tenemos que usar *had to* or *needed to*.
 
 *I had to go to the supermarket.* (Tuve que ir al supermercado).
 
-*May* no tiene pasado, mientras que *should* y *might* pueden usarse tanto en presente como en pasado.
+*May* no tiene pasado, mientras que *should* y *might* pueden usarse tanto en presente como en pasado,
+pero en pasado se usan de una manera especial que no veremos en este nivel.
 
 ### Ejemplos
 
@@ -215,7 +237,9 @@ J: No, I also had to work.
 
 # Ejercicios
 
-## 1. Responde
+## 1. Memoriza todos los verbos que hemos visto en esta unidad, con su pronunciación en presente y en pasado
+
+## 2. Responde
 
 1. Do you want to drink water?
 2. Do you want to eat a donut?
@@ -227,3 +251,51 @@ J: No, I also had to work.
 8. Can you run 10 kilometers in less than 40 minutes?
 9. Do you need to drink coffee in the morning?
 
+## 3. Responde
+
+1. Did you want to eat pizza yesterday?
+2. Did you want to talk to the professor?
+3. Could you go to the party last night?
+4. Were you able to fix the window?
+5. Did you have to study a lot?
+6. Did you have to take the bus last Sunday?
+7. Were you able to finish your homework?
+8. Did you want to call Mary?
+9. Could you go to the gym this morning?
+
+## 4. I can / I cannot
+
+I can play the guitar, I can cook pasta, I can run 10 kilometers, I can sing well, I can write a lot of emails in one day.
+
+I cannot do yoga, I cannot dance well, I cannot speak Russian, I cannot watch TV for 4 hours, I cannot visit my
+parents every week.
+
+What can you do and what can you not do?
+
+## 5. Traduce
+
+1. ¿Quieres comprar una casa en Pozuelo?
+2. Tuve que preguntar a Juan: "¿Puedes ayudar a Sara?"
+3. ¿Pudiste explicar esto a Mary?
+4. Necesité llamar a María.
+5. Los domingos, siempre tengo que ver este programa de televisión.
+6. El jueves pasado fui a la tienda, pero no pude comprar esos zapatos.
+7. No debo preguntar eso.
+8. ¿Tienes que ir a la fiesta?
+9. Quiero olvidar, pero no puedo.
+10. ¿Quieres leche y azúcar?
+11. Ella quiso ir allí.
+12. Tuvimos que estudiar mucho.
+13. ¿Tuvimos que hacer esto?
+14. Sarah no necesita eso.
+15. El jueves pasado no pude ir, pero normalmente puedo ir los miércoles.
+
+## 6. Traduce
+
+1. Siempre veo la televisión después de ir al gimnasio.
+2. Siempre me acuesto después de la cena.
+3. Llamé a Mary durante los anuncios (the commercials).
+4. Antes del desayuno veo la televisión.
+5. El lunes pasado comí pizza después de mi clase.
+
+## 7. Escribe una pequeña historia usando el past simple
