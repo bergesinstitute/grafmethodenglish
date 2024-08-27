@@ -3,7 +3,7 @@
 ## Ejemplos
 
 De nuevo, usamos el *past simple* para hablar de eventos que ocurrieron en un punto temporal muy específico en el pasado.
-Normalmente, indicamos ese punto usando una locución temporal.
+Normalmente, indicamos ese punto usando un adverbio o un modificador temporal.
 
 *Last Monday I went to the gym.*
 
@@ -11,7 +11,7 @@ Normalmente, indicamos ese punto usando una locución temporal.
 
 *Last Wednesday I went to my office.*
 
-*On thursday I went to the park.*
+*On Thursday I went to the park.*
 
 *On Friday I went to a restaurant.*
 
@@ -23,7 +23,7 @@ Normalmente, indicamos ese punto usando una locución temporal.
 
 María: Javier, what did you do last Monday?
 
-Javier: Last Monday I went to the Gym in Móstoles.
+Javier: Last Monday I went to the gym in Móstoles.
 
 M: What did you do on January 17?
 
@@ -149,7 +149,7 @@ Hay que tener en cuenta que para esto nos basamos en la pronunciación del infin
 Excepción: los verbos cuyo infinitivo termina en [t] forman parte del Grupo 3, y no de este grupo, aunque
 [t] sea una consonante sorda.
 
-### Grupo 2: verbos cuyo infinitivo termina en una consonante sonora
+### Grupo 2: verbos cuyo infinitivo termina en un fonema vocálico o en una consonante sonora
 
 Si el infinitivo de un verbo termina en un fonema vocálico o en una consonante sonora, que es una consonante en la que
 vibran las cuerdas vocales, *ed* se pronunciará [d].
@@ -204,8 +204,6 @@ Con estos verbos, *ed* se pronuncia [t].
     talk ['tɔ:k] (hablar) => talked
 
     touch [tʌtʃ] (tocar) => touched
-
-    use [ju:z] (usar) => used
 
     walk [wɔ:k] (caminar) => walked
 
@@ -300,6 +298,8 @@ Con estos verbos, *ed* se pronuncia [d].
 
     turn [tərn] (girar / rotar) => turned
 
+    use [ju:z] (usar) => used
+
 > *El verbo *answer* tiene una pronunciación alternativa que es más típica en Reino Unido: ['ɑ:nsər]
 
 *Close* y *use* terminan en [z], que es muy similar a [s] para un hispanohablante, 
@@ -371,7 +371,7 @@ Last week:
 2. Cociné mucho.
 3. Ella visitó a su madre y a su primo.
 4. Usted trabajó mucho.
-5. Ella ayudó a peter.
+5. Ella ayudó a Peter.
 6. Nosotros bailamos en un club.
 7. Ellos abrieron un restaurante.
 8. Tú estudiaste inglés.

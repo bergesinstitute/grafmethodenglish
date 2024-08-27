@@ -232,9 +232,8 @@ Recuerda que, en inglés, no usamos artículo con un sustantivo genérico: *lawy
 18. ¿Es Sara piloto, modelo, arquitecta o científica?
 19. Salvador Dalí es mi pintor favorito.
 20. Tu amigo Pete es chef en un restaurante en La Latina.
-21. En España, los carteros no trabajan los sábados.
-22. El psiquiatra y el secretario son de Lima.
-23. Su hermana es escritora.
+21. El psiquiatra y el secretario son de Lima.
+22. Su hermana es escritora.
 
 ## 2. Escribe una pequeña redacción
 

@@ -12,7 +12,7 @@ didn't have tickets, and I couldn't buy them at the door.
 
 I went to Millennium Park, and then I ate Chicago pizza in a famous restaurant.
 
-On Wednesday I didn't do much. I got up late. I walked around the city, I went to a restaurant for lunch,
+On Wednesday I didn't do much. I got up late (tarde). I walked around the city, I went to a restaurant for lunch,
 and then I went to a Blues show in the evening. The guitar player was excellent.
 
 On Thursday, I took a taxi to the airport, and I flew back to Barcelona.

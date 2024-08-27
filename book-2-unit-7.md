@@ -6,7 +6,7 @@ Para decir que hicimos algo hace X horas/días/años/etc., en inglés usaremos e
 
 *I moved to Madrid three years ago.* (Me mudé a Madrid hace tres años).
 
-# Números de 101 a 1 millón en inglés
+# Números de 100 a 1 millón en inglés
 
 Para 100-999:
 
@@ -34,6 +34,8 @@ Para 1.000 - 999.999:
 
 > Para *one thousand* también podemos decir *a thousand.*
 
+> En inglés, usamos comas en lugar de puntos o espacios para separar los millares y millones.
+
 Si el antepenúltimo dígito es 0, tendremos que añadir *and*:
 
 2,045 - *two thousand and forty-five*
@@ -46,9 +48,9 @@ Para los millones:
 
     1,000,000 one million ['mɪliən]
 
-    2,000,000 two million ['mɪliən]
+    2,000,000 two million
 
-    3,000,000 three million ['mɪliən]
+    3,000,000 three million
 
     etc.
 
@@ -62,8 +64,6 @@ Si es cualquier otro dígito, no añadiremos *and* después de *thousand*, ya qu
 
 4,267,352 - *four million, two hundred and sixty-seven thousand, three hundred and fifty-two*
 
-> En inglés, usamos comas en lugar de puntos o espacios para separar los millares y millones.
-
 # Años en inglés
 
 Para el año, dividimos el número en dos grupos de dos dígitos:
@@ -76,7 +76,7 @@ Si el antepenúltimo dígito es 0, lo llamaremos O.
 
 1907 - *nineteen O seven*
 
-> Después del año 2000, es también habitual decir el número completo: 2005, two thousand and five.
+> Después del año 2000, es también habitual decir el número completo: 2005, *two thousand and five.*
 
 # Present progressive
 
@@ -132,11 +132,11 @@ Recuerda que *could* es el pasado de *can.*
 5. 523
 6. 333
 7. 999
-8. 2.456
-9. 3.521
-10. 5.001
-11. 6.023
-12. 10.000
+8. 2,456
+9. 3,521
+10. 5,001
+11. 6,023
+12. 10,000
 
 ## 3. Escribe los años
 
@@ -145,7 +145,7 @@ Recuerda que *could* es el pasado de *can.*
 3. 1999
 4. 2004
 5. 2013
-6. 1200
+6. 1278
 7. 1131
 8. 1965
 9. 1734

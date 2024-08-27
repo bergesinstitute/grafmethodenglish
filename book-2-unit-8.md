@@ -31,7 +31,7 @@ Además, en español tenemos la expresión *está nublado*. En inglés, es igual
 
 Y por último, la expresión *hay niebla* también es, en inglés, igual a las anteriores:
 
-    it's foggy ['fɔgi] - hace niebla
+    it's foggy ['fɔgi] - hay niebla
 
 Y aquí tenemos las expresiones que usamos cuando está lloviendo o nevando:
 
@@ -79,9 +79,9 @@ Además, el verbo *meet* se puede usar con el significado de *reunirse con algui
     
     nobody ['noʊbɑdi] / no one [noʊ wʌn] - nadie
 
-*I have something.* (Yo tengo algo).
+*I have something.* (Tengo algo).
 
-*I know somebody.* (Yo conozco a alguien).
+*I know somebody.* (Conozco a alguien).
 
 Para el negativo, en español, usamos *no* y *nada/nadie* en la misma oración:
 
@@ -89,9 +89,9 @@ Para el negativo, en español, usamos *no* y *nada/nadie* en la misma oración:
 
 En inglés, no podemos usar doble negativo. Si usamos *nothing/nobody* la oración tiene que ser afirmativa:
 
-*I have nothing.* (Yo no tengo nada).
+*I have nothing.* (No tengo nada).
 
-*I know nobody.* (Yo no conozco a nadie).
+*I know nobody.* (No conozco a nadie).
 
 Y si la oración es negativa, tenemos que cambiar *nothing/nobody* por lo siguiente:
 
@@ -99,9 +99,9 @@ Y si la oración es negativa, tenemos que cambiar *nothing/nobody* por lo siguie
 
     nobody / no one => anybody ['ɛnibɑdi] / anyone ['ɛniwʌn]
 
-*I don't have anything.* (Yo no tengo nada).
+*I don't have anything.* (No tengo nada).
 
-*I don't know anybody.* (Yo no conozco a nadie).
+*I don't know anybody.* (No conozco a nadie).
 
 # Either & neither
 
@@ -156,7 +156,7 @@ Si el verbo es modal, hacemos lo mismo:
 
 I was born in Russia on September 5, 1982. I lived in Siberia from 1982 to 2003. In June 2003, I moved to Madrid.
 I lived there for four years. I worked at a restaurant for a year. In 2008, I moved again, to Barcelona.
-I studied in the university for 2 years, and in 20013 I bought a house in Badalona. I live now in my house
+I studied in the university for 2 years, and in 2013 I bought a house in Badalona. I live now in my house
 with my dog Manolo and my cat Verónica.
 
 ¿Puedes hablarnos sobre algunos momentos importantes en tu vida?
@@ -192,7 +192,7 @@ In Chicago, it's usually very hot in the summer. In the winter, it is very cold,
 It rains sometimes. In the spring, it's hot, and the trees (árboles) are very beautiful. I like the weather in
 Chicago. It snows every winter, but it's very sunny in the summer. It's never foggy.
 
-¿Puedes explicarnos cómo es el tiempo en tu ciudad?
+¿Puedes explicarnos cómo es el clima en tu ciudad?
 
 ## 5. Traduce
 

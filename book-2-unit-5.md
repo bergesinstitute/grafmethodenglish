@@ -159,7 +159,7 @@ En los verbos que terminan en una E que no se pronuncia, eliminamos la E:
     have (tener) => having (teniendo)
 
 En los verbos que tienen una sola sílaba, o tienen más de una, pero el acento fonético está en la última, 
-y terminan en consonante - vocal - consonante, duplicamos la última consonante.
+y terminan en consonante - vocal - consonante, duplicamos la última consonante:
 
     begin (empezar) => beginning (empezando)
 
@@ -188,7 +188,7 @@ que aprenderse todas estas reglas ortográficas.
 
     this [ðɪs] - este / esta / esto
 
-    these ['ði:z] - estos / estas
+    these [ði:z] - estos / estas
 
     that [ðæt] - ese / esa / eso / aquel / aquella / aquello  
 
@@ -198,7 +198,7 @@ Los demostrativos pueden ser adjetivos o pronombres. Cuando van con un sustantiv
 
 *This house is big. That piano is black.* (Esta casa es grande. Ese piano es negro).
 
-Cuando van solos, son pronombres.
+Cuando van solos, son pronombres:
 
 *That's black.* (Eso es negro).
 
@@ -214,7 +214,7 @@ Cuando hablamos de un objeto específico, es común añadir *one:*
 
 Last week:
 
-1. Ellos vieron la televisión.
+1. Ellos compraron un coche.
 2. María y Paula corrieron en el parque.
 3. Mi hermana escribió una carta.
 4. Yo comí pizza.

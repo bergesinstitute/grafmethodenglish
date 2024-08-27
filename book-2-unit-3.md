@@ -26,6 +26,8 @@ Con el resto de adjetivos, y con sustantivos, en lugar de modificarlos, pondremo
 
     Él tiene más dinero que su hermano. He has more money than his brother.
 
+    Mi casa tiene más ventanas que tu casa. My house has more windows than your house.
+
 Las versiones comparativas de *good* y *bad* son irregulares:
 
     better ['bɛtər] than - mejor que
@@ -89,7 +91,7 @@ Con el resto de adjetivos, en lugar de modificarlos, pondremos *the most* [moʊs
 
 ### El menos
 
-Para *el menos (...)*, en inglés tenemos que usar en todos los casos *the least* [li:st]
+Para *el menos (...) / la menos (...)*, en inglés tenemos que usar en todos los casos *the least* [li:st]
 antes del adjetivo.
 
     Soy el menos alto. I am the least tall.
@@ -124,7 +126,7 @@ Kansas sometimes, but I don't go as much as my brother.
 
     I know [noʊ] - lo sé
 
-*Also* debe ir antes del verbo, y *too* debe ir después. El significado es el mismo.
+*Also* debe ir antes del verbo, y *too* debe ir después (normalmente al final de la oración). El significado es el mismo.
 
     I live in Madrid. I also live in Madrid. I live in Madrid too.
 
@@ -201,9 +203,9 @@ en infinitivo.
 # El pasado simple o past simple
 
 Usamos el *past simple* con eventos que ocurrieron en un punto específico del pasado. Normalmente,
-indicamos ese punto utilizando una locución temporal. Estas son algunas locuciones temporales comunes:
+indicamos ese punto utilizando un adverbio o modificador temporal. Estos son algunos adverbios y modificadores temporales comunes:
 
-    yesterday ['jɛstərdeɪ]  - ayer
+    yesterday ['jɛstərdeɪ] - ayer
 
     last night - anoche
 
@@ -269,7 +271,7 @@ La traducción más correcta para *que yo* sería *than I*, pero mucha gente dic
 4. Mi apartamento es tan pequeño como un armario.
 5. Tengo tantos perros como Ana.
 6. María es más alta que Javier.
-7. Carol G vende más boletos (tickets) que Pat Metheny.
+7. Karol G vende más entradas (tickets) que Pat Metheny.
 8. Mi madre es más alta que yo. 
 9. Nuestra casa es más grande que la casa de Frodo.
 10. Mi apartamento es más pequeño que el apartamento de mi madre.
@@ -279,23 +281,22 @@ La traducción más correcta para *que yo* sería *than I*, pero mucha gente dic
 14. Kate es tan hermosa como María.
 15. La casa de Miguel es la más alta en el barrio (neighborhood).
 16. Mi amigo Kevin es el peor cantante en España.
-17. Mi primo Juan trabaja menos que un koala.
-18. Ferrán Adriá es el mejor chef del mundo. (*del mundo* = *in the world*)
-19. Leo es tan simpático como Pablo.
-20. Francis es más educado que Germán.
-21. Bill Gates es el hombre más rico del mundo.
-22. Jennifer es más joven que Pablo.
-23. Alberto es simpático, pero su hermana Sara es muy antipática.
-24. El pelo de Sara es más rizado que el pelo de María.
-25. Peter trabaja tanto como Marta.
-26. Alfredo tiene tantas chaquetas como Martín.
+17. Ferrán Adriá es el mejor chef del mundo. (*del mundo* = *in the world*)
+18. Leo es tan simpático como Pablo.
+19. Francis es más educado que Germán.
+20. Bill Gates es el hombre más rico del mundo.
+21. Jennifer es más joven que Pablo.
+22. Alberto es simpático, pero su hermana Sara es muy antipática.
+23. El pelo de Sara es más rizado que el pelo de María.
+24. Peter trabaja tanto como Marta.
+25. Alfredo tiene tantas chaquetas como Martín.
 
 ## 2. Responde
 
 1. Do you usually work on Saturdays as much as on Mondays?
 2. Who is the most famous actor in the world?
 3. Which country is bigger, Russia or Canada?
-4. Which is the biggest dessert in the world?
+4. Which is the biggest desert (desierto) in the world?
 
 ## 3. Escribe 3 oraciones usando comparativos y 3 usando superlativos
 

@@ -25,7 +25,7 @@ En inglés, no hay preposición, y podemos usar el gerundio o el verbo conjugado
 
 # Verbos que van seguidos de otro verbo
 
-Los verbos *want, *need* y *have* van muchas veces seguidos de un verbo en infinitivo.
+Los verbos *want, need* y *have* van muchas veces seguidos de un verbo en infinitivo.
 Cuando usamos *have* de esta manera significa *tener que*. En el infinitivo del verbo
 tenemos que incluir la preposición *to*.
 
@@ -41,7 +41,7 @@ tenemos que incluir la preposición *to*.
 
     can [kæn] - poder
 
-    must ['mʌst] - deber
+    must [mʌst] - deber
 
     should [ʃʊd] - (explicado más adelante)
 
@@ -80,7 +80,7 @@ Los verbos *can, must* y *should* tienen contracciones negativas:
 
     shouldn't ['ʃʊdənt]
 
-> *Can't* se pronuncia generalmente ['kant] en Estados Unidos y ['kɑ:nt] en Reino Unido.
+> *Can't* se pronuncia generalmente [kant] en Estados Unidos y [kɑ:nt] en Reino Unido.
 
 Dicho esto, la contracción negativa de *must* no se usa mucho, y la de *can* recomendamos evitarla porque a
 veces si hablamos rápido es difícil diferenciarla de la versión afirmativa.
@@ -161,7 +161,7 @@ del verbo *to do* en oraciones afirmativas y negativas.
 
 *We might have to wait.* (Es posible que tengamos que esperar).
 
-#### Uso en pasado
+### Uso en pasado
 
     could [kʊd]
 
@@ -208,7 +208,7 @@ pero en pasado se usan de una manera especial que no veremos en este nivel.
 
 ### Conversation
 
-Clara: Hi Elena. Do you want to go see a Movie tonight?
+Clara: Hi Elena. Do you want to go see a movie tonight?
 
 Elena: What movie do you want to see?
 
@@ -245,7 +245,7 @@ J: No, I also had to work.
 2. Do you want to eat a donut?
 3. Can you go to that dinner?
 4. Do you need a vacation?
-5. Do you usually have to work on weekends?
+5. Do you usually have to work on the weekend?
 6. Do you have to go to the supermarket?
 7. Do you want to go to the gym more?
 8. Can you run 10 kilometers in less than 40 minutes?
@@ -291,6 +291,8 @@ What can you do and what can you not do?
 15. El jueves pasado no pude ir, pero normalmente puedo ir los miércoles.
 
 ## 6. Traduce
+
+Recuerda que, en inglés, no hay preposición después de *before* y *after.*
 
 1. Siempre veo la televisión después de ir al gimnasio.
 2. Siempre me acuesto después de la cena.
