@@ -1,6 +1,6 @@
 # Time ago
 
-Para decir que hicimos algo hace X horas/días/años/etc., en inglés usaremos el adjetivo *ago* [ə'goʊ].
+Para decir que hicimos algo hace X horas/días/años/etc., en inglés usaremos el adverbio *ago* [ə'goʊ].
 
 *I did my homework two hours ago.* (Hice mis deberes hace dos horas).
 

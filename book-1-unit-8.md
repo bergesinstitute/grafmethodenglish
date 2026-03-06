@@ -1,16 +1,16 @@
 # Clothes (ropa)
 
-    shirt [ʃərt] - camisa
+    shirt [ʃɜrt] - camisa
 
     blouse [blaʊz] - blusa
 
-    t-shirt ['ti:ʃərt] - camiseta / playera
+    t-shirt ['ti:ʃɜrt] - camiseta
 
     pants [pænts] / trousers ['traʊzərz] - pantalones
 
     dress [drɛs] - vestido
 
-    skirt ['skərt] - falda
+    skirt ['skɜrt] - falda
 
     shoes [ʃu:z] - zapatos
 
@@ -162,7 +162,7 @@ artículo, como hacemos en español.
 - Four eyes
 - Four ears
 - Three arms
-- A lot of hair in its heads
+- A lot of hair on its heads
 - Four legs
 - Two very large mouths
 - Very sharp [ʃɑ:p] teeth (dientes muy afilados)

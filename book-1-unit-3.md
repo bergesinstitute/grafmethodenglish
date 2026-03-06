@@ -26,7 +26,7 @@ Aquí tenemos una fórmula básica que funciona en todo el mundo:
 
     Hello. - Hola
     
-    What is your name? - ¿Cuál (lit. qué) es tu numbre?
+    What is your name? - ¿Cuál (lit. qué) es tu nombre?
 
     My name is Juan. - Mi nombre es Juan.
 
@@ -141,7 +141,7 @@ conversaciones:
 La conjugación del verbo *to have* es muy sencilla. Solamente
 cambia en la tercera persona del singular (*has*).
 
-En español, el verbo *tener* cambiar en cada persona: *tengo, tienes, tiene,
+En español, el verbo *tener* cambia en cada persona: *tengo, tienes, tiene,
 tenemos, tenéis, tienen*. En inglés los verbos son mucho más sencillos de
 conjugar. La dificultad radica en la pronunciación, que es objetivamente
 más compleja que la del español.
@@ -322,7 +322,7 @@ Las dos conjugaciones del verbo *to go* se pronuncian así:
 5. Mi perro y tu perro son altos.
 6. Su gato está feliz y mi perro está triste.
 7. Su gato es marrón y mi gato es blanco.
-8. Nuestra casa es negra y tu casa el blanca.
+8. Nuestra casa es negra y tu casa es blanca.
 
 ## 2. Traduce
 
@@ -352,7 +352,7 @@ The house ______ in Ibiza. My father's car ______ black.
 7. Tu casa es blanca y mi casa es roja.
 8. Tus perros están muy felices.
 9. Su hermana y mi hija están cansadas.
-10. My primo es de Perú.
+10. Mi primo es de Perú.
 
 ## 5. Memoriza la conjugación y la pronunciación de los siguientes verbos: 
 

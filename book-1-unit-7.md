@@ -99,7 +99,7 @@ se pronuncia ['twɛnti wʌn].
 
     Lo mismo para 30, 40, 50, etc.
 
-    30 - thirty ['θərti]
+    30 - thirty ['θɜrti]
 
     40 - forty ['fɔrti]
 
@@ -184,7 +184,7 @@ más común es decir los números directamente.
 
     It's seven thirty.
 
-    It's eleven fourty-five.
+    It's eleven forty-five.
 
     It's two fifty-five.
 
@@ -245,7 +245,7 @@ llevan algún extra. Aquí van algunos:
 
     shower ['ʃaʊər] - ducharse
 
-    wash your face [wɒʃ jɔ:r feɪs] - lavarse la cara
+    wash your face [wɑʃ jɔ:r feɪs] - lavarse la cara
 
     get dressed [gɛt drɛst] - vestirse
 
@@ -262,7 +262,7 @@ un posesivo: *I wash my face, you wash your face, we brush our teeth,* etc.
 
 # Conversation
 
-Pérez: Hi Silvia, what time to you get up every morning?
+Pérez: Hi Silvia, what time do you get up every morning?
 
 Silvia: Hi Pérez. I get up at seven every morning.
 

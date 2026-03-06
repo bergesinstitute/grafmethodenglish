@@ -18,7 +18,7 @@
 
     firefighter ['faɪərfaɪtər] - bombero
 
-    journalist ['dʒərnəlɪst] - periodista
+    journalist ['dʒɜrnəlɪst] - periodista
 
     judge [dʒʌdʒ] - juez
     
@@ -28,7 +28,7 @@
       
     model ['mɑdəl] - modelo
 
-    nurse [nərs] - enfermero
+    nurse [nɜrs] - enfermero
           
     painter ['peɪntər] - pintor
 
@@ -42,7 +42,7 @@
 
     psychiatrist [saɪ'kaɪətrɪst] - psiquiatra
 
-    psychologist [saɪ'kɒlədʒɪst] - psicólogo
+    psychologist [saɪ'kɑlədʒɪst] - psicólogo
      
     receptionist [rɪ'sɛpʃənɪst] - recepcionista
 
@@ -54,7 +54,7 @@
 
     singer ['sɪŋər] - cantante
 
-    student ['stjudənt] - estudiante
+    student ['stju:dənt] - estudiante
 
     taxi driver ['tæksi 'draɪvər] - taxista
 
@@ -62,9 +62,9 @@
     
     vet [vɛt] - veterinario
 
-    waiter ['weɪtər] - camarero / mesero
-    
-    waitress ['weɪtrəs] - camarera / mesera
+    waiter ['weɪtər] - camarero
+
+    waitress ['weɪtrəs] - camarera
 
     writer ['raɪtər] - escritor
 
@@ -89,15 +89,15 @@ En inglés, para decir que alguien es X, tenemos que usar el artículo indetermi
     
     slim [slɪm] - delgado
     
-    strong [strɔŋ] - fuerte
+    strong [strɔ:ŋ] - fuerte
     
     weak ['wi:k] - débil
     
-    handsome ['hænsəm] / pretty ['prɪti] - guapo
+    handsome ['hændsəm] / pretty ['prɪti] - guapo
     
     ugly ['ʌgli] - feo
     
-    beautiful ['bjutəfəl] - bonito / hermoso
+    beautiful ['bju:təfəl] - bonito / hermoso
     
     young [jʌŋ] - joven
     
@@ -154,7 +154,7 @@ pero en inglés no.
 
     straight [streɪt] - liso
 
-    curly ['kərli] - rizado
+    curly ['kɜrli] - rizado
 
     blonde [blɑnd] - rubio
 
@@ -196,13 +196,13 @@ Usamos colores: *black, blue, green, brown...*
     
     sick [sɪk] - enfermo
     
-    nervous ['nərvəs] - nervioso
+    nervous ['nɜrvəs] - nervioso
     
     excited [ɪk'saɪtɪd] - emocionado
     
     busy ['bɪzi] - ocupado
     
-    worried ['wərid] - preocupado
+    worried ['wɜrid] - preocupado
     
     relaxed [rɪ'lækst] - relajado
 

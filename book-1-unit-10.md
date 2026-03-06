@@ -17,13 +17,13 @@ de referencia.
 
     pear [pɛr] - pera
 
-    strawberry ['strɔbəri] - fresa
+    strawberry ['strɔ:bəri] - fresa
 
     blueberry ['blubəri] - arándano
 
     banana [bə'nænə] - plátano
 
-    peach [pi:tʃ] - melocotón / durazno
+    peach [pi:tʃ] - melocotón
 
     lemon ['lɛmən] - limón
 
@@ -51,11 +51,11 @@ de referencia.
 
     beef [bi:f] - ternera
 
-    pork [pɔ:rk] - cerdo / puerco
+    pork [pɔ:rk] - cerdo
 
     fish [fɪʃ] - pescado
 
-    shrimp [ʃrɪmp] - gamba / camarón
+    shrimp [ʃrɪmp] - gamba
 
     squid [skwɪd] - calamar
 
@@ -73,7 +73,7 @@ de referencia.
 
     burger ['bərgər] - hamburguesa
 
-    fries [fraɪz] - patatas/papas fritas
+    fries [fraɪz] - patatas fritas
 
     bread [brɛd] - pan
     
@@ -99,7 +99,7 @@ de referencia.
 
     fennel ['fɛnəl] - hinojo
 
-    beans [bi:nz] - judías / frijoles
+    beans [bi:nz] - judías
 
     cucumber ['kjukʌmbər] - pepino
 
@@ -117,7 +117,7 @@ de referencia.
 
     eggplant ['ɛgplænt] / aubergine ['əʊbərʒi:n] - berenjena
 
-    mushrooms ['mʌʃrumz] - setas / hongos
+    mushrooms ['mʌʃrumz] - setas
 
     squash [skwɑʃ] / pumpkin ['pʌmpkɪn] - calabaza
 
@@ -144,11 +144,11 @@ de referencia.
 
     shake [ʃeɪk] - batido
 
-    coffee ['kɔfi] - café
+    coffee ['kɔ:fi] - café
 
     lemonade [lɛmə'neɪd] - limonada
 
-    juice [dʒu:s] - zumo / jugo
+    juice [dʒu:s] - zumo
 
     milk [mɪlk] - leche
 

@@ -4,7 +4,7 @@
 
 El alfabeto inglés tiene 26 letras:
 
-    A [ei]
+    A [eɪ]
     
     B [bi:]
     
@@ -44,7 +44,7 @@ El alfabeto inglés tiene 26 letras:
     
     T [ti:]
     
-    U [iu:]
+    U [ju:]
     
     V [vi:]
     
@@ -91,7 +91,7 @@ Por ahora tenemos dos sonidos asociados a la letra I en inglés:
 [i], que es el sonido de la I en español, y [i:], que es como la I en español, 
 pero muy larga.
 
-Por ejemplo la palabra *sea* (mar) se pronuncia [si]. La palabra *beet* (rábano) se pronuncia
+Por ejemplo la palabra *sea* (mar) se pronuncia [si:]. La palabra *beet* (remolacha) se pronuncia
 [bi:t].
 
 Hay una tercera I que se representa así: [ɪ] (una I mayúscula pequeña). 
@@ -135,7 +135,7 @@ De nuevo tenemos algunos símbolos fonéticos que no conocemos. Recomendamos
 tratar de usar solamente los que conocemos ([a], [e], [i:], [ɪ], [u:], [j]) e ignorar los demás,
 tratando de pronunciar los diferentes pronombres imitando a tu profesor.
 
-Solamente la tercera persona del síngular tiene género (*he, she*, pare *él,
+Solamente la tercera persona del singular tiene género (*he, she*, para *él,
 ella*, respectivamente). Además, tiene
 una tercera forma, *it*, que se usa para objetos inanimados. 
 
@@ -250,7 +250,7 @@ añadimos S al final, o si termina en S, SH, CH, X o Z, añadimos ES.
 
     fox => foxes (zorro => zorros)
 
-    whish => wishes (deseo => deseos)
+    wish => wishes (deseo => deseos)
 
 Si un sustantivo termina en Y, para construir el plural cambiamos Y por I y añadimos ES:
 

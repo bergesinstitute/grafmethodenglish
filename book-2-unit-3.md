@@ -32,14 +32,18 @@ Las versiones comparativas de *good* y *bad* son irregulares:
 
     better ['bɛtər] than - mejor que
 
-    worse [wərs] than - peor que
+    worse [wɜrs] than - peor que
 
 #### Menos que
 
-Para *menos (...) que*, tenemos que usar en todos los casos *less* [lɛs]
-antes del adjetivo o el sustantivo, y *than* después.
+Para *menos (...) que*, usamos *less* [lɛs] antes del adjetivo o el sustantivo, y *than* después.
 
     Soy menos alto que María. I am less tall than María.
+
+> Con sustantivos contables en plural, usamos *fewer* ['fju:ər] en lugar de *less*:
+> *I have fewer books than you.* (Tengo menos libros que tú).
+> Con sustantivos incontables, usamos *less*:
+> *I have less money than you.* (Tengo menos dinero que tú).
 
 Aunque con adjetivos en general es mejor evitar esto y usar el que significa lo contrario:
 
@@ -106,7 +110,7 @@ Las versiones superlativas de *good* y *bad* son irregulares:
 
     the best [bɛst] - el mejor
 
-    the worst [wərst] - el peor
+    the worst [wɜrst] - el peor
 
 ## Ejemplo: Peter's family
 
@@ -114,7 +118,7 @@ My mother is taller than my father, and my father is taller than my brother. My 
 My grandfather is as tall as my grandmother.
 
 My grandfather and my grandmother live in Nevada, and they have many cats and two dogs. My parents live
-in Kansas, and they have less cats than my grandparents — they have two — but they have more dogs — they have three,
+in Kansas, and they have fewer cats than my grandparents — they have two — but they have more dogs — they have three,
 and they are very big. I don't have a dog or a cat.
 
 My brother goes to Nevada and Kansas a lot to visit my grandparents and my parents. I go to Nevada and
@@ -241,7 +245,7 @@ Examples:
     
     June [dʒu:n] - junio
     
-    July [dʒʊ'laɪ] - julio
+    July [dʒu'laɪ] - julio
     
     August ['ɔ:gʌst] - agosto
     

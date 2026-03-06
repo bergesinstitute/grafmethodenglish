@@ -1,3 +1,3 @@
 All Rights Reserved
 
-Copyright (c) Berges Institute LLC
+Copyright (c) Berges Institute SLU

@@ -140,7 +140,7 @@ I: My bedroom is a closet.
 
     eat [i:t] - comer
 
-    learn [lərn] - aprender
+    learn [lɜrn] - aprender
 
     live [lɪv] - vivir
 
@@ -156,7 +156,7 @@ I: My bedroom is a closet.
 
     run [rʌn] - correr
 
-    sell [sɛl] - vernder
+    sell [sɛl] - vender
 
     send [sɛnd] - enviar
 
@@ -178,7 +178,7 @@ I: My bedroom is a closet.
 
     wear [wɛr] - llevar (algo puesto)
 
-    work [wərk] - trabajar
+    work [wɜrk] - trabajar
 
     write [raɪt] - escribir
 
@@ -308,7 +308,7 @@ In my living room there are five windows, a table, four chairs, a TV, and a pian
 8. Hay cinco sillas en mi cuarto.
 9. Ana tiene dos primos.
 10. Los jueves ellos van al supermercado.
-11. My dormitorio tiene dos ventanas.
+11. Mi dormitorio tiene dos ventanas.
 12. Su hermana está en Valencia.
 13. Sara va a la iglesia los miércoles.
 14. Nuestra casa tiene un salón grande.

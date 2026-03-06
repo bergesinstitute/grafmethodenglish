@@ -211,11 +211,11 @@ Con estos verbos, *ed* se pronuncia [t].
 
     watch [wɑtʃ] (ver / mirar) => watched
 
-    work [wərk] (trabajar) => worked
+    work [wɜrk] (trabajar) => worked
 
-> *Los verbos *ask*, *dance* y *laugh* tienen una pronunciación alternativa que es más típica en Reino Unido: [ɑ:sk], [dɑ:ns] [lɑ:f]
+> Los verbos *ask*, *dance* y *laugh* tienen una pronunciación alternativa que es más típica en Reino Unido: [ɑ:sk], [dɑ:ns], [lɑ:f].
 
-> **El verbo *stop* necesita una P doble en el pasado: *stopped*.
+> El verbo *stop* necesita una P doble en el pasado: *stopped*.
 
 Es muy importante exagerar las consonantes finales. Por ejemplo, en *cooked*
 y *worked* necesitamos escuchar claramente [k] [t] al final.
@@ -254,7 +254,7 @@ Con estos verbos, *ed* se pronuncia [d].
 
     kill [kɪl] (matar) => killed
 
-    learn [lərn] (aprender) => learned
+    learn [lɜrn] (aprender) => learned
 
     listen ['lɪsən] (escuchar) => listened
 
@@ -272,7 +272,7 @@ Con estos verbos, *ed* se pronuncia [d].
 
     pull [pʊl] (tirar de) => pulled
 
-    prefer [prɪ'fər] (preferir) => prefered
+    prefer [prɪ'fɜr] (preferir) => preferred
 
     receive [rɪ'si:v] (recibir) => received
 
@@ -296,7 +296,7 @@ Con estos verbos, *ed* se pronuncia [d].
 
     try [traɪ] (intentar / tratar) => tried
 
-    turn [tərn] (girar / rotar) => turned
+    turn [tɜrn] (girar / rotar) => turned
 
     use [ju:z] (usar) => used
 
@@ -340,10 +340,10 @@ Con estos verbos, *ed* se pronuncia [ɪd].
 
 ## 2. Completa, usando to do en las preguntas y el verbo que tú prefieras en las respuestas
 
-1. ¿What __________ you __________ last Friday? Last Friday I ______________________________.
-2. ¿What __________ they __________ last Thursday? Last Thursday they ______________________________.
-3. ¿What __________ María __________ on Wednesday night? On Wednesday night María ______________________________.
-4. ¿What __________ we __________ on Monday? On Monday we ______________________________.
+1. What __________ you __________ last Friday? Last Friday I ______________________________.
+2. What __________ they __________ last Thursday? Last Thursday they ______________________________.
+3. What __________ María __________ on Wednesday night? On Wednesday night María ______________________________.
+4. What __________ we __________ on Monday? On Monday we ______________________________.
 
 ## 3. Completa usando el verbo to go en past simple
 
@@ -357,7 +357,7 @@ Con estos verbos, *ed* se pronuncia [ɪd].
 1. She __________ in Segovia last weekend.
 2. We __________ in Madrid in May.
 3. On June 23, they __________ a math exam.
-4. On april 15 I __________ a car accident.
+4. On April 15 I __________ a car accident.
 5. On September 30 my cousin __________ a son.
 6. Last Tuesday you __________ at the gym.
 7. Where __________ she on Saturday?

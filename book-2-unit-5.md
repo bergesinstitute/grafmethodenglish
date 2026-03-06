@@ -32,17 +32,17 @@
 
     drink [drɪŋk] (beber) => drank [dræŋk]
 
-    drive [draɪv] (conducir / manejar) => drove [droʊv]
+    drive [draɪv] (conducir) => drove [droʊv]
 
     eat [i:t] (comer) => ate [eɪt]
 
-    fall [fɔl] (caer / caerse) => fell [fɛl]
+    fall [fɔ:l] (caer / caerse) => fell [fɛl]
 
     feed [fi:d] (alimentar a / dar de comer a) => fed [fɛd]
 
     feel [fi:l] (sentir / sentirse) => felt [fɛlt] 
 
-    fight [faɪt] (luchar / pelear) => fought [fɔt]
+    fight [faɪt] (luchar / pelear) => fought [fɔ:t]
 
     find [faɪnd] (encontrar) => found [faʊnd]
 
@@ -62,15 +62,15 @@
 
     have [hæv] (tener) => had [hæd]
 
-    hear [hɪər] (oír) => heard [hərd]
+    hear [hɪər] (oír) => heard [hɜrd]
 
-    hide [haɪd] (esconcer / esconderse) => hid [hɪd]
+    hide [haɪd] (esconder / esconderse) => hid [hɪd]
 
     keep [ki:p] (guardar / conservar / quedarse con) => kept [kɛpt]
 
     know [noʊ] (conocer / saber) => knew [nju:]
 
-    lead [li:d] (guiar / dirijir) => led [lɛd]
+    lead [li:d] (guiar / dirigir) => led [lɛd]
 
     leave [li:v] (irse / marcharse) => left [lɛft]
 

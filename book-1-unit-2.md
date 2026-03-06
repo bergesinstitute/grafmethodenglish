@@ -14,15 +14,15 @@
 
     son [sʌn] - hijo
 
-    daughter ['dɔtər] - hija
+    daughter ['dɔ:tər] - hija
 
-    grandfather ['grændfɑðər] - abuelo
+    grandfather ['grændfɑ:ðər] - abuelo
 
     grandmother ['grændmʌðər] - abuela
 
     grandson ['grændsʌn] - nieto
 
-    granddaughter ['grændɔtər] - nieta
+    granddaughter ['grændɔ:tər] - nieta
 
     uncle ['ʌŋkəl] - tío
 
@@ -127,7 +127,7 @@ siempre van **antes** del sustantivo:
     
     pink [pɪŋk] - rosa
     
-    purple ['pərpəl] - púrpura / morado
+    purple ['pɜrpəl] - púrpura / morado
     
     black [blæk] - negro
     
@@ -164,7 +164,7 @@ en una U normal.
 
     big [bɪg] / large [lɑ:rdʒ] - grande
 
-    small [smɔl] - pequeño
+    small [smɔ:l] - pequeño
 
     tall [tɔl] - alto
 
@@ -185,7 +185,7 @@ En *small*, la S es también la misma, pero en español no tenemos palabras que
 empiezan con una S que no va acompañando a una vocal.
 
 Por esta razón, tendemos a añadir una E antes: [esmɔl]. Tenemos que tratar
-de evitar esto, y pronunciar la S sin nada antes: [smɔl].
+de evitar esto, y pronunciar la S sin nada antes: [smɔ:l].
 
 Otras palabras similares son *space* [speɪs] (espacio) 
 y *snail* [sneɪl] (caracol).
@@ -289,7 +289,7 @@ No tienen género ni número. Aquí va un adverbio importante:
     
     house [haʊs] - casa
     
-    car [kɑ:r] - coche / auto
+    car [kɑ:r] - coche
     
     good morning [gʊd 'mɔrnɪŋ] - buenos días
     
@@ -305,7 +305,7 @@ No tienen género ni número. Aquí va un adverbio importante:
 
     boy [bɔɪ] - niño
 
-    girl [gərl] - niña
+    girl [gɜrl] - niña
 
 ## Plural de man y woman
 
@@ -380,7 +380,7 @@ tendemos a pronunciar la A como [ə].
 (Yo soy de Madrid y Laura es de Barcelona).
 
 *Juan is in London or in New York.*
-(Juan está en Londres on en Nueva York).
+(Juan está en Londres o en Nueva York).
 
 *I am in New York, but Pedro is in London.*
 (Yo estoy en Nueva York, pero Pedro está en Londres).

@@ -22,7 +22,7 @@
 
     Wednesday ['wɛnzdeɪ] - miércoles
 
-    Thursday ['θərzdeɪ] - jueves
+    Thursday ['θɜrzdeɪ] - jueves
 
     Friday ['fraɪdeɪ] - viernes
 
@@ -60,7 +60,7 @@ En inglés, los días de la semana siempre van con mayúscula.
 
     park [pɑ:rk] - parque
 
-    church [tʃərtʃ] - iglesia
+    church [tʃɜrtʃ] - iglesia
 
     synagogue ['sɪnəgɑg] - sinagoga
 
@@ -102,8 +102,9 @@ durante la semana:
 
     On Sundays I go to a restaurant.
 
-> Con *church* omitimos *the: On Tuesdays I go to church.* No hay una razón específica, simplemente
-> es así.
+> Con *church* omitimos *the*: *On Tuesdays I go to church.* Esto ocurre cuando vamos
+> a un lugar para su función principal (en este caso, para rezar). Lo mismo pasa con *school*
+> (ir a estudiar), *bed* (ir a dormir), *hospital* (ir como paciente), etc.
 
 En lugar de decir *los lunes*, en inglés decimos *on Mondays*. El significado
 implícito, tanto en inglés como en español, es *cada lunes*.

@@ -26,7 +26,7 @@
 
     book [bʊk] - libro
 
-    computer [kəm'pjutər] - ordenador / computadora
+    computer [kəm'pjutər] - ordenador
 
 # El sujeto y el objeto
 
@@ -145,7 +145,7 @@ de *many* y *few*:
 
     not many closets
 
-    a lof of windows
+    a lot of windows
 
     not many windows
 
@@ -289,7 +289,7 @@ at a restaurant.
 
 ****
 
-Max: Do you read a lof of books?
+Max: Do you read a lot of books?
 
 Paulina: I read a lot of books, do you read a lot of books?
 

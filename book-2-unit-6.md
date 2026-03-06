@@ -74,7 +74,7 @@ Aquí está, por ejemplo, la conjugación del verbo *can:*
 
 Los verbos *can, must* y *should* tienen contracciones negativas:
 
-    can't [kant]
+    can't [kænt]
 
     mustn't ['mʌsənt]
 
@@ -113,7 +113,7 @@ Tiene un uso adicional, en el que significa *saber cómo hacer algo*.
 
 *I can swim.* (Sé nadar).
 
-A veces, podemos usar en lugar the *can* el siguiente verbo:
+A veces, podemos usar en lugar de *can* el siguiente verbo:
 
     be able ['eɪbəl] (to) - poder / ser capaz de
 
@@ -133,7 +133,7 @@ los siguientes verbos que ya hemos mencionado anteriormente:
 *I need to buy more bananas.* (Necesito comprar más plátanos).
 
 Los verbos *to have to* y *to need to* son verbos normales, y por lo tanto necesitan estar acompañados
-del verbo *to do* en oraciones afirmativas y negativas.
+del verbo *to do* en oraciones interrogativas y negativas.
 
 *I don't have to finish the project.* (No tengo que terminar el proyecto).
 

@@ -4,7 +4,7 @@
 
     summer ['sʌmər] - verano
 
-    fall [fɔl] / autumn ['ɔ:təm] - otoño
+    fall [fɔ:l] / autumn ['ɔ:təm] - otoño
 
     winter ['wɪntər] - invierno
 
@@ -182,7 +182,7 @@ with my dog Manolo and my cat Verónica.
 
 1. What time did you leave your house this morning?
 2. In your house, is it always hot, or is it sometimes cold?
-3. In the North Pole, is it always very cold? And are there a lot of penguins?
+3. In the North Pole, is it always very cold? And are there a lot of polar bears?
 4. Do you like the winter in your city?
 5. In the summer, do you always go to a lot of parties?
 
@@ -214,7 +214,7 @@ Chicago. It snows every winter, but it's very sunny in the summer. It's never fo
 3. I didn't go to the Moon (la Luna).
 4. María drinks water every day.
 5. Juan needs to eat every day.
-6. Mi cousin has a computer.
+6. My cousin has a computer.
 7. She showers every day.
 8. I cannot run 40 kilometers in 1 hour.
 9. He doesn't have a house in Los Angeles.
