@@ -303,6 +303,11 @@ El único artículo determinado en inglés es *the*. Se usa tanto para singular 
 
 Usamos *a* para singular y *some* para plural.
 
+> Nota sobre *some*: técnicamente, *some* no es un artículo, sino un determinante cuantificador.
+> Sin embargo, lo incluimos aquí porque funciona como el equivalente plural de *a/an* en muchos
+> contextos: indica que el sustantivo es indefinido (no identificado previamente) y plural.
+> Es decir, funciona literalmente como un artículo indefinido plural.
+
     un piano => a piano
 
     una guitarra => a guitar
