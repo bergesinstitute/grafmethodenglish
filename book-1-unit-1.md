@@ -60,7 +60,7 @@ El alfabeto inglés tiene 26 letras:
 
 La fonética del inglés es más compleja que la del español.
 
-Para aprender a pronunciar ciertas palabras, vamos a hacer uso del alfabeto fonético internacional,
+Para aprender a pronunciar ciertas palabras, vamos a hacer uso del Alfabeto Fonético Internacional,
 que intenta representar directamente los fonemas de las palabras, ya
 que, en inglés, es difícil inferir la pronunciación de una palabra
 basándonos únicamente en cómo se escribe.
@@ -324,18 +324,18 @@ En palabras que empiezan con una vocal o un sonido vocálico, *a* se convierte e
 
 ## Pronunciación de los artículos en inglés
 
-### Los sonidos ə y ɜ
+### El sonido ə
 
-En los tres artículos tenemos el sonido [ə] (una E minúscula rotada 180 grados).
+En los tres artículos tenemos el sonido [ə] (una E minúscula rotada 180 grados, también llamada *schwa*).
 
 Normalmente, [ə] aparece en una sílaba débil, y a veces se 
 describe como una vocal ambigua, primitiva y "perezosa", emitida
 directamente desde la garganta, sin hacer mucho esfuerzo y sin abrir 
 mucho la boca, con los labios y la lengua completamente relajados.
 
-Su "hermana" es [ɜ] (una épsilon minúscula al revés). Es el mismo sonido pero en
+> Su "hermana" es [ɜ] (una épsilon minúscula al revés). Es el mismo sonido pero en
 sílabas fuertes (acentuadas): más largo y más claro. Aparece en muchas palabras
-con ER, IR, UR, OR o EAR: *her* [hɜr] (ella/su), *first* [fɜrst] (primero),
+con ER, IR, UR: *her* [hɜr] (ella/su), *first* [fɜrst] (primero),
 *turn* [tɜrn] (girar).
 
 ### El sonido ð

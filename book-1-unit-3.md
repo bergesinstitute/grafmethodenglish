@@ -4,7 +4,7 @@
     
     Segunda persona del singular: your [jɔ:r] - tu / tus
     
-    Tercera persona del singular: his [hɪz], her [hər], its [ɪts] - su / sus
+    Tercera persona del singular: his [hɪz], her [hɜr], its [ɪts] - su / sus
     
     Primera persona del plural: our [aʊr] - nuestro / nuestra / nuestros / nuestras
     

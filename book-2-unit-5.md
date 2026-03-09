@@ -1,6 +1,6 @@
 # Verbos con past simple irregular
 
-    be [bi:] (ser / estar) => was [wɑz] / were [wər]
+    be [bi:] (ser / estar) => was [wɑz] / were [wɜr]
 
     become [bɪ'kʌm] (llegar a ser / convertirse en) => became [bɪ'keɪm]
 

@@ -54,7 +54,7 @@ Tanto *por* como *para* se traducen normalmente como *for*.
 
     Segunda persona del singular: you [ju:]
 
-    Tercera persona del singular: him [hɪm] / her [hər]
+    Tercera persona del singular: him [hɪm] / her [hɜr]
 
     Primera persona del plural: us [ʌs]
 

@@ -218,24 +218,27 @@ y *show* [ʃoʊ] (espectáculo, programa).
 
 *In, on* y *at* se traducen como *en*. Se usan en situaciones diferentes. En general:
 
-- Usamos *in* cuando queremos indicar que estamos **dentro** de un sitio. 
+- Usamos *in* cuando queremos indicar que estamos **dentro** de un sitio.
 También lo usamos para indicar que estamos en un país o una ciudad.
 
+```
+I'm in the house. (Estoy en / dentro de la casa).
 
-    I'm in the house. (Estoy en / dentro de la casa).
-
-    I'm in Spain. (Estoy en España).
+I'm in Spain. (Estoy en España).
+```
 
 - Usamos *on* cuando queremos indicar que estamos **encima de** algo.
 
-    
-    The book is on the table. (El libro está en / sobre la mesa).
+```
+The book is on the table. (El libro está en / sobre la mesa).
+```
 
 - Usamos *at* cuando queremos indicar que estamos en un lugar concreto,
 como el gimnasio, la biblioteca o el supermercado.
 
-    
-    I'm at the supermarket. (Estoy en el supermercado).
+```
+I'm at the supermarket. (Estoy en el supermercado).
+```
 
 *From* y *of* se traducen como *de*. 
 *From* se refiere más al origen o procedencia de las cosas o las personas:

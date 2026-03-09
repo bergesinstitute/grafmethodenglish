@@ -114,7 +114,8 @@ implícito, tanto en inglés como en español, es *cada lunes*.
 # ¿Qué haces los lunes?
 
 Para preguntar *qué haces*, necesitamos usar el verbo *to do*, que significa *hacer,*
-pero como es una pregunta, necesitamos también usar el verbo *to do* como verbo auxiliar:
+pero como es una pregunta, necesitamos también usar el verbo *to do* como verbo auxiliar.
+Por esta razón, *do* aparece dos veces en la pregunta:
 
     What do you do on Mondays? - ¿Qué haces los lunes?
 

@@ -200,7 +200,7 @@ D: I would invest [ɪn'vɛst] (invertir) half and travel with the other half.
 Marta: Do you know the woman who just moved into apartment 3B?
 
 Hugo: Yes, she's the person who I told you about last week. She's a journalist
-[ˈdʒɜrnəlɪst] who works for the local newspaper, which is the one that
+['dʒɜrnəlɪst] who works for the local newspaper, which is the one that
 my mother reads every day.
 
 M: And the man whose dog is always barking?

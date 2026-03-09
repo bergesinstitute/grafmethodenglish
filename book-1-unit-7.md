@@ -68,7 +68,7 @@
     
     12 - twelve [twɛlv]
     
-    13 - thirteen [θər'ti:n]
+    13 - thirteen [θɜr'ti:n]
     
     14 - fourteen [fɔr'ti:n]
     

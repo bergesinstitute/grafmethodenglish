@@ -59,7 +59,7 @@ El verbo *to be* en *past simple* es una excepción, ya que sí que cambia en la
 
     was [wɑz]
 
-    were [wər]
+    were [wɜr]
 
 ### Contracciones
 
