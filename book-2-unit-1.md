@@ -31,7 +31,7 @@ Una U exageradamente larga. Aparece por ejemplo en *blue* [blu:] (azul).
 Es el sonido de la Y en español que usamos en palabras como *ya* o *ayer.* En inglés, aparece por ejemplo en 
 *you* [ju:] (tú).
 
-    ə (una E minúscula al revés)
+    ə (una E minúscula rotada 180 grados)
 
 Normalmente, [ə] aparece en una sílaba débil, y a veces se
 describe como una vocal ambigua, primitiva y "perezosa", emitida
@@ -40,7 +40,7 @@ mucho la boca, con los labios y la lengua completamente relajados.
 
 Aparece por ejemplo en *sister* ['sɪstər] (hermana).
 
-    ɜ (una E minúscula al revés, pero con un rabito)
+    ɜ (una épsilon minúscula al revés)
 
 Es como [ə], pero aparece en sílabas fuertes (acentuadas). La posición de la boca es
 la misma: relajada, sin mucho esfuerzo. La diferencia es que [ɜ] es más larga y más

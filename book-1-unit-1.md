@@ -324,14 +324,19 @@ En palabras que empiezan con una vocal o un sonido vocálico, *a* se convierte e
 
 ## Pronunciación de los artículos en inglés
 
-### El sonido ə
+### Los sonidos ə y ɜ
 
-En los tres artículos tenemos el sonido [ə] (una E minúscula al revés).
+En los tres artículos tenemos el sonido [ə] (una E minúscula rotada 180 grados).
 
 Normalmente, [ə] aparece en una sílaba débil, y a veces se 
 describe como una vocal ambigua, primitiva y "perezosa", emitida
 directamente desde la garganta, sin hacer mucho esfuerzo y sin abrir 
 mucho la boca, con los labios y la lengua completamente relajados.
+
+Su "hermana" es [ɜ] (una épsilon minúscula al revés). Es el mismo sonido pero en
+sílabas fuertes (acentuadas): más largo y más claro. Aparece en muchas palabras
+con ER, IR, UR, OR o EAR: *her* [hɜr] (ella/su), *first* [fɜrst] (primero),
+*turn* [tɜrn] (girar).
 
 ### El sonido ð
 
