@@ -50,7 +50,7 @@ En inglés, los días de la semana siempre van con mayúscula.
 
     school [sku:l] - escuela
 
-    coffee shop ['kɔfi ʃɑp] - cafetería especializada en café
+    coffee shop ['kɔ:fi ʃɑp] - cafetería especializada en café
 
     café [kæ'feɪ] - cafetería con comida y bebidas variadas
 
@@ -102,9 +102,7 @@ durante la semana:
 
     On Sundays I go to a restaurant.
 
-> Con *church* omitimos *the*: *On Tuesdays I go to church.* Esto ocurre cuando vamos
-> a un lugar para su función principal (en este caso, para rezar). Lo mismo pasa con *school*
-> (ir a estudiar), *bed* (ir a dormir), *hospital* (ir como paciente), etc.
+> Con *church* omitimos *the*: *On Tuesdays I go to church.*
 
 En lugar de decir *los lunes*, en inglés decimos *on Mondays*. El significado
 implícito, tanto en inglés como en español, es *cada lunes*.

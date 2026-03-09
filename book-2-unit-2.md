@@ -81,7 +81,7 @@ En inglés, para decir que alguien es X, tenemos que usar el artículo indetermi
 
 ## Características físicas
 
-    tall [tɔl] - alto
+    tall [tɔ:l] - alto
     
     short [ʃɔrt] - bajo
     
@@ -148,7 +148,7 @@ pero en inglés no.
 
 ## Hair (pelo)
 
-    long [lɔŋ] - largo
+    long [lɔ:ŋ] - largo
 
     short [ʃɔrt] - corto
 
@@ -164,7 +164,7 @@ También podemos usar colores directamente: *brown, black, blue,* etc.
 
 ### Ser calvo
 
-    bald [bɔld] - calvo
+    bald [bɔ:ld] - calvo
 
 En este caso tenemos que decir: *Pedro es calvo. Pedro is bald.*
 

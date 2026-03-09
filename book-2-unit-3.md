@@ -126,7 +126,7 @@ Kansas sometimes, but I don't go as much as my brother.
 
 # Palabras y expresiones importantes
 
-    also [ɔlsoʊ] / too [tu:] - también
+    also ['ɔ:lsoʊ] / too [tu:] - también
 
     I know [noʊ] - lo sé
 

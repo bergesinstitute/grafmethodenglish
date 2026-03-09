@@ -115,7 +115,7 @@ de referencia.
 
     onion ['ʌnjən] - cebolla
 
-    eggplant ['ɛgplænt] / aubergine ['əʊbərʒi:n] - berenjena
+    eggplant ['ɛgplænt] / aubergine ['oʊbərʒi:n] - berenjena
 
     mushrooms ['mʌʃrumz] - setas
 

@@ -17,6 +17,9 @@ Una I que es casi una E y además es muy corta. Aparece por ejemplo en *bit* [b�
 
     i:
 
+> En este libro, usamos los dos puntos normales (:) en lugar de los dos puntos triangulares (ː) del Alfabeto Fonético
+> Internacional para representar las vocales largas.
+
 Una I exageradamente larga. Aparece por ejemplo en *beet* [bi:t] (remolacha).
 
     u:
@@ -140,7 +143,7 @@ Aparece por ejemplo en *cheap* [tʃi:p] (barato).
 Cuando está al final de una palabra, [z] suena muy parecido a [s], aunque si escuchamos
 bien [z] tiene una pequeña vibración de las cuerdas vocales que [s] no tiene.
 
-Aparece por ejemplo en *he says* [hi: sez] (él dice).
+Aparece por ejemplo en *he says* [hi: sɛz] (él dice).
 
 Cuando está al principio de una palabra, como en el número 0, debemos exagerar
 esta vibración, como si imitáramos el zumbido de una abeja.

@@ -10,7 +10,7 @@
     
     Segunda persona del plural: your [jɔ:r] - vuestro / vuestra / vuestros / vuestras
     
-    Tercera persona del plural: their [ðər] - su / sus
+    Tercera persona del plural: their [ðɛr] - su / sus
 
 Mientras que en español tenemos diferentes adjetivos posesivos para una o más
 de una cosa poseída (*mi gato, mis gatos*), en inglés el adjetivo posesivo
@@ -38,7 +38,7 @@ Aquí tenemos una fórmula básica que funciona en todo el mundo:
 
 ## Pronombres interrogativos
 
-    what [wət] - qué
+    what [wɑt] - qué
 
     where [wɛr] - dónde
 
@@ -171,23 +171,23 @@ En las oraciones afirmativas, podemos contraer el pronombre y el verbo:
 
     I have => I've [aɪv]
 
-    you have => you've [juːv]
+    you have => you've [ju:v]
 
-    he has => he's [hiːz]
+    he has => he's [hi:z]
     
-    she has => she's [ʃiːz]
+    she has => she's [ʃi:z]
     
     it has => it's [ɪts]
 
-    we have => we've [wiːv]
+    we have => we've [wi:v]
 
-    you have => you've [juːv]
+    you have => you've [ju:v]
 
     they have => they've [ðeɪv]
 
->Aunque es importante conocerlas, en general para gente que habla inglés como segunda
-lengua es más fácil evitar usarlas hasta que no se tenga un nivel bastante avanzado,
-ya que su pronunciación es difícil.
+> Aunque es importante conocerlas, en general para gente que habla inglés como segunda
+> lengua es más fácil evitar usarlas hasta que no se tenga un nivel bastante avanzado,
+> ya que su pronunciación es difícil.
 
 En las oraciones negativas podemos contraer el verbo y la partícula negativa en estos casos:
 

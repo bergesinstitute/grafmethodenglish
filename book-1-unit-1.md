@@ -76,8 +76,11 @@ El inglés tiene estos cinco fonemas vocálicos, pero además tiene muchos otros
 
 ### Fonemas vocálicos largos
 
-El inglés tiene varios fonemas vocálicos largos. Se representan usando los dos puntos. 
+El inglés tiene varios fonemas vocálicos largos. Se representan usando los dos puntos.
 Los más típicos son [i:] y [u:].
+
+> En este libro, usamos los dos puntos normales (:) en lugar de los dos puntos triangulares (ː) del Alfabeto Fonético
+> Internacional para representar las vocales largas.
 
 Cuando veamos estos símbolos, tenemos que hacer la vocal exageradamente larga:
 
@@ -88,10 +91,10 @@ Cuando veamos estos símbolos, tenemos que hacer la vocal exageradamente larga:
 ### La I que es casi una E
 
 Por ahora tenemos dos sonidos asociados a la letra I en inglés: 
-[i], que es el sonido de la I en español, y [i:], que es como la I en español, 
+[i], que es el sonido de la I en español, e [i:], que es como la I en español, 
 pero muy larga.
 
-Por ejemplo la palabra *sea* (mar) se pronuncia [si:]. La palabra *beet* (remolacha) se pronuncia
+Por ejemplo la palabra *sea* (mar) se pronuncia [si:] (igual que la letra C). La palabra *beet* (remolacha) se pronuncia
 [bi:t].
 
 Hay una tercera I que se representa así: [ɪ] (una I mayúscula pequeña). 
@@ -102,7 +105,7 @@ Trata de exagerar la diferencia:
 
     beet => biiiit
 
-    sea => si, como el adverbio de afirmación en español
+    sea => siiii
 
     bit => bɪt, casi diciendo bet
 
@@ -213,19 +216,19 @@ En las oraciones afirmativas, podemos contraer el pronombre y el verbo:
 
     you are => you're [jʊr]
 
-    he is => he's [hiːz]
+    he is => he's [hi:z]
 
-    she is => she's [ʃiːz]
+    she is => she's [ʃi:z]
 
     it is => it's [ɪts]
 
-    we are => we're [wiːər]
+    we are => we're [wi:ər]
 
     they are => they're [ðeɪər]
 
->Aunque es importante conocerlas, en general para gente que habla inglés como segunda
-lengua es más fácil evitar usarlas hasta que no se tenga un nivel bastante avanzado, 
-ya que su pronunciación es difícil.
+> Aunque es importante conocerlas, en general para gente que habla inglés como segunda
+> lengua es más fácil evitar usarlas hasta que no se tenga un nivel bastante avanzado,
+> ya que su pronunciación es difícil.
 
 En las oraciones negativas podemos contraer el verbo y la partícula negativa en estos casos:
 

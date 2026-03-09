@@ -8,13 +8,13 @@
 
     bend [bɛnd] (doblar) => bent [bɛnt]
 
-    bring [brɪŋ] (traer) => brought [brɔt]
+    bring [brɪŋ] (traer) => brought [brɔ:t]
 
     build [bɪld] (construir / edificar) => built [bɪlt]
 
-    buy [baɪ] (comprar) => bought [bɔt]
+    buy [baɪ] (comprar) => bought [bɔ:t]
 
-    catch [kætʃ] (coger / atrapar) => caught [kɔt]
+    catch [kætʃ] (coger / atrapar) => caught [kɔ:t]
 
     come [kʌm] (venir) => came [keɪm]
 
@@ -122,11 +122,11 @@
 
     take [teɪk] (coger / agarrar / tomar) => took [tʊk]
 
-    teach [ti:tʃ] (enseñar) => taught [tɔt]
+    teach [ti:tʃ] (enseñar) => taught [tɔ:t]
 
     tell [tɛl] (decir / contar) => told [toʊld]
 
-    think [θɪŋk] (pensar) => thought [θɔt]
+    think [θɪŋk] (pensar) => thought [θɔ:t]
 
     throw [θroʊ] (lanzar / tirar) => threw [θru:]
 

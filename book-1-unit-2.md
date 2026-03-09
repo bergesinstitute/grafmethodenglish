@@ -166,7 +166,7 @@ en una U normal.
 
     small [smɔ:l] - pequeño
 
-    tall [tɔl] - alto
+    tall [tɔ:l] - alto
 
     short [ʃɔrt] - bajo
 

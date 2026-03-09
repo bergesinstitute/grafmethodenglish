@@ -65,7 +65,7 @@ El verbo *to be* en *past simple* es una excepción, ya que sí que cambia en la
 
     was not => wasn't ['wɑzənt]
 
-    were not => weren't ['wərənt]
+    were not => weren't [wɜrnt]
 
 ### Oraciones interrogativas y negativas
 
@@ -300,7 +300,7 @@ Con estos verbos, *ed* se pronuncia [d].
 
     use [ju:z] (usar) => used
 
-> *El verbo *answer* tiene una pronunciación alternativa que es más típica en Reino Unido: ['ɑ:nsər]
+> El verbo *answer* tiene una pronunciación alternativa que es más típica en Reino Unido: ['ɑ:nsər].
 
 *Close* y *use* terminan en [z], que es muy similar a [s] para un hispanohablante, 
 pero es una consonante sonora, y por eso estos verbos están en este grupo.

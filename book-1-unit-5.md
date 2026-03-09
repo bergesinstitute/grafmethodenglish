@@ -12,7 +12,7 @@
 
     kitchen ['kɪtʃən] - cocina
 
-    bathroom ['bɑːθru:m] - baño
+    bathroom ['bɑ:θru:m] - baño
 
     closet ['klɑzɪt] - armario
 
@@ -203,7 +203,7 @@ es como [s], pero con un poco de vibración de las cuerdas vocales:
     they sing
 
 > Para un hispanohablante es más sencillo tratar de pronunciar [z] al final
-> de una palabra directamente [s].
+> de una palabra directamente como [s].
 
 En este verbo la tercera persona necesita un ajuste ortográfico, 
 y la pronunciación cambia:
@@ -216,7 +216,7 @@ En estos verbos al añadir una S en la tercera persona la pronunciación cambia:
 
     dance => dances ['dænsɪz]
 
-    say => says [sez]
+    say => says [sɛz]
 
 En este verbo la tercera persona necesita un ajuste ortográfico, 
 pero fonéticamente la pronunciación no cambia:
