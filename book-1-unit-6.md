@@ -349,7 +349,7 @@ have five cousins. My cousin Carlos lives in Barcelona. On Saturdays
 I play the guitar with my cousin. On Sundays I eat at a restaurant
 and I watch movies with my friends.
 
-Escribe un texto similar en inglés sobre tu propia familia.
+Escribe un texto similar en inglés sobre tu familia.
 
 ## 5. Pronuncia los siguientes verbos, tratando de exagerar los fonemas vocálicos
 
