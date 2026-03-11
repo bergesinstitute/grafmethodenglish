@@ -175,11 +175,11 @@ aprendemos individualmente, sin tratar de pensar demasiado en las reglas de pron
 
 Con estos verbos, *ed* se pronuncia [t].
 
-    ask [æsk]* (preguntar) => asked
+    ask [æsk]† (preguntar) => asked
 
     cook [kʊk] (cocinar) => cooked
 
-    dance [dæns]* (bailar) => danced
+    dance [dæns]† (bailar) => danced
 
     finish ['fɪnɪʃ] (terminar) => finished
 
@@ -189,7 +189,7 @@ Con estos verbos, *ed* se pronuncia [t].
 
     kiss [kɪs] (besar) => kissed
 
-    laugh [læf]* (reír) => laughed
+    laugh [læf]† (reír) => laughed
 
     like [laɪk] (gustar, pero con cambio de sujeto) => liked
 
@@ -199,7 +199,7 @@ Con estos verbos, *ed* se pronuncia [t].
 
     push [pʊʃ] (empujar) => pushed 
 
-    stop [stɑp] (parar) => stopped**
+    stop [stɑp] (parar) => stopped††
 
     talk ['tɔ:k] (hablar) => talked
 
@@ -213,9 +213,9 @@ Con estos verbos, *ed* se pronuncia [t].
 
     work [wɜrk] (trabajar) => worked
 
-> Los verbos *ask*, *dance* y *laugh* tienen una pronunciación alternativa que es más típica en Reino Unido: [ɑ:sk], [dɑ:ns], [lɑ:f].
+> † Estos verbos tienen una pronunciación alternativa que es más típica en Reino Unido: *ask* [ɑ:sk], *dance* [dɑ:ns], *laugh* [lɑ:f].
 
-> El verbo *stop* necesita una P doble en el pasado: *stopped*.
+> †† La consonante final se dobla en el pasado: *stopped*.
 
 Es muy importante exagerar las consonantes finales. Por ejemplo, en *cooked*
 y *worked* necesitamos escuchar claramente [k] [t] al final.
@@ -226,7 +226,7 @@ Con estos verbos, *ed* se pronuncia [d].
 
     agree [ə'gri:] (estar de acuerdo) => agreed    
 
-    answer [ænsər]* (responder) => answered    
+    answer [ænsər]† (responder) => answered
 
     arrive [ə'raɪv] (llegar) => arrived
 
@@ -300,7 +300,7 @@ Con estos verbos, *ed* se pronuncia [d].
 
     use [ju:z] (usar) => used
 
-> El verbo *answer* tiene una pronunciación alternativa que es más típica en Reino Unido: ['ɑ:nsər].
+> † Este verbo tiene una pronunciación alternativa que es más típica en Reino Unido: ['ɑ:nsər].
 
 *Close* y *use* terminan en [z], que es muy similar a [s] para un hispanohablante, 
 pero es una consonante sonora, y por eso estos verbos están en este grupo.

@@ -18,9 +18,9 @@
 
     come [kʌm] (venir) => came [keɪm]
 
-    cost [kɔst] (costar) => cost [kɔst]*
+    cost [kɔst] (costar) => cost [kɔst]†
 
-    cut [kʌt] (cortar) => cut [kʌt]*
+    cut [kʌt] (cortar) => cut [kʌt]†
 
     choose [tʃu:z] (elegir / escoger) => chose [tʃoʊz]
 
@@ -76,7 +76,7 @@
 
     lend [lɛnd] (prestar) => lent [lɛnt]
 
-    let [lɛt] (permitir / dejar) => let [lɛt]*
+    let [lɛt] (permitir / dejar) => let [lɛt]†
 
     lose [lu:z] (perder) => lost [lɔst]
 
@@ -86,9 +86,9 @@
 
     pay [peɪ] (pagar) => paid [peɪd]
 
-    put [pʊt] (poner / colocar) => put [pʊt]*
+    put [pʊt] (poner / colocar) => put [pʊt]†
 
-    read [ri:d] (leer) => read [rɛd]**
+    read [ri:d] (leer) => read [rɛd]††
 
     ride [raɪd] (montar / montar en) => rode [roʊd]
 
@@ -104,7 +104,7 @@
 
     shoot [ʃu:t] (disparar) => shot [ʃɑt]
 
-    shut [ʃʌt] (cerrar) => shut [ʃʌt]*
+    shut [ʃʌt] (cerrar) => shut [ʃʌt]†
 
     sing [sɪŋ] (cantar) => sang [sæŋ]
 
@@ -138,9 +138,9 @@
 
     write [raɪt] (escribir) => wrote [roʊt]
 
-> *Su pasado es igual que su presente.
+> † Su pasado es igual que su presente.
 
-> **Su pasado se escribe igual que su presente, pero se pronuncia diferente.
+> †† Su pasado se escribe igual que su presente, pero se pronuncia diferente.
 
 # El gerundio
 
