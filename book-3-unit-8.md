@@ -320,3 +320,115 @@ When listing things, the intonation rises on each item except the last one, wher
 
 Example: *Tomorrow it will be sunny in the morning. The temperature will be 75°F.
 In the afternoon, it's going to rain. On Wednesday, it will be cold and windy...*
+
+## 6. Reading comprehension (comentario de texto)
+
+### The Tell-Tale Heart (adapted from Edgar Allan Poe, 1843)
+
+It is true — I am very nervous. I have always been very nervous. But why do you say
+that I am mad?[1] Listen to my story, and you will see that I am not mad.
+
+I loved the old man. He had never done anything bad to me. But he had a pale[2]
+blue eye, like the eye of a dead bird. Every time he looked at me with that eye,
+my blood[3] went cold. And so, very slowly, I decided to kill[4] the old man, so that
+the eye would never look at me again.
+
+Every night, for seven nights, I opened his door very slowly, very carefully, at
+midnight. I put my head inside the room and watched him sleep. But the eye was always
+closed, and it was not the old man that bothered[5] me — it was the eye. So I did not
+do anything.
+
+On the eighth[6] night, I was more careful than ever. I opened the door very slowly.
+But my thumb[7] slipped[8] on the door, and the old man sat up in bed. "Who is there?"
+he shouted.[9]
+
+I waited in silence[10] for a long time. Then I heard a sound — a low,[11] quick sound,
+like a watch inside a box. It was the old man's heart.[12] It was beating[13] faster and
+faster and faster.
+
+The sound grew[14] louder.[15] I was afraid that a neighbor would hear it. The moment
+had come. I ran into the room and killed him. Then I pulled up[16] three boards[17] from
+the floor, and I hid the body under them. I put the boards back carefully. There was no
+blood, no mark,[18] nothing. I smiled. No one would ever find him.
+
+At four in the morning, someone knocked on the door. Three police officers[19] were
+standing outside. A neighbor had heard a shout[20] in the night.
+
+I invited them in. I was calm.[21] I told them the shout was mine — a bad dream, nothing
+more. I took them through[22] the house. Everything was in order.[23] I brought chairs
+and invited them to sit in the old man's room — right above[24] the place where the body
+was hidden.
+
+The officers smiled. They believed me. We talked for a long time.
+
+But then I heard a sound. A low, quick sound. The heart. The dead man's heart.
+
+It grew louder. And louder. Why could the officers not hear it? I talked faster. I
+moved my chair. I talked louder. But the sound continued. It was louder than everything.
+Louder than my voice. Louder than the world.
+
+I could not take it[25] anymore.
+
+"Stop!" I shouted. "I did it! I killed him! Pull up the boards! Here — here! — it is
+the beating of his horrible[26] heart!"
+
+[1] mad [mæd] - loco
+
+[2] pale [peɪl] - pálido
+
+[3] blood [blʌd] - sangre
+
+[4] kill [kɪl] - matar
+
+[5] bother ['bɑðər] - molestar
+
+[6] eighth [eɪtθ] - octavo
+
+[7] thumb [θʌm] - pulgar
+
+[8] slip [slɪp] - resbalar
+
+[9] shout [ʃaʊt] - gritar
+
+[10] silence ['saɪləns] - silencio
+
+[11] low [loʊ] - bajo (sonido)
+
+[12] heart [hɑrt] - corazón
+
+[13] beat [bi:t] - latir
+
+[14] grow [groʊ] - crecer / hacerse (más fuerte)
+
+[15] loud [laʊd] - fuerte (sonido)
+
+[16] pull up - levantar / arrancar
+
+[17] boards [bɔrdz] - tablas
+
+[18] mark [mɑrk] - marca
+
+[19] police officers [pə'li:s 'ɔfɪsərz] - agentes de policía
+
+[20] shout [ʃaʊt] - grito
+
+[21] calm [kɑm] - tranquilo
+
+[22] through [θru:] - a través de
+
+[23] in order - en orden
+
+[24] above [ə'bʌv] - encima de
+
+[25] take it - soportarlo / aguantarlo
+
+[26] horrible ['hɔrəbəl] - horrible
+
+### Questions (preguntas)
+
+1. Why did the narrator want to kill the old man?
+2. What did the narrator do every night for seven nights?
+3. Where did the narrator hide the body?
+4. Why did the police come to the house?
+5. What sound did the narrator hear while talking to the police?
+6. Do you think the narrator really heard the heart, or was it his imagination [ɪmædʒɪ'neɪʃən]?

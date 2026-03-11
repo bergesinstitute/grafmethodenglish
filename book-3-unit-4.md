@@ -3,7 +3,7 @@
 ## What it is (qué es)
 
 In Spanish, besides the *pretérito perfecto simple* (fui, comí, compré) and the *pretérito imperfecto*
-(iba, comía, compraba), you have the *pretérito perfecto compuesto*: *he ido, he comido, he comprado*.
+(iba, comía, compraba), we have the *pretérito perfecto compuesto*: *he ido, he comido, he comprado*.
 
 🔹 En español, además del pretérito perfecto simple (fui, comí, compré) y del pretérito imperfecto
 (iba, comía, compraba), tenemos el pretérito perfecto compuesto: *he ido, he comido, he comprado*.
@@ -32,6 +32,26 @@ In English, this tense is called the *present perfect* and it is built with the 
 
     they have + past participle
 
+### Negative sentences (oraciones negativas)
+
+We add *not* after *have/has:*
+
+🔹 Añadimos *not* después de *have/has:*
+
+    I have not eaten. (No he comido).
+
+    She has not visited Madrid. (Ella no ha visitado Madrid).
+
+### Questions (preguntas)
+
+We invert the subject and the verb *have/has:*
+
+🔹 Invertimos el sujeto y el verbo *have/has:*
+
+    Have you eaten? (¿Has comido?)
+
+    Has she visited Madrid? (¿Ella ha visitado Madrid?)
+
 ### Contractions (contracciones)
 
 In the present perfect, it is very common to contract the subject and the verb *have/has:*
@@ -52,9 +72,21 @@ In the present perfect, it is very common to contract the subject and the verb *
 
     they have => they've [ðeɪv]
 
+In negative sentences, we can contract the verb and the negative particle:
+
+🔹 En las oraciones negativas podemos contraer el verbo y la partícula negativa:
+
     have not => haven't ['hævənt]
 
     has not => hasn't ['hæzənt]
+
+Just like with *to be*, there are two possible contractions. We recommend the second one:
+
+🔹 Igual que con *to be*, hay dos contracciones posibles. Recomendamos la segunda:
+
+    I have not eaten => I've not eaten / I haven't eaten
+
+    she has not eaten => she's not eaten / she hasn't eaten
 
 ## Regular past participles (participios pasados regulares)
 
@@ -72,151 +104,125 @@ al infinitivo. Y se pronuncia de la misma manera.
 
     studied => We have studied. (Hemos estudiado).
 
-## Irregular past participles (participios pasados irregulares)
+## Irregular verbs (verbos irregulares)
 
-Many verbs have irregular past participles. In many cases,
-the participle is different from the past simple. Here is a list of the most common ones:
+Many verbs have irregular past participles. Here is a list of the most common
+irregular verbs with their three forms (infinitive / past simple / past participle):
 
-🔹 Muchos verbos tienen participios pasados irregulares. En muchos casos,
-el participio es diferente del *past simple*. Aquí va una lista de los más comunes:
+🔹 Muchos verbos tienen participios pasados irregulares. Aquí va una lista de los verbos
+irregulares más comunes con sus tres formas (infinitivo / *past simple* / participio pasado):
 
-    be => been [bɪn]
+    be / was, were / been [bɪn]
 
-    become => become [bɪ'kʌm]
+    become / became / become [bɪ'kʌm]
 
-    begin => begun [bɪ'gʌn]
+    begin / began / begun [bɪ'gʌn]
 
-    break [breɪk] (romper) => broken ['broʊkən]
+    break [breɪk] (romper) / broke / broken ['broʊkən]
 
-    bring => brought [brɔt]
+    bring / brought [brɔt] / brought
 
-    build => built [bɪlt]
+    build / built [bɪlt] / built
 
-    buy => bought [bɔt]
+    buy / bought [bɔt] / bought
 
-    choose => chosen ['tʃoʊzən]
+    choose / chose / chosen ['tʃoʊzən]
 
-    come => come [kʌm]
+    come / came / come [kʌm]
 
-    do => done [dʌn]
+    do / did / done [dʌn]
 
-    draw => drawn [drɔn]
+    draw / drew / drawn [drɔn]
 
-    drink => drunk [drʌŋk]
+    drink / drank / drunk [drʌŋk]
 
-    drive => driven ['drɪvən]
+    drive / drove / driven ['drɪvən]
 
-    eat => eaten ['i:tən]
+    eat / ate / eaten ['i:tən]
 
-    fall => fallen ['fɔlən]
+    fall / fell / fallen ['fɔlən]
 
-    feel => felt [fɛlt]
+    feel / felt [fɛlt] / felt
 
-    find => found [faʊnd]
+    find / found [faʊnd] / found
 
-    fly => flown [floʊn]
+    fly / flew / flown [floʊn]
 
-    forget => forgotten [fər'gɑtən]
+    forget / forgot / forgotten [fər'gɑtən]
 
-    get => gotten ['gɑtən]
+    get / got / gotten ['gɑtən]
 
-    give => given ['gɪvən]
+    give / gave / given ['gɪvən]
 
-    go => gone [gɔn]
+    go / went / gone [gɔn]
 
-    grow => grown [groʊn]
+    grow / grew / grown [groʊn]
 
-    have => had [hæd]
+    have / had [hæd] / had
 
-    hear => heard [hɜrd]
+    hear / heard [hɜrd] / heard
 
-    hide => hidden ['hɪdən]
+    hide / hid / hidden ['hɪdən]
 
-    keep => kept [kɛpt]
+    keep / kept [kɛpt] / kept
 
-    know => known [noʊn]
+    know / knew / known [noʊn]
 
-    leave => left [lɛft]
+    leave / left [lɛft] / left
 
-    lose => lost [lɔst]
+    lose / lost [lɔst] / lost
 
-    make => made [meɪd]
+    make / made [meɪd] / made
 
-    meet => met [mɛt]
+    meet / met [mɛt] / met
 
-    pay => paid [peɪd]
+    pay / paid [peɪd] / paid
 
-    put => put [pʊt]
+    put / put [pʊt] / put
 
-    read => read [rɛd]
+    read / read [rɛd] / read
 
-    ride => ridden ['rɪdən]
+    ride / rode / ridden ['rɪdən]
 
-    run => run [rʌn]
+    run / ran / run [rʌn]
 
-    say => said [sɛd]
+    say / said [sɛd] / said
 
-    see => seen [si:n]
+    see / saw / seen [si:n]
 
-    sell => sold [soʊld]
+    sell / sold [soʊld] / sold
 
-    send => sent [sɛnt]
+    send / sent [sɛnt] / sent
 
-    sing => sung [sʌŋ]
+    sing / sang / sung [sʌŋ]
 
-    sit => sat [sæt]
+    sit / sat [sæt] / sat
 
-    speak => spoken ['spoʊkən]
+    speak / spoke / spoken ['spoʊkən]
 
-    spend => spent [spɛnt]
+    spend / spent [spɛnt] / spent
 
-    steal => stolen ['stoʊlən]
+    steal / stole / stolen ['stoʊlən]
 
-    swim => swum [swʌm]
+    swim / swam / swum [swʌm]
 
-    take => taken ['teɪkən]
+    take / took / taken ['teɪkən]
 
-    teach => taught [tɔt]
+    teach / taught [tɔt] / taught
 
-    tell => told [toʊld]
+    tell / told [toʊld] / told
 
-    think => thought [θɔt]
+    think / thought [θɔt] / thought
 
-    throw => thrown [θroʊn]
+    throw / threw / thrown [θroʊn]
 
-    understand => understood [ʌndər'stʊd]
+    understand / understood [ʌndər'stʊd] / understood
 
-    wear => worn [wɔrn]
+    wear / wore / worn [wɔrn]
 
-    win => won [wʌn]
+    win / won [wʌn] / won
 
-    write => written ['rɪtən]
-
-> If the past participle is the same as the past simple (like *felt, found, kept, left,* etc.),
-> you only need to memorize one form for both functions.
-
-> 🔹 Si el participio pasado es igual que el *past simple* (como *felt, found, kept, left,* etc.),
-> solamente tienes que memorizar una forma para las dos funciones.
-
-## Questions (preguntas)
-
-We invert the subject and the verb *have/has:*
-
-🔹 Invertimos el sujeto y el verbo *have/has:*
-
-    Have you eaten? (¿Has comido?)
-
-    Has she visited Madrid? (¿Ella ha visitado Madrid?)
-
-## Negatives (negativos)
-
-We add *not* after *have/has:*
-
-🔹 Añadimos *not* después de *have/has:*
-
-    I have not eaten. (No he comido).
-
-    She has not visited Madrid. (Ella no ha visitado Madrid).
+    write / wrote / written ['rɪtən]
 
 # Uses of the present perfect (usos del present perfect)
 
@@ -230,13 +236,9 @@ sin especificar cuándo.
 
 *I have visited Paris.* (He visitado París).
 
-*She has eaten sushi.* (Ella ha comido sushi).
+*She has never eaten sushi.* (Ella nunca ha comido sushi).
 
 *They have never been to Japan.* (Ellos nunca han estado en Japón).
-
-> In Spanish, *he estado* translates as *I have been.* The past participle of *be* is *been.*
-
-> 🔹 En español, *he estado* se traduce como *I have been.* El participio pasado de *be* es *been.*
 
 ## Recent actions with a present result (acciones recientes con resultado presente)
 
@@ -246,9 +248,9 @@ on the present.
 🔹 Usamos el *present perfect* para acciones que ocurrieron recientemente y tienen un efecto
 en el presente.
 
-*I have lost my keys.* (He perdido mis llaves). => I still don't have them.
+*I have lost my keys.* (He perdido mis llaves). => I still haven't found them. (Aún no las he encontrado).
 
-*She has broken her arm.* (Ella se ha roto el brazo). => Her arm is still broken.
+*She has broken her arm.* (Ella se ha roto el brazo). => Her arm is still broken. (Su brazo todavía está roto).
 
 # Conversation
 
@@ -279,9 +281,9 @@ C: It's the best ice cream I have ever eaten!
 
 # Homework
 
-## 1. Memorize the irregular past participles from this unit
+## 1. Memorize the list of irregular verbs from this unit
 
-🔹 Memoriza los participios pasados irregulares de esta unidad.
+🔹 Memoriza la lista de verbos irregulares de esta unidad.
 
 ## 2. Complete, using the present perfect
 
@@ -319,3 +321,77 @@ C: It's the best ice cream I have ever eaten!
 4. Have you ever lost your phone?
 5. How many countries ['kʌntri:z] (países) have you visited?
 6. Have you ever met a famous person?
+
+## 5. Reading comprehension (comentario de texto)
+
+### My Neighbor Margaret
+
+My neighbor Margaret is 83 years old. She lives alone[1] in a small house next to mine,
+with her cat Beethoven. She is a quiet woman, and if you see her in her garden[2] in the
+morning, drinking tea and reading the newspaper, you would never guess[3] the life she
+has lived.
+
+Margaret has been to 54 countries. She has climbed[4] Mount Kilimanjaro. She has crossed[5]
+the Sahara Desert on a camel.[6] She has sailed[7] across the Atlantic Ocean in a small boat.
+She has eaten insects[8] in Thailand, and she has slept under the stars in the middle of
+the Amazon.
+
+She has also done many things outside of traveling. She has written two books about her
+adventures.[9] She has learned to speak four languages: English, French, Arabic, and
+Swahili. She has run twelve marathons. She has even[10] jumped out of an airplane — three
+times.
+
+I asked her once,[11] "Margaret, what is the best thing you have ever done?"
+
+She thought for a moment and said, "I have done many incredible[12] things in my life.
+But the best thing I have ever done is learn to say yes. When I was young, I was very shy.[13]
+I was afraid[14] of everything. One day, a friend invited me to go camping[15] in the mountains.
+I almost[16] said no, but something inside me said yes. That trip changed my life. After that,
+I have said yes to everything."
+
+Now, every morning, I see Margaret in her garden, drinking her tea. Beethoven sleeps at
+her feet.[17] She looks like a normal old woman. But she is the most extraordinary person I
+have ever met.
+
+[1] alone [ə'loʊn] - sola
+
+[2] garden ['gɑrdən] - jardín
+
+[3] guess [gɛs] - adivinar
+
+[4] climb [klaɪm] - escalar
+
+[5] cross [krɔs] - cruzar
+
+[6] camel ['kæməl] - camello
+
+[7] sail [seɪl] - navegar
+
+[8] insects ['ɪnsɛkts] - insectos
+
+[9] adventures [əd'vɛntʃərz] - aventuras
+
+[10] even ['i:vən] - incluso
+
+[11] once [wʌns] - una vez
+
+[12] incredible [ɪn'krɛdəbəl] - increíble
+
+[13] shy [ʃaɪ] - tímida
+
+[14] afraid [ə'freɪd] - asustada / con miedo
+
+[15] go camping - ir de acampada
+
+[16] almost ['ɔlmoʊst] - casi
+
+[17] feet [fi:t] - pies
+
+### Questions (preguntas)
+
+1. How old is Margaret?
+2. How many countries has she been to?
+3. How many languages has she learned?
+4. What is the best thing she has ever done, according to her?
+5. Why did that camping trip change her life?
+6. What kind of person was Margaret when she was young?

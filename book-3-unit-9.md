@@ -81,44 +81,9 @@ Possible or probable situations.
 
 # Homework
 
-## 1. Choose the correct verb tense for each sentence
+Write an essay about yourself. You can include:
 
-🔹 Elige el tiempo verbal correcto para cada oración.
-
-1. Yesterday I __________ (go) to the park.
-2. Right now she __________ (study).
-3. I __________ (visit) London three times.
-4. When I was a kid, I __________ (play) soccer every day.
-5. Tomorrow I __________ (call) you.
-6. I __________ (work) in an office every day.
-7. I __________ (read) a book when the phone __________ (ring).
-8. If it __________ (rain), I __________ (stay) home.
-9. She __________ (live) in Madrid for five years.
-10. When she was a kid, she __________ (live) in Barcelona.
-
-## 2. Translate. You can use a dictionary to look up words you don't know.
-
-🔹 Traducir. Puedes usar un diccionario para buscar las palabras que no conoces.
-
-1. Ayer fui al gimnasio.
-2. Ahora mismo estoy leyendo un libro.
-3. He visitado París tres veces.
-4. Cuando era niño, siempre jugaba al fútbol.
-5. Mañana te llamaré.
-6. Trabajo en una oficina.
-7. Estaba leyendo cuando sonó el teléfono.
-8. Si llueve, me quedaré en casa.
-9. Voy a visitar a mis padres este fin de semana.
-10. Acabo de comer.
-11. Ella nunca ha estado en Nueva York.
-12. Vivo en Madrid desde 2018.
-13. Cuando llegue, te llamaré.
-14. ¿Has comido alguna vez comida japonesa?
-15. ¿Qué estabas haciendo ayer a las 5?
-
-## 3. Write an essay using all the verb tenses
-
-🔹 Escribe un texto sobre ti. Puedes incluir:
+🔹 Escribe una redacción sobre ti. Puedes incluir:
 
 - Where you live and what you normally do. (*present simple*)
 - What you are doing right now. (*present progressive*)

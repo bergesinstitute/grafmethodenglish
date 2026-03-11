@@ -2,11 +2,15 @@
 
 ## When to use each one (cuándo usar cada uno)
 
-The past simple and the past progressive correspond to the *pretérito perfecto simple* and the
-*pretérito imperfecto* in Spanish, respectively.
+The past simple corresponds to the *pretérito perfecto simple* in Spanish.
+The past progressive corresponds to one of the uses of the *pretérito imperfecto:*
+describing what was happening at a moment in the past. The *pretérito imperfecto* has other
+uses (such as habitual actions) that are translated differently in English and that we will cover later.
 
-🔹 El *past simple* y el *past progressive* se corresponden con el pretérito perfecto simple y el
-pretérito imperfecto en español, respectivamente.
+🔹 El *past simple* se corresponde con el pretérito perfecto simple en español.
+El *past progressive* se corresponde con uno de los usos del pretérito imperfecto:
+describir lo que estaba pasando en un momento del pasado. El pretérito imperfecto tiene otros
+usos (como las acciones habituales) que se traducen de otra manera en inglés y que veremos más adelante.
 
 ### Past simple: actions (acciones)
 
@@ -52,7 +56,7 @@ Usamos *while* para unirlas.
 
     past simple => action (pretérito perfecto simple in Spanish)
 
-    past progressive => description (pretérito imperfecto in Spanish)
+    past progressive => description (one of the uses of the pretérito imperfecto in Spanish)
 
     past simple + past progressive => an action interrupts a description
 
@@ -125,19 +129,17 @@ to go to a bar. I went to the bar with Pedro. We had a very good time.*
 
 # The English R (la R en inglés)
 
-In Spanish, the R has one basic sound (the simple R), except when it is at the beginning of a word
-or is a double RR, where it becomes a trill.
+In Spanish, the R has two sounds: the simple R (as in *pero*) and the trill (as in *perro*).
 
-🔹 En español, la R tiene un solo sonido básico (la R simple), excepto cuando va al principio de
-la palabra o es una RR, donde se convierte en una R vibrante.
+🔹 En español, la R tiene dos sonidos: la R simple (como en *pero*) y la R vibrante (como en *perro*).
 
 In English, the R is completely different. To pronounce it, curve the tip of your tongue
-up and back, without touching the palate, and let the air flow over the sides of the tongue.
+up and back, without touching the palate, and let the air flow over the tongue.
 Round your lips slightly.
 
 🔹 En inglés, la R es completamente diferente. Para pronunciarla, curva la punta de la lengua
-hacia arriba y hacia atrás, sin que toque el paladar, dejando salir el aire por los lados. Los labios
-se redondean ligeramente.
+hacia arriba y hacia atrás, sin que toque el paladar, dejando salir el aire por encima de la lengua.
+Los labios se redondean ligeramente.
 
 It is very important not to make the tongue vibrate. The English R never vibrates.
 

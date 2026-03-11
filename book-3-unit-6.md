@@ -2,7 +2,7 @@
 
 ## How it is built (construcción)
 
-In Spanish, you have a future tense: *cantaré, comeré, viviré*. In English, one of the
+In Spanish, we have a future tense: *cantaré, comeré, viviré*. In English, one of the
 ways to express the future is using the modal verb *will* [wɪl] followed by the
 infinitive of the verb.
 
@@ -32,7 +32,27 @@ infinitivo del verbo.
 
     they will
 
-### Contraction (contracción)
+### Negative sentences (oraciones negativas)
+
+We add *not* after *will:*
+
+🔹 Añadimos *not* después de *will:*
+
+    I will not go. (No iré).
+
+    She will not eat. (Ella no comerá).
+
+### Questions (preguntas)
+
+We invert the subject and *will:*
+
+🔹 Invertimos el sujeto y *will:*
+
+    Will you go? (¿Irás?)
+
+    Will she eat? (¿Ella comerá?)
+
+### Contractions (contracciones)
 
 It is very common to contract the subject and *will:*
 
@@ -52,39 +72,19 @@ It is very common to contract the subject and *will:*
 
     they will => they'll [ðeɪl]
 
+In negative sentences, we can contract *will* and *not:*
+
+🔹 En las oraciones negativas podemos contraer *will* y *not:*
+
     will not => won't [woʊnt]
 
 > The negative contraction *won't* doesn't look much like *will not.* It is important to memorize it.
 
 > 🔹 La contracción negativa *won't* no se parece mucho a *will not.* Es importante memorizarla.
 
-### Questions (preguntas)
+    I won't go. (No iré).
 
-We invert the subject and *will:*
-
-🔹 Invertimos el sujeto y *will:*
-
-    Will you go? (¿Irás?)
-
-    Will she eat? (¿Ella comerá?)
-
-### Negatives (negativos)
-
-We add *not* after *will:*
-
-🔹 Añadimos *not* después de *will:*
-
-    I will not go. (No iré).
-
-    She will not eat. (Ella no comerá).
-
-Or using the contraction:
-
-🔹 O usando la contracción:
-
-    I won't go.
-
-    She won't eat.
+    She won't eat. (Ella no comerá).
 
 ## Uses of will (usos de will)
 
@@ -124,7 +124,7 @@ We use *will* to make promises and offer help.
 
 *I'll call you tomorrow.* (Te llamaré mañana).
 
-    anyone ['ɛniwʌn] - nadie (en oraciones negativas)
+    anyone ['ɛniwʌn] - nadie (en oraciones negativas) / alguien (en preguntas)
 
 ## Future time expressions (expresiones temporales de futuro)
 
@@ -191,62 +191,6 @@ hacer sugerencias u ofertas. Es más común en inglés británico.
 
     Shall I help you? (¿Te ayudo?)
 
-# A note on W and V in English (nota sobre la W y la V en inglés)
-
-In Spanish, you pronounce V and B the same way: as a B. This makes it difficult for many
-Spanish speakers to distinguish these two sounds in English, because in English
-W [w] and V [v] are completely different sounds.
-
-🔹 En español, pronunciamos la V y la B de la misma manera: como una B. Esto hace que
-muchos hispanohablantes tengan dificultades con estos dos sonidos en inglés, ya que en inglés
-la W [w] y la V [v] son sonidos completamente diferentes.
-
-### The W (la W)
-
-To make the W sound, round your lips in an exaggerated way, as if you were going
-to give a kiss, and then open them quickly. It is like a very short U followed by
-the vowel that comes after it.
-
-🔹 Para hacer el sonido de la W, redondeamos los labios de manera exagerada, como si fuéramos
-a dar un beso, y después los abrimos rápidamente. Es como una U muy corta que va seguida
-de la vocal que viene después.
-
-    will [wɪl]
-
-    want [wɑnt]
-
-    water ['wɔɾər]
-
-    window ['wɪndoʊ]
-
-    weather ['wɛðər]
-
-### The V (la V)
-
-To make the V sound, place your upper teeth on your lower lip and
-let the air flow out. It is like an F, but with vibration of the vocal cords.
-
-🔹 Para hacer el sonido de la V, ponemos los dientes superiores sobre el labio inferior y
-dejamos salir aire. Es como una F, pero con vibración de las cuerdas vocales.
-
-    very ['vɛri]
-
-    visit ['vɪzɪt]
-
-    voice [vɔɪs]
-
-    video ['vɪdioʊ]
-
-    never ['nɛvər]
-
-### Practice the difference (practica la diferencia)
-
-    wine [waɪn] (vino) vs. vine [vaɪn] (vid)
-
-    west [wɛst] (oeste) vs. vest [vɛst] (chaleco)
-
-    wow [waʊ] (¡guau!) vs. vow [vaʊ] (voto)
-
 # Homework
 
 ## 1. Complete, using will
@@ -294,3 +238,85 @@ Example: *I think electric cars will be very popular in the future.*
     electric [ɪ'lɛktrɪk] - eléctrico
 
     popular ['pɑpjulər] - popular
+
+## 5. Reading comprehension (comentario de texto)
+
+### The Fortune Teller
+
+Last summer, my friend Ana and I were walking through[1] a market in Granada when we
+saw a small tent[2] with a sign that said "Madame Luna — I will tell you your future."
+Ana laughed and said, "Let's go in!" I didn't want to, but she pulled[3] me inside.
+
+The tent was dark. There were candles[4] everywhere. An old woman with silver[5] hair
+was sitting behind a small table. On the table there was a glass ball.[6]
+
+"Sit down," she said. "I will look into your future."
+
+She looked at Ana first. She closed her eyes and said, "You will move to a different
+country. You will live near the sea. You will learn a new language, and you will fall in
+love with someone you haven't met yet."
+
+Ana looked at me and smiled. "I hope[7] it's true," she whispered.[8]
+
+Then Madame Luna looked at me. "Your future is more complicated," she said. "You will
+have to make a very difficult decision.[9] Two paths[10] will appear in front of you. One
+path will be safe[11] and comfortable. The other will be uncertain,[12] but it will make
+you happy. You will choose the uncertain path, and you won't regret[13] it."
+
+"What kind of decision?" I asked.
+
+"I can't tell you that," she said. "But you will know when the moment comes. Trust[14]
+yourself."
+
+We left the tent and laughed about it all afternoon. "She'll probably say the same thing
+to the next person," Ana said.
+
+But here is the strange[15] part. Six months later, Ana moved to Lisbon. She is now
+learning Portuguese. And last month, I received two job offers: one at a big company with
+a high salary,[16] and one at a small school in the mountains with almost no money. I
+thought about Madame Luna. And I chose the school.
+
+I'll start next Monday. I think I'll love it.
+
+[1] through [θru:] - a través de
+
+[2] tent [tɛnt] - tienda de campaña / carpa
+
+[3] pull [pʊl] - tirar de / arrastrar
+
+[4] candles ['kændəlz] - velas
+
+[5] silver ['sɪlvər] - plateado
+
+[6] glass ball [glæs bɔl] - bola de cristal
+
+[7] hope [hoʊp] - esperar (con esperanza)
+
+[8] whisper ['wɪspər] - susurrar
+
+[9] decision [dɪ'sɪʒən] - decisión
+
+[10] paths [pæθs] - caminos
+
+[11] safe [seɪf] - seguro
+
+[12] uncertain [ʌn'sɜrtən] - incierto
+
+[13] regret [rɪ'grɛt] - arrepentirse
+
+[14] trust [trʌst] - confiar en
+
+[15] strange [streɪndʒ] - extraño
+
+[16] salary ['sæləri] - salario / sueldo
+
+### Questions (preguntas)
+
+1. Where did the narrator and Ana find Madame Luna?
+2. What did Madame Luna predict for Ana?
+3. What did she predict for the narrator?
+4. Did Ana's prediction come true?[17]
+5. What two job offers did the narrator receive?
+6. Which one did the narrator choose? Why?
+
+[17] come true [kʌm tru:] - hacerse realidad

@@ -2,7 +2,7 @@
 
 ## What it means (qué significa)
 
-In Spanish, you use the *pretérito imperfecto* to talk about habits you had in the past.
+In Spanish, we use the *pretérito imperfecto* to talk about habits we had in the past.
 
 🔹 En español, usamos el pretérito imperfecto para hablar de hábitos que teníamos en el pasado.
 
@@ -11,16 +11,20 @@ In Spanish, you use the *pretérito imperfecto* to talk about habits you had in 
 *Antes vivía en Madrid.* (In the past, I used to live in Madrid).
 
 In English, one of the ways to express this is using *used to* [ju:st tu:] followed by
-the verb in the infinitive.
+the verb in the infinitive. Make sure to pronounce the D at the end of *used*: [ju:st tu:], not [ju:z tu:].
 
 🔹 En inglés, una de las maneras de expresar esto es usando *used to* [ju:st tu:] seguido del
-verbo en infinitivo.
+verbo en infinitivo. Asegúrate de pronunciar la D al final de *used*: [ju:st tu:], no [ju:z tu:].
 
     I used to eat pizza on Fridays. (Antes comía pizza los viernes).
 
     I used to live in Madrid. (Antes vivía en Madrid).
 
     She used to play the piano. (Antes ella tocaba el piano).
+
+> *Used to* can also be translated as *solía* + infinitive: *I used to eat* = *Solía comer.*
+
+> 🔹 *Used to* también se puede traducir como *solía* + infinitivo: *I used to eat* = *Solía comer.*
 
 ## Negatives (negativos)
 
@@ -34,7 +38,7 @@ For negatives, we use *didn't use to:*
 
 > In the negative form, *used* loses the final D and becomes *use*.
 
-> 🔹 En la forma negativa, *used* pierde la D final y se escribe *use*.
+> 🔹 En la forma negativa, *used* pierde la D final y pasa a ser *use*.
 
 ## Questions (preguntas)
 
@@ -48,32 +52,30 @@ For questions, we use *did ... use to:*
 
 ## Used to vs. past simple
 
-When we talk about habits in the past, we can normally use either *used to* or the past simple.
-The meaning is almost the same, but *used to* emphasizes that it was a habit. It's like
-the difference between *solía comer* and *comía* in Spanish.
+In English, the past simple can be used for past habits as well as for one-time actions.
+This means that the past simple sometimes translates to the *pretérito imperfecto* in Spanish.
 
-🔹 Cuando hablamos de hábitos en el pasado, normalmente podemos usar tanto *used to* como
-el *past simple*. El significado es casi el mismo, pero *used to* enfatiza que era un hábito.
+🔹 En inglés, el *past simple* se puede usar tanto para hábitos del pasado como para acciones
+puntuales. Esto quiere decir que a veces el *past simple* se traduce con el pretérito imperfecto
+en español.
 
-    I used to eat pizza on Fridays. => emphasizes the habit
+    When I was in college, I ate pizza on Fridays. (Cuando estaba en la universidad, comía pizza los viernes). => past habit
 
-    I ate pizza on Fridays. => simple description
+    Yesterday I ate pizza. (Ayer comí pizza). => one-time action
 
-However, for one-time actions, we cannot use *used to*. We can only use the past simple.
+When talking about past habits, we can use either the past simple or *used to.*
+The meaning is almost the same, but *used to* makes it clear that it was a habit.
 
-🔹 Sin embargo, para acciones puntuales, no podemos usar *used to*. Solamente podemos usar
-el *past simple*.
+🔹 Cuando hablamos de hábitos del pasado, podemos usar el *past simple* o *used to.*
+El significado es casi el mismo, pero *used to* deja claro que era un hábito.
+
+    When I was in college, I ate pizza on Fridays. / When I was in college, I used to eat pizza on Fridays.
+
+However, for one-time actions, we can only use the past simple, not *used to.*
+
+🔹 Sin embargo, para acciones puntuales, solo podemos usar el *past simple*, no *used to.*
 
     Yesterday I went to the gym. (Ayer fui al gimnasio).
-
-## Note about "used to" and the verb "use"
-
-It is important not to confuse *used to* with the verb *to use* [ju:z] (usar). *Used to* is
-pronounced [ju:st tu:], with a clear T at the end of *used*, and it has nothing to do with
-the verb *to use.*
-
-🔹 Es importante no confundir *used to* con el verbo *to use* [ju:z] (usar). *Used to* se pronuncia
-[ju:st tu:], con una T clara al final de *used*, y no tiene nada que ver con el verbo *usar*.
 
 # Would for past habits (would para hábitos en el pasado)
 
@@ -113,17 +115,19 @@ We cannot say: *I would have a dog.*
 
 *She wouldn't eat vegetables when she was a kid.* (Ella no comía verduras cuando era niña).
 
-## Summary table: three ways to talk about the habitual past in English (cuadro resumen)
+## Summary table: three ways to talk about the habitual past in English
+
+🔹 Cuadro resumen: tres maneras de hablar del pasado habitual en inglés.
 
     used to + infinitive => habits and states in the past (the most common)
 
     would + infinitive => only habits (actions), not states
 
-    past simple => habits and one-time actions
+    past simple => can also be used for habits (with context)
 
 # Childhood vocabulary (vocabulario: la infancia)
 
-    childhood ['tʃaɪldhu:d] - infancia
+    childhood ['tʃaɪldhʊd] - infancia
 
     kid [kɪd] - niño/a
 
@@ -180,11 +184,10 @@ M: Sometimes. I would go to the park with my friends on Saturdays.
 # Silent letters in English (letras mudas en inglés)
 
 In English there are many letters that are written but not pronounced.
-We have already seen that the L in *walk* and *talk* is silent, and that the W in *write*
-is also silent.
+For example, the L in *walk* and *talk* is silent.
 
 🔹 En inglés hay muchas letras que se escriben pero no se pronuncian.
-Ya hemos visto que la L en *walk* y *talk* no se pronuncia, y que la W en *write* tampoco.
+Por ejemplo, la L en *walk* y *talk* no se pronuncia.
 
 Here are more examples of silent letters:
 
@@ -242,7 +245,7 @@ In the evening, I would go to the gym or walk by the beach. I used to live very 
 Barceloneta beach. The sunsets ['sʌnsɛts] (puestas de sol) were beautiful.
 
 On weekends, I used to visit my friends in Gràcia. We would eat tapas and drink wine [waɪn]
-(vino) at a small bar. I didn't use to cook on the weekends.
+(vino) at a small bar. I didn't cook on the weekends.
 
 I really loved that city. I lived there for five years.
 

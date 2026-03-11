@@ -12,9 +12,9 @@ We use the present simple for habits or facts.
 
 *It rains a lot in London.* (Llueve mucho en Londres).
 
-Remember: in the third person singular, we add S (or ES) to the verb.
+In the third person singular, we add S (or ES) to the verb.
 
-🔹 Recuerda: en la tercera persona del singular añadimos S (o ES) al verbo.
+🔹 En la tercera persona del singular añadimos S (o ES) al verbo.
 
 ### Questions and negatives (preguntas y negativos)
 
@@ -232,12 +232,12 @@ A: I ran to a café and waited there for an hour.
 # The flap T (la T entre vocales)
 
 In American English, when a T is between two vowels, or between a vowel and an L,
-it is normally pronounced as a very soft, fast D. This phenomenon is known as
-the *flap T*, and the phonetic symbol is [ɾ], which is the simple R in Spanish.
+it is normally pronounced as a soft R, like the simple R in Spanish.
+This phenomenon is known as the *flap T*, and the phonetic symbol is [ɾ].
 
 🔹 En inglés americano, cuando una T está entre dos vocales, o entre una vocal y una L,
-normalmente se pronuncia como una D muy suave y rápida. Este fenómeno se conoce
-como *flap T*, y el símbolo fonético asociado es [ɾ], que es la R simple del español.
+normalmente se pronuncia como una R suave, igual que la R simple del español.
+Este fenómeno se conoce como *flap T*, y el símbolo fonético asociado es [ɾ].
 
 Here are some words that are normally pronounced with this sound:
 
@@ -259,9 +259,9 @@ Here are some words that are normally pronounced with this sound:
 
     party ['pɑrɾi] - fiesta
 
-> The word *butter* with the flap T sounds like the *d* in Spanish words like *cada* or *nada.*
+> The word *butter* with the flap T sounds like the R in Spanish words like *pero* or *cara.*
 
-> 🔹 La palabra *butter* con la *flap T* suena como la *d* en palabras como *cada* o *nada.*
+> 🔹 La palabra *butter* con la *flap T* suena como la R en palabras como *pero* o *cara.*
 
 In British English, this does not happen, and the T is always pronounced as a normal T.
 

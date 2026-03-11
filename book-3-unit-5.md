@@ -30,11 +30,11 @@ participio pasado.
 
     She has already finished. (Ella ya ha terminado).
 
-*Yet* [jɛt] means *todavía* or *aún*. It is used in negative sentences and questions, and
-it goes at the end of the sentence.
+*Yet* [jɛt] means *todavía* or *aún* in negative sentences, and *ya* in questions.
+It goes at the end of the sentence.
 
-🔹 *Yet* [jɛt] significa *todavía* o *aún*. Se usa en oraciones negativas e interrogativas, y
-va al final de la oración.
+🔹 *Yet* [jɛt] significa *todavía* o *aún* en oraciones negativas, y *ya* en preguntas.
+Va al final de la oración.
 
     I haven't eaten yet. (Todavía no he comido).
 
@@ -42,15 +42,19 @@ va al final de la oración.
 
 ## Just
 
-*Just* [dʒʌst] means *acabar de*. It goes between *have/has* and the past participle.
+*Just* [dʒʌst] is an adverb that indicates that something happened very recently
+(equivalent to *hace un momento*). It goes between *have/has* and the past participle.
+In Spanish, we express this with *acabar de.*
 
-🔹 *Just* [dʒʌst] significa *acabar de*. Se pone entre *have/has* y el participio pasado.
+🔹 *Just* [dʒʌst] es un adverbio que indica que algo acaba de ocurrir
+(equivale a *hace un momento*). Se pone entre *have/has* y el participio
+pasado. En español lo expresamos con *acabar de.*
 
-    I have just eaten. (Acabo de comer).
+    I have just eaten. (Acabo de comer / He comido hace un momento).
 
-    She has just arrived. (Ella acaba de llegar).
+    She has just arrived. (Ella acaba de llegar / Ella ha llegado hace un momento).
 
-    They have just left. (Ellos acaban de irse).
+    They have just left. (Ellos acaban de irse / Ellos se han ido hace un momento).
 
 # Present perfect vs. past simple
 
@@ -72,13 +76,13 @@ Normalmente hay una expresión temporal (*yesterday, last week, in 2015,* etc.).
 
     She called me yesterday. (Ella me llamó ayer).
 
-### Present perfect: no specific time (sin tiempo específico)
+### Present perfect: the experience (la experiencia)
 
-We use the present perfect when we don't indicate the exact moment. We talk about the experience
-in general, without saying when.
+We use the present perfect when we talk about experiences or actions that have
+a connection to the present. What matters is the experience itself, not when it happened.
 
-🔹 Usamos el *present perfect* cuando no indicamos el momento exacto. Hablamos de la experiencia
-en general, sin decir cuándo.
+🔹 Usamos el *present perfect* cuando hablamos de experiencias o acciones que tienen
+una conexión con el presente. Lo que importa es la experiencia en sí, no cuándo ocurrió.
 
     I have visited Paris. (He visitado París).
 
@@ -88,11 +92,11 @@ en general, sin decir cuándo.
 
     I visited Paris in 2019. => past simple (specific time)
 
-    I have visited Paris. => present perfect (we don't indicate when)
+    I have visited Paris. => present perfect (the experience matters, not when)
 
     I ate sushi yesterday. => past simple (specific time)
 
-    I have eaten sushi. => present perfect (we don't indicate when)
+    I have eaten sushi. => present perfect (the experience matters, not when)
 
 > When we ask *Have you ever been to Paris?* and the answer is yes, the conversation
 > usually continues with past simple questions to ask for details:
@@ -109,20 +113,21 @@ en general, sin decir cuándo.
 *For* [fɔr] is used to indicate the duration of a period of time.
 
 🔹 *For* [fɔr] se usa para indicar la duración de un periodo de tiempo.
+Se traduce como *durante*, *por*, o a veces se omite en español.
 
-    for two hours - durante dos horas
+    for two hours - durante dos horas / dos horas
 
-    for three days - durante tres días
+    for three days - durante tres días / tres días
 
-    for five years - durante cinco años
+    for five years - durante cinco años / cinco años
 
     for a long time - durante mucho tiempo
 
 ### Since
 
-*Since* [sɪns] is used to indicate the starting point.
+*Since* [sɪns] means *desde.* It is used to indicate the starting point.
 
-🔹 *Since* [sɪns] se usa para indicar el punto de partida.
+🔹 *Since* [sɪns] significa *desde.* Se usa para indicar el punto de partida.
 
     since Monday - desde el lunes
 
@@ -132,6 +137,12 @@ en general, sin decir cuándo.
 
     since I was a kid - desde que era niño
 
+> Be careful: *since three years ago* is incorrect. Use *for three years* or *since* with
+> a specific point in time (*since 2014*).
+
+> 🔹 Cuidado: *since three years ago* es incorrecto. Usa *for three years* o *since* con
+> un punto concreto en el tiempo (*since 2014*).
+
 ### For and since with the present perfect (for y since con present perfect)
 
 We use *for* and *since* with the present perfect when talking about something that started in
@@ -140,13 +151,13 @@ the past and continues in the present.
 🔹 Usamos *for* y *since* con el *present perfect* cuando hablamos de algo que empezó en el
 pasado y continúa en el presente.
 
-*I have lived in Madrid for three years.* (Vivo / He vivido en Madrid durante tres años).
+*I have lived in Madrid for three years.* (Vivo en Madrid desde hace tres años / He vivido en Madrid tres años).
 => I still live in Madrid.
 
 *She has worked here since 2020.* (Ella trabaja / ha trabajado aquí desde 2020).
 => She still works here.
 
-> In Spanish, you normally use the present tense in these cases: *Vivo en Madrid desde hace tres años.*
+> In Spanish, we normally use the present tense in these cases: *Vivo en Madrid desde hace tres años.*
 > In English, we use the present perfect.
 
 > 🔹 En español, normalmente usamos el presente en estos casos: *Vivo en Madrid desde hace tres años.*
@@ -158,7 +169,7 @@ When the action is already finished, we use *for* with the past simple:
 
 🔹 Cuando la acción ya terminó, usamos *for* con el *past simple:*
 
-*I lived in Madrid for three years.* (Viví en Madrid durante tres años).
+*I lived in Madrid for three years.* (Viví en Madrid tres años).
 => I no longer live in Madrid.
 
 ## Conversation
@@ -190,10 +201,10 @@ J: I have lived here since 2015.
 # A note on weak vowel pronunciation (nota sobre la pronunciación de las vocales débiles)
 
 In English, when a syllable is unstressed, the vowels tend to weaken and become [ə] (schwa).
-This phenomenon is very important for sounding natural in English.
+Doing this is very important for sounding natural in English.
 
 🔹 En inglés, cuando una sílaba no tiene acento, las vocales tienden a debilitarse y a
-convertirse en [ə] (schwa). Este fenómeno es muy importante para sonar natural en inglés.
+convertirse en [ə] (schwa). Hacer esto es muy importante para sonar natural en inglés.
 
 In particular, function words like *to, for, from, of, a, the, and, but, can, have*
 are almost never pronounced with their full vowel when they are inside a sentence.
@@ -235,12 +246,12 @@ For example, the sentence *I have been to Paris* is pronounced approximately
 
 🔹 Completar, usando *already, yet, just, ever* o *never*.
 
-1. I have __________ finished my homework. (just)
-2. Have you __________ been to Japan?
-3. She hasn't arrived __________.
-4. He has __________ eaten Chinese food. (already)
-5. I have __________ visited Africa.
-6. They have __________ left. (just)
+1. Have you __________ been to Japan?
+2. I haven't finished my book __________.
+3. I have __________ visited Africa. I want to go someday.
+4. Don't worry, I have __________ finished my homework.
+5. They have __________ left. You missed them by one minute.
+6. Have you __________ eaten sushi? You should try it.
 
 ## 2. Choose between present perfect and past simple
 
@@ -272,13 +283,13 @@ For example, the sentence *I have been to Paris* is pronounced approximately
 1. ¿Has estado alguna vez en México?
 2. Nunca he comido sushi.
 3. Ya he terminado mis deberes.
-4. ¿Ha llegado ella todavía?
+4. ¿Ha llegado ella ya?
 5. Acabo de llegar.
 6. Visité París el año pasado.
 7. He visitado París tres veces.
 8. Vivo en Barcelona desde 2018.
-9. Viví en Madrid durante cinco años (ya no vivo allí).
-10. He trabajado aquí durante dos años (sigo trabajando aquí).
+9. Viví en Madrid durante cinco años.
+10. He trabajado aquí durante dos años.
 
 ## 5. Answer using complete sentences
 
@@ -289,3 +300,83 @@ For example, the sentence *I have been to Paris* is pronounced approximately
 3. How long have you lived in your city?
 4. How long have you studied English?
 5. Have you already eaten today?
+
+## 6. Reading comprehension (comentario de texto)
+
+### The Watchmaker
+
+In a narrow[1] street in the old part of the city, there is a small shop with a wooden[2]
+sign[3] that says "Heinrich's Watches." The shop has been there since 1922. It was opened
+by Heinrich Berger, a German watchmaker[4] who moved to Switzerland when he was twenty
+years old.
+
+Heinrich died in 1985, but his grandson,[5] Thomas, still runs the shop. Thomas has
+worked there since he was eighteen. He is now seventy-three, so he has repaired[6] watches
+for fifty-five years.
+
+Thomas has never used a computer. He has never owned[7] a mobile phone. He has
+worked with the same tools[8] since he started: tiny[9] screwdrivers,[10] magnifying
+glasses,[11] and a small lamp that has sat on his desk for as long as anyone can remember.
+
+"I have fixed thousands of watches," Thomas says. "Every watch tells a story. A man
+once brought me his father's watch. It hadn't worked for thirty years. I opened it and
+found a tiny photograph inside — a picture of a woman. The man had never seen it before.
+It was a picture of his grandmother. He cried[12] right here, in my shop."
+
+Thomas has already trained[13] his daughter, Lena, to take his place.[14] She has
+worked with him for the last five years. She has just turned[15] thirty, and she has
+already learned most of[16] his techniques.[17] But she hasn't mastered[18] everything yet.
+
+"There are things you can only learn with time," Thomas says. "I have repaired watches
+for fifty-five years, and I still learn something new every week."
+
+I asked Thomas if he has ever thought about retiring.[19]
+
+He smiled and said, "I haven't finished yet."
+
+[1] narrow ['næroʊ] - estrecha
+
+[2] wooden ['wʊdən] - de madera
+
+[3] sign [saɪn] - cartel / letrero
+
+[4] watchmaker ['wɑtʃmeɪkər] - relojero
+
+[5] grandson ['grændsʌn] - nieto
+
+[6] repair [rɪ'pɛr] - reparar
+
+[7] own [oʊn] - poseer / tener
+
+[8] tools [tu:lz] - herramientas
+
+[9] tiny ['taɪni] - diminuto
+
+[10] screwdrivers ['skru:draɪvərz] - destornilladores
+
+[11] magnifying glasses ['mægnɪfaɪɪŋ 'glæsɪz] - lupas
+
+[12] cry [kraɪ] - llorar
+
+[13] train [treɪn] - entrenar / formar
+
+[14] take his place - ocupar su puesto
+
+[15] turn [tɜrn] - cumplir (años)
+
+[16] most of - la mayoría de
+
+[17] techniques [tɛk'ni:ks] - técnicas
+
+[18] master ['mæstər] - dominar
+
+[19] retire [rɪ'taɪr] - jubilarse
+
+### Questions (preguntas)
+
+1. How long has the shop been there?
+2. How long has Thomas worked there?
+3. Why has he never used a computer?
+4. What did the man find inside his father's watch?
+5. Has Lena already learned everything from Thomas?
+6. What does Thomas say when asked about retiring?
