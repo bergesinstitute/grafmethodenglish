@@ -286,7 +286,7 @@ In the afternoon, it's going to rain. On Wednesday, it will be cold and windy...
 
 ## 6. Reading comprehension (comentario de texto)
 
-### The Tell-Tale Heart (adapted from Edgar Allan Poe, 1843)
+### The Tell-Tale Heart
 
 It is true — I am very nervous. I have always been very nervous. But why do you say
 that I am mad?[1] Listen to my story, and you will see that I am not mad.
@@ -334,6 +334,8 @@ I could not take it[25] anymore.
 
 "Stop!" I shouted. "I did it! I killed him! Pull up the boards! Here — here! — it is
 the beating of his horrible[26] heart!"
+
+*Edgar Allan Poe (1843). Adapted version*
 
 [1] mad [mæd] - loco
 
