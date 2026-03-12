@@ -16,7 +16,7 @@ In the third person singular, we add S (or ES) to the verb.
 
 🔹 En la tercera persona del singular añadimos S (o ES) al verbo.
 
-### Questions and negatives (preguntas y negativos)
+### Questions and negative sentences (preguntas y oraciones negativas)
 
 In questions and negatives, we use the auxiliary verb *to do:*
 
@@ -69,7 +69,7 @@ Here are some common specific time expressions:
 
     two days ago - hace dos días
 
-### Questions and negatives
+### Questions and negative sentences (preguntas y oraciones negativas)
 
 In questions and negatives, we use *did:*
 
@@ -101,7 +101,7 @@ Lo formamos con *to be* seguido de verbo + *-ing.*
 
 *She is cooking dinner.* (Ella está cocinando la cena).
 
-### Questions and negatives
+### Questions and negative sentences (preguntas y oraciones negativas)
 
 We don't need an auxiliary verb, since we use *to be:*
 
@@ -157,7 +157,7 @@ pero usando *to be* en pasado (*was/were*) seguido de verbo + *-ing.*
 
     were not => weren't [wɜrnt]
 
-### Questions and negatives
+### Questions and negative sentences (preguntas y oraciones negativas)
 
 Just like in the present progressive, we don't need an auxiliary verb:
 
@@ -278,11 +278,15 @@ In British English, this does not happen, and the T is always pronounced as a no
 3. They __________ (not / watch) TV.
 4. __________ you __________ (study) last night at 9?
 5. He __________ (walk) in the park.
-6. We __________ (eat) breakfast when the phone __________ (ring [rɪŋ] - sonar).
+6. We __________ (eat) breakfast when the phone __________ (ring [rɪŋ] (sonar), past: rang [ræŋ]).
 
 ## 2. Translate. You can use a dictionary to look up words you don't know.
 
 🔹 Traducir. Puedes usar un diccionario para buscar las palabras que no conoces.
+
+> We use *arrive at* for specific places (*arrive at the restaurant*) and *arrive in* for cities and countries (*arrive in Madrid*).
+
+> 🔹 Usamos *arrive at* para lugares específicos (*arrive at the restaurant*) y *arrive in* para ciudades y países (*arrive in Madrid*).
 
 1. Ayer a las 3 de la tarde yo estaba trabajando.
 2. Ella estaba cantando cuando él llegó.

@@ -2,7 +2,7 @@
 
 ## How it is built (construcción)
 
-In Spanish, to express conditional situations that are possible or probable, you use
+In Spanish, to express conditional situations that are possible or probable, we use
 the present indicative with the future:
 
 🔹 En español, para expresar situaciones condicionales que son posibles o probables, usamos
@@ -21,6 +21,12 @@ de una oración con *will*.
     If it rains, I will stay home. (Si llueve, me quedaré en casa).
 
     If you are hungry, I will cook something. (Si tienes hambre, cocinaré algo).
+
+> In Spanish, it is also common to use the present tense on both sides: *Si llueve, me quedo en casa.*
+> In English, the result clause requires *will*: *If it rains, I will stay home.*
+
+> 🔹 En español, también es común usar el presente en ambos lados: *Si llueve, me quedo en casa.*
+> En inglés, la cláusula de resultado requiere *will*: *If it rains, I will stay home.*
 
 > The *if* clause can go at the beginning or at the end:
 > *I will stay home if it rains.* This is the same as *If it rains, I will stay home.*
@@ -50,23 +56,29 @@ de una oración con *will*.
 
     exam [ɪg'zæm] - examen
 
-## Negative (negativo)
+## Using *not* (uso de *not*)
 
-    If she doesn't come, I won't go. (Si ella no viene, no iré).
+We can use *not* in either clause or in both:
+
+🔹 Podemos usar *not* en cualquiera de las dos cláusulas o en ambas:
 
     If it doesn't rain, we'll go to the park. (Si no llueve, iremos al parque).
 
-## Questions (interrogativo)
+    If she calls, I won't answer. (Si ella llama, no contestaré).
+
+    If she doesn't come, I won't go. (Si ella no viene, no iré).
+
+## Questions (preguntas)
 
     What will you do if it rains? (¿Qué harás si llueve?)
 
-    Where will you go if you have a vacation? (¿Adónde irás si tienes vacaciones?)
+    Where will you go if you have a vacation? (¿A dónde irás si tienes vacaciones?)
 
 ## With going to (con going to)
 
-We can also use *going to* instead of *will* in the first conditional:
+We can also use *going to* instead of *will* in the first conditional, although *will* is more common:
 
-🔹 También podemos usar *going to* en lugar de *will* en el primer condicional:
+🔹 También podemos usar *going to* en lugar de *will* en el primer condicional, aunque *will* es más común:
 
 *If it rains, I'm going to stay home.* (Si llueve, me voy a quedar en casa).
 
@@ -76,20 +88,13 @@ We can also use *going to* instead of *will* in the first conditional:
 
 🔹 *Unless* [ən'lɛs] significa *a menos que*. Se puede usar en lugar de *if not:*
 
-    If you don't study, you will fail. (Si no estudias, suspenderás).
+    If you don't study, you will fail [feɪl]. (Si no estudias, suspenderás).
 
     Unless you study, you will fail. (A menos que estudies, suspenderás).
 
-The meaning is identical.
+    I won't go unless she comes. (No iré a menos que ella venga).
 
-🔹 El significado es idéntico.
-
-    fail [feɪl] - suspender / fracasar
-
-*I won't go unless she comes.* (No iré a menos que ella venga).
-
-*Unless you call me, I'll assume [ə'su:m] (asumir) you're not coming.*
-(A menos que me llames, asumiré que no vienes).
+    Unless you call me, I'll assume [ə'su:m] (asumir) you're not coming. (A menos que me llames, asumiré que no vienes).
 
 # When, as soon as, before, after + present for the future
 
@@ -113,11 +118,11 @@ We cannot say: *When I will arrive, I will call you.*
 
     After we eat, we'll go to the park. (Después de comer, iremos al parque).
 
-> This works the same way in Spanish: *Cuando llegue* (present subjunctive, not future).
-> In English we use the present indicative, but the idea is the same.
+> This works in a similar way in Spanish: *Cuando llegue* (present subjunctive, not future).
+> In English we use the present indicative, but the concept is similar.
 
-> 🔹 Esto es igual en español: *Cuando llegue* (presente de subjuntivo, no futuro).
-> En inglés usamos el presente de indicativo, pero la idea es la misma.
+> 🔹 Esto funciona de manera similar en español: *Cuando llegue* (presente de subjuntivo, no futuro).
+> En inglés usamos el presente de indicativo, pero el concepto es similar.
 
 # Weather vocabulary (vocabulario: el tiempo meteorológico)
 
@@ -224,48 +229,6 @@ M: No, let's go out. I'll only stay home if it's really cold.
 
     only ['oʊnli] - solo / solamente
 
-# A note on intonation in English (nota sobre la entonación en inglés)
-
-In English, the intonation of the voice rises and falls differently from Spanish.
-
-🔹 En inglés, la entonación de la voz sube y baja de manera diferente a como lo hace en español.
-
-### Yes/no questions (preguntas de sí o no)
-
-In questions that are answered with yes or no, the intonation rises at the end:
-
-🔹 En las preguntas que se responden con sí o no, la entonación sube al final:
-
-*Are you coming?* The voice rises on *coming.*
-
-*Do you like pizza?* The voice rises on *pizza.*
-
-### Questions with question words (preguntas con pronombre interrogativo)
-
-In questions that start with *what, where, when, who, how*, the intonation falls at the end:
-
-🔹 En las preguntas que empiezan con *what, where, when, who, how*, la entonación baja al final:
-
-*Where are you going?* The voice falls on *going.*
-
-*What did you do?* The voice falls on *do.*
-
-### Affirmative sentences (oraciones afirmativas)
-
-In affirmative sentences, the intonation falls at the end, just like in Spanish:
-
-🔹 En las oraciones afirmativas, la entonación baja al final, igual que en español:
-
-*I went to the park.* The voice falls on *park.*
-
-### Lists (listas)
-
-When listing things, the intonation rises on each item except the last one, where it falls:
-
-🔹 Cuando enumeramos cosas, la entonación sube en cada elemento excepto el último, donde baja:
-
-*I bought apples, oranges, and bananas.* It rises on *apples*, rises on *oranges*, falls on *bananas.*
-
 # Homework
 
 ## 1. Complete, using the first conditional
@@ -301,7 +264,7 @@ When listing things, the intonation rises on each item except the last one, wher
 1. __________ I finish work, I'll go to the gym.
 2. __________ it rains, we'll stay home.
 3. I'll call you __________ I arrive.
-4. __________ you hurry ['hʌri] (darte prisa), we'll be late.
+4. __________ you hurry ['hʌri] (darse prisa), we'll be late.
 5. __________ we eat, let's go for a walk.
 6. I'll read a book __________ I go to bed.
 

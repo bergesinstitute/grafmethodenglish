@@ -22,6 +22,16 @@ seguido del infinitivo del verbo. En español se traduce normalmente como *ir a 
 > Es completamente informal, y no debemos escribirlo así, pero es útil reconocerlo
 > cuando lo escuchamos.
 
+### Negative sentences (oraciones negativas)
+
+We add *not* after the verb *to be:*
+
+🔹 Añadimos *not* después del verbo *to be:*
+
+    I am not going to eat. (No voy a comer).
+
+    She isn't going to travel. (Ella no va a viajar).
+
 ### Questions (preguntas)
 
 We invert the subject and the verb *to be:*
@@ -31,16 +41,6 @@ We invert the subject and the verb *to be:*
     Are you going to eat? (¿Vas a comer?)
 
     Is she going to travel? (¿Ella va a viajar?)
-
-### Negatives (negativos)
-
-We add *not* after the verb *to be:*
-
-🔹 Añadimos *not* después del verbo *to be:*
-
-    I am not going to eat. (No voy a comer).
-
-    She isn't going to travel. (Ella no va a viajar).
 
 ## Uses of going to (usos de going to)
 
@@ -140,11 +140,11 @@ para hablar de planes futuros que ya están organizados y confirmados.
 
 *We are having a party on Saturday.* (Vamos a hacer una fiesta el sábado).
 
-> In Spanish you can also use the present tense for confirmed future plans: *Mañana vuelo a Londres.*
+> In Spanish we can do something similar with the standard present tense: *Mañana vuelo a Londres.*
 
-> 🔹 En español también podemos usar el presente para planes futuros confirmados: *Mañana vuelo a Londres.*
+> 🔹 En español podemos hacer algo similar con el presente de indicativo: *Mañana vuelo a Londres.*
 
-# Travel and transport vocabulary (vocabulario: viajes y transporte)
+# Travel and transportation vocabulary (vocabulario: viajes y transporte)
 
     trip [trɪp] - viaje
 
@@ -200,7 +200,7 @@ para hablar de planes futuros que ya están organizados y confirmados.
 
 Andrea: Are you going to travel this summer?
 
-Felipe: Yes, I'm going to go to Portugal.
+Felipe: Yes, I'm going to Portugal.
 
 A: That sounds great! When are you going?
 
@@ -229,34 +229,6 @@ A: I'm sure you'll have a great time!
     sure [ʃʊr] - seguro
 
     excited [ɪk'saɪtɪd] - emocionado
-
-# A note on the pronunciation of H in English (nota sobre la pronunciación de la H en inglés)
-
-In Spanish, the H is always silent. In English, the H is normally pronounced. It is an
-aspirated sound, like a soft exhale. To make it, open your mouth and let the air flow out, as if
-you were going to fog up a window.
-
-🔹 En español, la H es siempre muda. En inglés, la H normalmente se pronuncia. Es un sonido
-aspirado, como una exhalación suave. Para hacerlo, abre la boca y deja salir aire, como si
-fueras a empañar un cristal.
-
-    have [hæv]
-
-    he [hi:]
-
-    here [hɪr]
-
-    house [haʊs]
-
-    hotel [hoʊ'tɛl]
-
-    happy ['hæpi]
-
-    how [haʊ]
-
-> Remember that there are exceptions: *hour* ['aʊr] and *honest* ['ɑnɪst] have a silent H.
-
-> 🔹 Recuerda que hay excepciones: *hour* ['aʊr] y *honest* ['ɑnɪst] tienen la H muda.
 
 # Homework
 
@@ -294,8 +266,7 @@ fueras a empañar un cristal.
 6. Hemos comprado los billetes. Vamos a ir a Portugal en julio.
 7. Alguien ha llamado a la puerta. Yo abro.
 8. ¿Cuánto tiempo vas a quedarte?
-9. Seguro que lo pasarás muy bien.
-10. Me voy a mudar a Madrid el año que viene.
+9. Me voy a mudar a Madrid el año que viene.
 
 ## 4. Answer using complete sentences
 
@@ -311,5 +282,5 @@ fueras a empañar un cristal.
 
 🔹 Escribe un párrafo sobre tu próximo viaje (real o imaginario). Usa *will* y *going to*.
 
-Example: *Next summer, I'm going to go to Italy. I'm going to visit Rome and Florence.
+Example: *Next summer, I'm going to Italy. I'm going to visit Rome and Florence.
 I'll probably eat a lot of pizza...*

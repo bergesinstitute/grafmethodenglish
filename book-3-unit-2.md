@@ -62,6 +62,22 @@ Usamos *while* para unirlas.
 
     past progressive + past progressive => two simultaneous descriptions
 
+## There was / there were (había)
+
+The past equivalent of *there is* is *there was* (singular), and the past equivalent
+of *there are* is *there were* (plural).
+
+🔹 El equivalente en pasado de *there is* es *there was* (singular), y el equivalente
+en pasado de *there are* es *there were* (plural).
+
+    There was a cat on the sofa. (Había un gato en el sofá).
+
+    There were many people at the beach. (Había muchas personas en la playa).
+
+    There wasn't any milk. (No había leche).
+
+    Were there many cars? (¿Había muchos coches?)
+
 ## Narration: last night (narración: ayer por la noche)
 
 *Yesterday I arrived home at 7 pm. It was cold outside. My sister was cooking dinner

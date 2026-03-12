@@ -37,7 +37,7 @@ slow and quiet ['kwaɪət] (tranquilo). Here, everything is fast and loud [laʊd
 to drive everywhere in Texas, but in New York I take the subway or walk. I didn't use to eat
 at restaurants very much, but now I eat out almost every day.
 
-I don't know if I'll live in New York forever [fər'ɛvər] (para siempre), but right now, I'm very
+I don't think I'll live in New York forever [fər'ɛvər] (para siempre), but right now, I'm very
 happy here. It's the best city I have ever lived in.
 
     college ['kɑlɪdʒ] - universidad
@@ -58,7 +58,7 @@ happy here. It's the best city I have ever lived in.
 
     mind [maɪnd] - importar
 
-    plan [plæn] - planificar
+    plan [plæn] - planear
 
     quiet ['kwaɪət] - tranquilo / silencioso
 

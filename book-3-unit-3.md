@@ -16,19 +16,21 @@ the verb in the infinitive. Make sure to pronounce the D at the end of *used*: [
 🔹 En inglés, una de las maneras de expresar esto es usando *used to* [ju:st tu:] seguido del
 verbo en infinitivo. Asegúrate de pronunciar la D al final de *used*: [ju:st tu:], no [ju:z tu:].
 
+> *Used to* can also be translated as *solía* + infinitive: *I used to eat* = *Solía comer.*
+
+> 🔹 *Used to* también se puede traducir como *solía* + infinitivo: *I used to eat* = *Solía comer.*
+
+## How it is built (construcción)
+
     I used to eat pizza on Fridays. (Antes comía pizza los viernes).
 
     I used to live in Madrid. (Antes vivía en Madrid).
 
     She used to play the piano. (Antes ella tocaba el piano).
 
-> *Used to* can also be translated as *solía* + infinitive: *I used to eat* = *Solía comer.*
+### Negative sentences (oraciones negativas)
 
-> 🔹 *Used to* también se puede traducir como *solía* + infinitivo: *I used to eat* = *Solía comer.*
-
-## Negatives (negativos)
-
-For negatives, we use *didn't use to:*
+For negative sentences, we use *didn't use to:*
 
 🔹 Para las oraciones negativas, usamos *didn't use to:*
 
@@ -40,7 +42,7 @@ For negatives, we use *didn't use to:*
 
 > 🔹 En la forma negativa, *used* pierde la D final y pasa a ser *use*.
 
-## Questions (preguntas)
+### Questions (preguntas)
 
 For questions, we use *did ... use to:*
 
