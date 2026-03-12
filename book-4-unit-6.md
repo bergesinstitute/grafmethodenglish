@@ -2,11 +2,11 @@
 
 ## What it is (qué es)
 
-In Book 3 we learned the first conditional for possible or probable situations:
+The first conditional is used for possible or probable situations:
 *If it rains, I'll stay home.* The second conditional is for imaginary or unlikely
 situations. It is built with *if* + past simple, followed by *would* + infinitive.
 
-🔹 En el Libro 3 aprendimos el primer condicional para situaciones posibles o probables:
+🔹 El primer condicional se usa para situaciones posibles o probables:
 *If it rains, I'll stay home.* El segundo condicional es para situaciones imaginarias
 o improbables. Se forma con *if* + *past simple*, seguido de *would* + infinitivo.
 
@@ -76,7 +76,7 @@ We can use *could* or *might* instead of *would* for possibility:
 
 *If we moved to the coast, we might go to the beach every day.* (Si nos mudáramos a la costa, puede que fuéramos a la playa cada día).
 
-## Questions and negatives (preguntas y negativos)
+## Questions and negative sentences (preguntas y oraciones negativas)
 
     What would you do if you won the lottery? (¿Qué harías si ganaras la lotería?)
 

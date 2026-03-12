@@ -28,7 +28,7 @@ de la acción. Se forma con *have/has been* + verbo-*ing.*
 
     they have been + verb-ing
 
-### Questions and negatives (preguntas y negativos)
+### Questions and negative sentences (preguntas y oraciones negativas)
 
     Have you been waiting long? (¿Llevas mucho tiempo esperando?)
 
@@ -195,6 +195,46 @@ Knowing about linking will help you understand native speakers better.
 
 🔹 Esta es una de las razones por las que el inglés puede ser difícil de entender
 a velocidad natural. Conocer el *linking* te ayudará a entender mejor a los nativos.
+
+# A note on consonant clusters (nota sobre los grupos consonánticos)
+
+In Spanish, very few words start with two consonants together, and those that do
+always start with a consonant followed by L or R (*playa, tres, brazo*).
+
+🔹 En español, muy pocas palabras empiezan con dos consonantes juntas, y las que lo hacen
+siempre empiezan con una consonante seguida de L o R (*playa, tres, brazo*).
+
+In English, many words start with consonant clusters that don't exist in Spanish, like
+SP, ST, SK, SM, SN, SL, SPR, STR, SKR. Spanish speakers often add an E before these
+sounds: *espeak* instead of *speak.* It is important to avoid this.
+
+🔹 En inglés, muchas palabras empiezan con grupos consonánticos que no existen en español,
+como SP, ST, SK, SM, SN, SL, SPR, STR, SKR. Los hispanohablantes a menudo añaden una E
+antes de estos sonidos: *espeak* en lugar de *speak*. Es importante evitar esto.
+
+To practice, start by saying the S sound alone, and then add the rest of the word
+without pausing: sss...peak, sss...top, sss...now.
+
+🔹 Para practicar, empieza pronunciando la S sola, y luego añade el resto de la palabra
+sin pausa: sss...peak, sss...top, sss...now.
+
+    speak [spi:k] - hablar
+
+    stop [stɑp] - parar
+
+    start [stɑrt] - empezar
+
+    small [smɔ:l] - pequeño
+
+    snow [snoʊ] - nieve
+
+    sleep [sli:p] - dormir
+
+    street [stri:t] - calle
+
+    spring [sprɪŋ] - primavera
+
+    screen [skri:n] - pantalla
 
 # Homework
 

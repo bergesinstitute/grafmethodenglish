@@ -214,6 +214,163 @@ In general, most question tags in casual conversation use falling intonation.
 
 🔹 En general, la mayoría de las *question tags* en conversación informal usan entonación descendente.
 
+# Reading comprehension (comentario de texto)
+
+## The Adventure of the Speckled Band (la aventura de la banda moteada)
+
+One morning in the spring of 1883, a young woman came to visit my friend Sherlock
+Holmes at our apartment in Baker Street. Her name was Helen Stoner, and she was
+clearly very frightened.[1]
+
+"Mr. Holmes, I am afraid that I am going to die," she said. "My sister Julia died
+two years ago, and I believe the same thing is going to happen to me."
+
+Holmes asked her to tell us everything. Helen explained that she and Julia were
+twins.[2] They lived with their stepfather,[3] Dr. Grimesby Roylott, in an old
+manor[4] house in the countryside. Their mother had died years before and had left
+them money, but Roylott controlled it. If either sister married, Roylott would lose
+a large part of that money.
+
+Roylott was a violent and dangerous man. He had lived in India for many years and
+had brought back strange habits and even stranger animals — a cheetah[5] and a
+baboon[6] walked freely around the garden. Nobody in the village liked him. Everyone
+was afraid of him.
+
+Two years ago, Julia had become engaged[7] to be married. A few days before the
+wedding,[8] Helen heard Julia scream in the middle of the night. She ran to her
+sister's room and found Julia standing in the doorway, her face white with
+terror.[9]
+
+"Helen! It was the band! The speckled[10] band!" Julia whispered. Then she
+collapsed[11] and died.
+
+The police investigated but found nothing. The door was locked from the inside,
+the windows had shutters[12] that were closed, and the walls and floor were solid.
+There was no explanation.
+
+"I thought about it every day for two years," Helen told Holmes, "but I could not
+understand what she meant by 'the speckled band.'"
+
+Now Helen herself was engaged to be married. Three days ago, Roylott had told her
+she needed to move to Julia's old room because of repairs[13] to her wall. That
+first night in the new room, she heard something Julia had described before she
+died: a low whistle[14] in the dark, in the middle of the night. She was terrified
+and came to Holmes the next morning.
+
+Holmes agreed to investigate. That afternoon, we traveled to the manor. Roylott was
+not at home. Holmes examined Julia's room very carefully. He found three things that
+were strange.
+
+First, there was a rope hanging from the ceiling next to the bed. It looked like a
+bell pull,[15] but when Holmes pulled it, no bell rang.[16] It was a fake.[17]
+
+Second, there was a small opening[18] in the wall near the ceiling. It did not lead
+outside — it connected directly to Roylott's room next door.
+
+Third, the bed was bolted[19] to the floor. It could not be moved. It was placed
+directly under the rope and the opening in the wall.
+
+"Watson," Holmes said to me, "this is a very dangerous situation. We must stay here
+tonight."
+
+That night, we sat in the dark in Julia's room and waited. Helen was safely[20] in
+another part of the house. For hours, nothing happened. Then, at three in the
+morning, we saw a light through the opening in the wall. Roylott was awake. We
+heard a soft sound — the low whistle.
+
+Holmes struck[21] a match[22] and hit the rope with his cane.[23] Something moved
+quickly up the rope and disappeared through the opening.
+
+Suddenly, from the next room, we heard a terrible scream. We ran to Roylott's room.
+He was sitting in his chair, dead. Around his head was wrapped[24] a strange yellow
+snake with brown spots[25] — a swamp[26] adder,[27] one of the most poisonous[28]
+snakes in India.
+
+"The speckled band," said Holmes.
+
+Holmes explained everything. Roylott had trained the snake to go through the
+opening, down the rope, and onto the bed. He used the whistle to call it back. It
+was the perfect murder — no one would find any evidence.[29] Julia had died from the
+snake's bite[30] on the night before her wedding. And now Roylott had tried to do
+the same to Helen, because her marriage would also cost him money.
+
+When Holmes hit the snake, it went back through the opening, angry, and bit the
+first person it found: Roylott himself.
+
+"I cannot say that I am sorry," said Holmes.
+
+*Arthur Conan Doyle (1892). Adapted version*
+
+[1] frightened ['fraɪtənd] - asustada
+
+[2] twins [twɪnz] - gemelas
+
+[3] stepfather ['stɛpfɑðər] - padrastro
+
+[4] manor ['mænər] - mansión / casa señorial
+
+[5] cheetah ['tʃi:tə] - guepardo
+
+[6] baboon [bæ'bu:n] - babuino
+
+[7] engaged [ɪn'geɪdʒd] - prometida (para casarse)
+
+[8] wedding ['wɛdɪŋ] - boda
+
+[9] terror ['tɛrər] - terror
+
+[10] speckled ['spɛkəld] - moteado / con manchas
+
+[11] collapse [kə'læps] - desplomarse
+
+[12] shutters ['ʃʌtərz] - contraventanas / persianas
+
+[13] repairs [rɪ'pɛrz] - reparaciones
+
+[14] whistle ['wɪsəl] - silbido
+
+[15] bell pull [bɛl pʊl] - cordón de campanilla
+
+[16] ring [rɪŋ] - sonar (past: rang)
+
+[17] fake [feɪk] - falso
+
+[18] opening ['oʊpənɪŋ] - abertura
+
+[19] bolted ['boʊltɪd] - atornillado al suelo
+
+[20] safely ['seɪfli] - a salvo
+
+[21] strike [straɪk] - golpear (past: struck)
+
+[22] match [mætʃ] - cerilla / fósforo
+
+[23] cane [keɪn] - bastón
+
+[24] wrap [ræp] - envolver (past: wrapped)
+
+[25] spots [spɑts] - manchas / lunares
+
+[26] swamp [swɑmp] - pantano
+
+[27] adder ['ædər] - víbora
+
+[28] poisonous ['pɔɪzənəs] - venenoso
+
+[29] evidence ['ɛvɪdəns] - evidencia / pruebas
+
+[30] bite [baɪt] - mordedura / picadura
+
+### Questions (preguntas)
+
+1. Why was Helen Stoner afraid?
+2. What were Julia's last words?
+3. Why would Dr. Roylott lose money if Helen or Julia married?
+4. What three strange things did Holmes find in Julia's room?
+5. What was "the speckled band"?
+6. How did Roylott die?
+7. What do you think of Holmes's final words?
+
 # Homework
 
 ## 1. Add the correct question tag

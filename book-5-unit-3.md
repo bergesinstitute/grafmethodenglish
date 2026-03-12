@@ -138,6 +138,136 @@ S: I wish that too. If only more people had access ['æksɛs] (acceso) to those 
 T: Well, at least we're learning English now. I wish I had started sooner,
 but better late than never!
 
+# Too, enough, so, such
+
+## Too (demasiado)
+
+*Too* [tu:] goes before an adjective or adverb. It means *demasiado* and
+always has a negative implication - there is more than is good or necessary.
+
+🔹 *Too* [tu:] va antes de un adjetivo o adverbio. Significa *demasiado* y
+siempre tiene una implicación negativa - hay más de lo bueno o necesario.
+
+    It's too hot. (Hace demasiado calor).
+
+    She drives too fast. (Ella conduce demasiado rápido).
+
+    This bag is too heavy. (Esta bolsa es demasiado pesada).
+
+We can add *to* + infinitive to say what is impossible because of the excess:
+
+🔹 Podemos añadir *to* + infinitivo para decir qué es imposible debido al exceso:
+
+*It's too cold to go outside.* (Hace demasiado frío para salir).
+
+*He's too young to drive.* (Es demasiado joven para conducir).
+
+> Don't confuse *too* (demasiado) with *too* (también) or *two* (dos).
+> They sound the same!
+
+> 🔹 No confundas *too* (demasiado) con *too* (también) o *two* (dos).
+> Suenan igual.
+
+## Enough (suficiente / bastante)
+
+*Enough* [ɪ'nʌf] goes after an adjective or adverb, but before a noun.
+
+🔹 *Enough* [ɪ'nʌf] va después de un adjetivo o adverbio, pero antes de un sustantivo.
+
+    She is old enough to drive. (Ella es lo suficientemente mayor para conducir).
+
+    He doesn't run fast enough. (Él no corre lo suficientemente rápido).
+
+    We have enough time. (Tenemos suficiente tiempo).
+
+    There aren't enough chairs. (No hay suficientes sillas).
+
+## So (tan)
+
+*So* [soʊ] goes before an adjective or adverb. It adds emphasis.
+
+🔹 *So* [soʊ] va antes de un adjetivo o adverbio. Añade énfasis.
+
+    She is so smart! (¡Es tan inteligente!)
+
+    He speaks so quickly! (¡Habla tan rápido!)
+
+## Such (tan / tal)
+
+*Such* [sʌtʃ] goes before a noun (with or without an adjective). When the noun
+is singular and countable, we add *a/an.*
+
+🔹 *Such* [sʌtʃ] va antes de un sustantivo (con o sin adjetivo). Cuando el sustantivo
+es singular y contable, añadimos *a/an.*
+
+    It's such a beautiful day! (¡Es un día tan bonito!)
+
+    She's such a good teacher! (¡Es una profesora tan buena!)
+
+    They are such nice people! (¡Son gente tan amable!)
+
+## So/such + that (resultado)
+
+Both *so* and *such* can be followed by *that* to express a result:
+
+🔹 Tanto *so* como *such* pueden ir seguidos de *that* para expresar un resultado:
+
+*It was so cold that we stayed home.* (Hacía tanto frío que nos quedamos en casa).
+
+*It was such a long movie that I fell asleep.*
+(Era una película tan larga que me dormí).
+
+## Conversation
+
+Elena: I went shopping yesterday. I found such a nice jacket!
+
+Pablo: Was it expensive?
+
+E: It was on sale, so it wasn't too bad. The original [ə'rɪdʒɪnəl] price was $200,
+but I got a 50% discount. It was such a good deal that I couldn't say no.
+
+P: That's great. Was the store crowded ['kraʊdɪd] (llena de gente)?
+
+E: So crowded that I had to wait thirty minutes to pay. And they didn't
+have enough cashiers [kæ'ʃɪrz] (cajeros). The line was so long!
+
+P: I hate shopping when it's too crowded. I'd rather shop online.
+
+E: Me too, but I wanted to try on the jacket first. The last one I bought online
+was too small. And the one before that wasn't warm enough.
+
+P: Did the jacket fit?
+
+E: Perfectly. It's so comfortable that I wore it home.
+
+# A note on the most challenging sounds for Spanish speakers (repaso de sonidos difíciles)
+
+Let's review the sounds that are most difficult for Spanish speakers:
+
+🔹 Repasemos los sonidos más difíciles para los hispanohablantes:
+
+### The two TH sounds
+
+Voiced [ð] (like a soft D with the tongue between the teeth): *the, this, that, there*
+
+Voiceless [θ] (like blowing air with the tongue between the teeth): *think, three, month, bath*
+
+### The V sound [v]
+
+Upper teeth on lower lip with vibration: *very, have, love, never*
+
+### The schwa [ə]
+
+The most common sound in English. A short, relaxed, neutral vowel: *about, banana, sofa, the*
+
+### The R sound [r]
+
+Tongue curled back, not touching the palate, no vibration: *red, river, right, really*
+
+### The initial S + consonant
+
+No E before the S: *speak, street, small, stop*
+
 # A note on diphthongs (nota sobre los diptongos)
 
 English has several diphthongs - vowel sounds that glide from one position to another.
@@ -201,7 +331,30 @@ tienden a acortarlos a una sola vocal.
 7. Si tan solo hubiera estudiado medicina.
 8. Ojalá viviera cerca del mar.
 
-## 4. Answer using complete sentences
+## 4. Complete with too, enough, so, or such
+
+🔹 Completar con *too*, *enough*, *so* o *such*.
+
+1. It's __________ cold to go swimming.
+2. She's __________ a good singer!
+3. He doesn't speak English well __________.
+4. The movie was __________ boring that I fell asleep.
+5. We don't have __________ money to buy a house.
+6. It was __________ a long day!
+7. The music is __________ loud. Can you turn it down?
+8. He is smart __________ to solve the problem.
+
+## 5. Translate (too / enough / so / such)
+
+🔹 Traducir.
+
+1. Hace demasiado frío para salir.
+2. ¡Es un día tan bonito!
+3. La película era tan larga que me dormí.
+4. No tenemos suficiente tiempo.
+5. No soy lo suficientemente alto para llegar.
+
+## 6. Answer using complete sentences
 
 🔹 Responde usando oraciones completas.
 

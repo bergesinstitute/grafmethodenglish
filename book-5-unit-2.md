@@ -44,7 +44,7 @@ We can use *could have* or *might have* instead of *would have:*
 
 *If she had applied, she might have gotten the job.* (Si se hubiera presentado, quizás habría conseguido el trabajo).
 
-## Questions and negatives (preguntas y negativos)
+## Questions and negative sentences (preguntas y oraciones negativas)
 
     What would you have done if you had missed the train?
     (¿Qué habrías hecho si hubieras perdido el tren?)

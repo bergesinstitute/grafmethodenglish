@@ -203,6 +203,205 @@ Also, *that* after *said/told* is usually reduced to [ðət] or even dropped com
 🔹 Además, *that* después de *said/told* normalmente se reduce a [ðət] o incluso se elimina
 por completo.
 
+# Reading comprehension (comentario de texto)
+
+## Ali Baba and the Forty Thieves (Alí Babá y los cuarenta ladrones)
+
+Ali Baba lived in Persia and had a brother called Kassim. Ali Baba was a
+woodcutter.[1] He worked hard every day, but he was poor. Kassim was the opposite:
+dishonest, lazy,[2] and mean.[3] Kassim had married a very rich woman. Ali Baba's
+wife was poor, like him.
+
+One day Ali Baba was working in the mountains. He saw a group of men on horses
+approaching.[4] He was afraid and climbed a tree. They were clearly thieves.[5]
+The men arrived at a large rock. Ali Baba watched as one of them spoke to the rock.
+
+"Open, Sesame!" said the thief.
+
+The rock opened like a door. The forty thieves went inside. Ali Baba waited in the
+tree for an hour, and finally, the thieves came out.
+
+"Close, Sesame!" said one of them.
+
+The rock closed. Ali Baba, very excited, climbed down from the tree and walked to
+the mysterious rock.
+
+"Open, Sesame!" he said.
+
+The rock opened. Ali Baba thought the inside would be very small. On the
+contrary,[6] when he entered he found an enormous[7] cave.[8] There were thousands
+of gold coins[9] and thousands of rubies[10] and diamonds.[11] Ali Baba put a small
+amount of coins in his bag, left the cave, and said:
+
+"Close, Sesame."
+
+The rock closed.
+
+Ali Baba arrived home with his bag full of gold coins. He told his wife the story of
+the thieves, the rock, and the coins. She was very nervous. She thought they should
+bury[12] the coins in the garden, but first she wanted to count them. Ali Baba told
+her it would take too long to count them all. So she decided to borrow[13] a set of
+scales[14] to weigh[15] the coins, so they could know, more or less, how long they
+could live on them.
+
+Ali Baba's wife made an important mistake: she borrowed the scales from Kassim's
+wife. Kassim's wife was very surprised — she knew that Ali Baba and his wife were
+very poor, and she could not understand why they needed scales. Ali Baba's wife
+explained that the scales were for weighing some grains[16] of corn. Kassim's wife
+secretly put a little grease[17] on the bottom of the scales. That way, the "grains"
+would stick[18] to it, and she would finally know what they were really doing.
+
+When Ali Baba finished weighing the coins, he did not see that one coin had stuck
+to the bottom of the scales. When they returned the scales, Kassim's wife saw the
+coin and understood everything.
+
+Kassim went to Ali Baba's house.
+
+"Where did you get so many gold coins?" Kassim asked.
+
+"It's none of your business,"[19] Ali Baba replied.
+
+"Then perhaps it's the business of the authorities,"[20] said Kassim.
+
+Ali Baba saw that his brother could cause him serious problems. He decided to share
+the treasure[21] with Kassim and tell him the whole story. But Kassim, greedy[22]
+by nature, wanted more gold. He decided to go to the cave the next morning and
+take everything.
+
+Kassim arrived at the rock and said the magic words. He entered the cave and spent
+more than four hours filling bags with gold. He dreamed about all the things he
+would buy. Finally, he walked to the door.
+
+"Open, Barley!"[23] said Kassim.
+
+The rock did not open. Kassim had forgotten the exact word. He tried to remember
+the correct grain, but he could not.
+
+"Open, Wheat![24] Open, Corn! Open, Mint!"[25]
+
+Nothing. The rock did not open.
+
+The forty thieves arrived at the cave, said the correct words, and found Kassim
+inside. They killed him.
+
+When Kassim did not return, Ali Baba went to the cave to look for him. He found his
+brother's body and brought it home. Morgiana, the family's servant,[26] arranged a
+funeral.[27] She paid a cobbler[28] called Mustafa to sew[29] the body together so
+that everyone would think Kassim had died naturally.
+
+When the thieves returned to the cave and found the body gone, they understood that
+someone else knew their secret. They investigated in the city and found Mustafa,
+who proudly told them about his work. They paid him to lead[30] them to the house,
+and one of the thieves marked Ali Baba's door with an X.
+
+The thieves made a plan. One of them disguised[31] himself as an oil merchant[32]
+and went to Ali Baba's house with twenty horses and forty barrels.[33] One barrel
+contained oil. The other thirty-nine contained the thirty-nine other thieves. The
+disguised thief asked Ali Baba if he could spend the night. Ali Baba accepted. The
+plan was simple: during the night, the thieves would come out of the barrels and
+kill Ali Baba.
+
+Morgiana was in the kitchen and needed oil for her lamp. She went to take some from
+the merchant's barrels. When she opened a barrel, she found a man inside.
+
+"Is it time?" whispered[34] the thief.
+
+"Not yet," Morgiana replied, and closed the barrel.
+
+She checked every barrel. All of them had a man inside except one. She heated[35]
+the oil from the one real barrel and poured[36] boiling[37] oil into the other
+thirty-nine. When the disguised thief went to wake his men, he found them all dead.
+Terrified, he ran away and never returned.
+
+Ali Baba buried the thieves in his garden. He never went back to the cave. He never
+said the words "Open, Sesame" again.
+
+*From "One Thousand and One Nights." Traditional*
+
+[1] woodcutter ['wʊdkʌtər] - leñador
+
+[2] lazy ['leɪzi] - perezoso
+
+[3] mean [mi:n] - mezquino / malo
+
+[4] approach [ə'proʊtʃ] - acercarse
+
+[5] thieves [θi:vz] - ladrones (singular: thief)
+
+[6] on the contrary [ɑn ðə 'kɑntrɛri] - por el contrario
+
+[7] enormous [ɪ'nɔrməs] - enorme
+
+[8] cave [keɪv] - cueva
+
+[9] coins [kɔɪnz] - monedas
+
+[10] rubies ['ru:bi:z] - rubíes
+
+[11] diamonds ['daɪməndz] - diamantes
+
+[12] bury ['bɛri] - enterrar
+
+[13] borrow ['bɑroʊ] - pedir prestado
+
+[14] scales [skeɪlz] - balanza
+
+[15] weigh [weɪ] - pesar
+
+[16] grains [greɪnz] - granos
+
+[17] grease [gri:s] - grasa
+
+[18] stick [stɪk] - pegarse (past: stuck)
+
+[19] none of your business - no es asunto tuyo
+
+[20] authorities [ə'θɔrɪtiz] - autoridades
+
+[21] treasure ['trɛʒər] - tesoro
+
+[22] greedy ['gri:di] - codicioso / avaricioso
+
+[23] barley ['bɑrli] - cebada
+
+[24] wheat [wi:t] - trigo
+
+[25] mint [mɪnt] - menta
+
+[26] servant ['sɜrvənt] - criada / sirviente
+
+[27] funeral ['fju:nərəl] - funeral
+
+[28] cobbler ['kɑblər] - zapatero
+
+[29] sew [soʊ] - coser
+
+[30] lead [li:d] - guiar / llevar
+
+[31] disguise [dɪs'gaɪz] - disfrazar
+
+[32] merchant ['mɜrtʃənt] - comerciante / mercader
+
+[33] barrels ['bærəlz] - barriles
+
+[34] whisper ['wɪspər] - susurrar
+
+[35] heat [hi:t] - calentar
+
+[36] pour [pɔr] - verter / echar
+
+[37] boiling ['bɔɪlɪŋ] - hirviendo
+
+### Questions (preguntas)
+
+1. What was Ali Baba's job?
+2. How did Ali Baba discover the cave?
+3. How did Kassim's wife discover the gold coins?
+4. Why couldn't Kassim get out of the cave?
+5. Who was Morgiana, and what did she do to save Ali Baba?
+6. Does the story end well or badly?
+7. What do you think the moral of the story is?
+
 # Homework
 
 ## 1. Change to reported speech

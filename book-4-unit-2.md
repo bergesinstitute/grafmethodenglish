@@ -88,7 +88,7 @@ para conectarlos.
 *He didn't want to eat because he had already had lunch.*
 (No quería comer porque ya había almorzado).
 
-### Questions and negatives (preguntas y negativos)
+### Questions and negative sentences (preguntas y oraciones negativas)
 
     Had you eaten before the meeting? (¿Habías comido antes de la reunión?)
 
@@ -153,40 +153,123 @@ M: They hired someone new. She had worked at a similar ['sɪmɪlər] (similar) c
 L: I'm happy for Pedro. He had worked at his old company for ten years.
 He deserved [dɪ'zɜrvd] (se merecía) a change.
 
-# A note on the dark L (nota sobre la L oscura)
+# Some, any, no, every
 
-In English, the L sound changes depending on its position in the word. When L is at the
-beginning of a word or before a vowel, it sounds similar to the Spanish L. This is called
-the *light L.*
+## Some and any
 
-🔹 En inglés, el sonido de la L cambia dependiendo de su posición. Cuando la L está al principio
-de una palabra o antes de una vocal, suena parecida a la L del español. Esto se llama *light L.*
+*Some* [sʌm] and *any* ['ɛni] both mean an indefinite amount. In general, we use
+*some* in affirmative sentences and *any* in negative sentences and questions.
 
-    like [laɪk]
+🔹 *Some* [sʌm] y *any* ['ɛni] significan una cantidad indefinida. En general, usamos
+*some* en oraciones afirmativas y *any* en negativas e interrogativas.
 
-    love [lʌv]
+    I have some books. (Tengo algunos libros).
 
-    learn [lɜrn]
+    I don't have any books. (No tengo ningún libro).
 
-When L is at the end of a word or before a consonant, it becomes a *dark L*. To pronounce it,
-raise the back of your tongue towards the soft palate while the tip of the tongue touches
-the roof of the mouth. It sounds almost like a W at the end.
+    Do you have any questions? (¿Tienes alguna pregunta?)
 
-🔹 Cuando la L está al final de una palabra o antes de una consonante, se convierte en una
-*dark L*. Para pronunciarla, levanta la parte posterior de la lengua hacia el paladar blando
-mientras la punta toca el paladar. Suena casi como una W al final.
+> We can also use *some* in questions when offering or requesting:
+> *Would you like some coffee?* *Can I have some water?*
 
-    feel [fi:ɫ]
+> 🔹 También podemos usar *some* en preguntas cuando ofrecemos o pedimos algo:
+> *Would you like some coffee?* *Can I have some water?*
 
-    call [kɔ:ɫ]
+## No
 
-    full [fʊɫ]
+*No* can be used as a determiner before a noun. It means *not any:*
 
-    milk [mɪɫk]
+🔹 *No* puede usarse como determinante antes de un sustantivo. Significa lo mismo que *not any:*
 
-    help [hɛɫp]
+    I have no money. = I don't have any money. (No tengo dinero).
 
-    skill [skɪɫ]
+    There are no chairs. = There aren't any chairs. (No hay sillas).
+
+> When we use *no* before a noun, the verb stays positive. We don't use a double
+> negative in English.
+
+> 🔹 Cuando usamos *no* antes de un sustantivo, el verbo es positivo. En inglés
+> no usamos doble negación.
+
+## Compound words (palabras compuestas)
+
+We can combine *some, any, no,* and *every* with *-thing, -one/-body,* and *-where*
+to create useful compound words:
+
+🔹 Podemos combinar *some, any, no* y *every* con *-thing, -one/-body* y *-where*
+para crear palabras compuestas muy útiles:
+
+### With -thing (para cosas)
+
+    something ['sʌmθɪŋ] - algo
+
+    anything ['ɛniθɪŋ] - algo (en preguntas) / nada (en negativas)
+
+    nothing ['nʌθɪŋ] - nada
+
+    everything ['ɛvriθɪŋ] - todo
+
+### With -one / -body (para personas)
+
+    someone ['sʌmwʌn] / somebody ['sʌmbədi] - alguien
+
+    anyone ['ɛniwʌn] / anybody ['ɛnibədi] - alguien (en preguntas) / nadie (en negativas)
+
+    no one ['noʊ wʌn] / nobody ['noʊbədi] - nadie
+
+    everyone ['ɛvriwʌn] / everybody ['ɛvribədi] - todos / todo el mundo
+
+### With -where (para lugares)
+
+    somewhere ['sʌmwɛr] - en algún lugar
+
+    anywhere ['ɛniwɛr] - en algún lugar (en preguntas) / en ningún lugar (en negativas)
+
+    nowhere ['noʊwɛr] - en ningún lugar
+
+    everywhere ['ɛvriwɛr] - en todas partes
+
+## Examples (ejemplos)
+
+*Someone is at the door.* (Alguien está en la puerta).
+
+*I don't know anyone here.* (No conozco a nadie aquí).
+
+*Nobody called me yesterday.* (Nadie me llamó ayer).
+
+*Is there anything in the box?* (¿Hay algo en la caja?)
+
+*There is nothing in the box.* (No hay nada en la caja).
+
+*I looked for my keys everywhere.* (Busqué mis llaves en todas partes).
+
+> Like with *no*, when we use *nothing, nobody,* or *nowhere,* the verb stays positive:
+> *Nobody called me.* Not: *Nobody didn't call me.*
+
+> 🔹 Al igual que con *no*, cuando usamos *nothing, nobody* o *nowhere*, el verbo
+> es positivo: *Nobody called me.* No: *Nobody didn't call me.*
+
+## Conversation
+
+Ana: Did you do anything interesting last weekend?
+
+David: Yes! I went somewhere new - a small town near the mountains.
+Everything was very quiet and peaceful ['pi:sfəl] (tranquilo).
+
+A: Did you go with someone?
+
+D: No, I went alone [ə'loʊn] (solo). Nobody wanted to come with me. But it was OK.
+I met some nice people at the hotel.
+
+A: Did you buy anything?
+
+D: I bought something for my sister - a beautiful painting. But I couldn't find
+anything for my brother. There was nothing he would like in the shops.
+
+A: Is there anything you want to do next weekend?
+
+D: I want to go somewhere warm. I don't want to do anything
+too active [æktɪv] (activo). I just want to relax.
 
 # Homework
 
@@ -234,3 +317,27 @@ Example: She left. I arrived. => *When I arrived, she had already left.*
 2. What had you done before you started reading this unit?
 3. Had you ever traveled outside your country before you were 18?
 4. By the time you finished school, how many years had you studied?
+
+## 5. Complete with some, any, no, something, anything, nothing, someone, anyone, no one, somewhere, anywhere, nowhere, everything, everyone, everywhere
+
+🔹 Completar con la palabra correcta.
+
+1. I have __________ money in my wallet.
+2. She doesn't have __________ friends in this city.
+3. There is __________ milk in the fridge. We need to buy more.
+4. Would you like __________ coffee?
+5. __________ is perfect. We all make mistakes.
+6. I can't find my keys __________. I've looked __________.
+7. Is __________ home? I knocked on the door but __________ answered.
+8. She knows __________. She's very smart.
+9. I have __________ to tell you. It's important.
+10. There is __________ I can do to help. I'm sorry.
+
+## 6. Translate (some / any / no / every)
+
+🔹 Traducir. Puedes usar un diccionario para buscar las palabras que no conoces.
+
+1. ¿Hay alguien en casa?
+2. No hay nada en la caja.
+3. Todo el mundo estaba en la fiesta.
+4. Busqué en todas partes pero no encontré nada.

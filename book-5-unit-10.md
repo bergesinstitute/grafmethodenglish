@@ -1,162 +1,141 @@
-# Looking back, looking forward (mirando atrás, mirando adelante)
+# The English subjunctive (el subjuntivo en inglés)
 
-I have been living in this city for almost ten years now. When I first arrived, I didn't know
-anyone. I had just finished university, and I had decided to move here because I had been
-offered a job at a small company. If I hadn't received that offer, I would have stayed in
-my hometown, and my life would be completely different now.
+## Does English have a subjunctive? (¿tiene el inglés un subjuntivo?)
 
-The first few months were difficult. I wasn't used to living alone, and I couldn't get used
-to the noise of the city. I used to live in a quiet village where everyone knew everyone.
-Here, nobody knew my name. I remember feeling lonely and wondering ['wʌndərɪŋ]
-(preguntándome) if I had made the right decision.
+Spanish speakers are often surprised to learn that English does have a subjunctive.
+However, it is much simpler and much less common than the Spanish subjunctive. In
+Spanish, the subjunctive has multiple tenses and is used constantly. In English,
+it is limited to a few specific situations, and in most cases you can avoid it entirely.
 
-However, things gradually ['grædʒuəli] (gradualmente) got better. I met a woman named Clara
-at a café near my office. She was the person who changed everything. She told me that she
-had also moved to the city on her own, and she said she had felt exactly the same way.
-She suggested joining a hiking ['haɪkɪŋ] (senderismo) group, which was the best advice
-anyone has ever given me.
+🔹 Los hispanohablantes a menudo se sorprenden al saber que el inglés sí tiene un
+subjuntivo. Sin embargo, es mucho más simple y mucho menos común que el subjuntivo
+español. En español, el subjuntivo tiene múltiples tiempos y se usa constantemente.
+En inglés, se limita a unas pocas situaciones específicas, y en la mayoría de los
+casos se puede evitar por completo.
 
-Through the hiking group, I made friends who I still see every week. We would meet every
-Saturday morning and walk for hours in the mountains near the city. Although I had never been
-interested in hiking before, I quickly fell in love with it. The mountains, which are
-about an hour from the center, are absolutely beautiful.
+## The mandative subjunctive (el subjuntivo de mandato)
 
-Eventually, I was promoted at work, and I moved to a bigger apartment. The apartment
-was found by Clara, who had been looking for a place for me while I was busy with a
-project. I wish I could say I did something equally ['i:kwəli] (igualmente) nice for her, but
-I should have been a better friend in those early days. She must have been very patient with me.
+After verbs like *suggest, recommend, demand, request, insist, require, propose,*
+and *ask (that),* formal English uses the base form of the verb (the infinitive
+without *to*) for all persons. This means: no *-s* in the third person singular,
+and *be* stays as *be.*
 
-Now my life looks very different from what I had imagined when I was young. I used to think
-I would become a famous musician. If only I had practiced more! But I don't regret the path
-I've taken. I have been working at the same company for eight years, and I have been
-promoted three times. I am used to the pace [peɪs] (ritmo) of city life now, even though
-I sometimes wish it would slow down.
+🔹 Después de verbos como *suggest, recommend, demand, request, insist, require, propose*
+y *ask (that),* el inglés formal usa la forma base del verbo (el infinitivo sin *to*)
+para todas las personas. Esto significa: sin *-s* en la tercera persona del singular,
+y *be* se mantiene como *be.*
 
-Next year, I'm going to take a big step. Clara and I are getting married. If someone had told
-me ten years ago that I would meet my future wife at a random ['rændəm] café, I wouldn't
-have believed them. She asked me last month whether I was happy here. I told her that
-I couldn't imagine living anywhere else. Despite the difficult beginning, this city has become
-my home.
+*I suggest that he **leave** immediately.* (Sugiero que se vaya inmediatamente).
 
-I think life is about taking chances. If you never take risks [rɪsks], you'll never discover
-what you're capable ['keɪpəbəl] (capaz) of. I'd rather try and fail than never try at all.
-You'd better believe me - the best things in my life have happened because I was brave
-[breɪv] (valiente) enough to say yes.
+*She recommended that we **be** on time.* (Recomendó que fuéramos puntuales).
 
-Looking back, I'm grateful for every decision I've made, even the mistakes. Looking forward,
-I can't wait to see what happens next. Whatever it is, I know I'll have Clara by my side,
-and that's enough for me.
+*They demanded that she **resign**.* (Exigieron que dimitiera).
 
-    gradually ['grædʒuəli] - gradualmente
+*The doctor insisted that he **take** the medicine.* (El médico insistió en que tomara la medicina).
 
-    wonder ['wʌndər] - preguntarse
+*The company requires that every employee **wear** a uniform.*
+(La empresa exige que cada empleado lleve un uniforme).
 
-    hiking ['haɪkɪŋ] - senderismo
+The same happens after expressions like *it is important that, it is essential that,
+it is necessary that:*
 
-    fall in love [fɔl ɪn lʌv] - enamorarse
+🔹 Lo mismo ocurre después de expresiones como *it is important that, it is essential that,
+it is necessary that:*
 
-    promote [prə'moʊt] - ascender
+*It is important that she **be** present.* (Es importante que ella esté presente).
 
-    equally ['i:kwəli] - igualmente
+*It is essential that everyone **understand** the rules.*
+(Es esencial que todos entiendan las reglas).
 
-    patient ['peɪʃənt] - paciente
+For negatives, we place *not* before the verb:
 
-    path [pæθ] - camino / trayectoria
+🔹 Para las negaciones, colocamos *not* antes del verbo:
 
-    pace [peɪs] - ritmo
+*I suggest that he **not leave** yet.* (Sugiero que no se vaya todavía).
 
-    step [stɛp] - paso
+*It is important that she **not be** late.* (Es importante que ella no llegue tarde).
 
-    random ['rændəm] - aleatorio / al azar
+## Alternatives to the subjunctive (alternativas al subjuntivo)
 
-    risk [rɪsk] - riesgo
+In practice, the subjunctive is mainly used in formal writing and in American English.
+In everyday spoken English, and especially in British English, there are two common
+alternatives:
 
-    capable ['keɪpəbəl] - capaz
+🔹 En la práctica, el subjuntivo se usa principalmente en la escritura formal y en el
+inglés americano. En el inglés hablado cotidiano, y especialmente en el inglés británico,
+hay dos alternativas comunes:
 
-    brave [breɪv] - valiente
+### With should (con should)
 
-    grateful ['greɪtfəl] - agradecido
+*I suggest that he **should leave** immediately.*
 
-    whatever [wʌt'ɛvər] - lo que sea / sea lo que sea
+*It is important that she **should be** present.*
 
-    by my side [baɪ maɪ saɪd] - a mi lado
+This is the traditional British alternative to the subjunctive. It is perfectly correct
+and very common in the UK.
 
-# Homework
+🔹 Esta es la alternativa tradicional británica al subjuntivo. Es perfectamente correcta
+y muy común en el Reino Unido.
 
-## 1. Answer based on the text
+### With the indicative (con el indicativo)
 
-🔹 Responde basándote en el texto.
+*I suggest that he **leaves** immediately.*
 
-1. How long has the narrator been living in the city?
-2. Why did he move there?
-3. What would have happened if he hadn't received the job offer?
-4. Who helped him adjust to the city?
-5. What had Clara also experienced when she first moved?
-6. What was the best advice anyone gave him?
-7. How was the bigger apartment found?
-8. What had he imagined his life would be like when he was young?
-9. What big step is he going to take next year?
-10. What is his philosophy about life?
+*It is important that she **is** present.*
 
-## 2. Find examples in the text of every structure listed below
+This is common in informal spoken English, particularly in British English. Many native
+speakers use the indicative naturally without thinking about the subjunctive at all.
 
-🔹 Encuentra en el texto ejemplos de cada estructura listada.
+🔹 Esto es común en el inglés hablado informal, particularmente en el inglés británico.
+Muchos hablantes nativos usan el indicativo de forma natural sin pensar en el subjuntivo
+en absoluto.
 
-1. Present simple
-2. Present progressive
-3. Past simple
-4. Past progressive (or past description)
-5. Used to
-6. Present perfect
-7. Present perfect continuous
-8. Past perfect
-9. Future with going to
-10. First conditional
-11. Second conditional
-12. Third conditional
-13. Mixed conditional
-14. Wish
-15. Passive voice
-16. Relative clause (who)
-17. Relative clause (which)
-18. Reported speech
-19. Modal + have + past participle (2 examples)
-20. Phrasal verb (2 examples)
-21. Gerund after preposition
-22. Linking word (3 examples)
-23. Question tag or had better/would rather (2 examples)
-24. Be used to / get used to
+> In summary: all three forms are used and understood. The subjunctive (*he leave, she be*)
+> is the most formal and is standard in American English and in formal writing everywhere.
+> The *should* form (*he should leave*) is the traditional British alternative.
+> The indicative (*he leaves, she is*) is informal but widely used in spoken English.
 
-## 3. Translate the following sentences from the text
+> 🔹 En resumen: las tres formas se usan y se entienden. El subjuntivo (*he leave, she be*)
+> es la más formal y es estándar en el inglés americano y en la escritura formal en general.
+> La forma con *should* (*he should leave*) es la alternativa tradicional británica.
+> El indicativo (*he leaves, she is*) es informal pero se usa ampliamente en el inglés hablado.
 
-🔹 Traduce las siguientes oraciones del texto.
+## Were: the past subjunctive (were: el subjuntivo pasado)
 
-1. I have been living in this city for almost ten years now.
-2. If I hadn't received that offer, I would have stayed in my hometown.
-3. I wasn't used to living alone, and I couldn't get used to the noise.
-4. She told me that she had also moved to the city on her own.
-5. Although I had never been interested in hiking before, I quickly fell in love with it.
-6. I wish I could say I did something equally nice for her.
-7. She must have been very patient with me.
-8. Despite the difficult beginning, this city has become my home.
-9. I'd rather try and fail than never try at all.
-10. You'd better believe me.
+We have already seen this in the second conditional (book 4, unit 6) and with *wish*
+(book 5, unit 3). In formal English, *were* is used for all persons, including
+*I, he, she, it:*
 
-## 4. Write your own "Looking back, looking forward" essay
+🔹 Ya hemos visto esto en el segundo condicional (libro 4, unidad 6) y con *wish*
+(libro 5, unidad 3). En inglés formal, *were* se usa para todas las personas,
+incluyendo *I, he, she, it:*
 
-🔹 Escribe tu propia redacción "Mirando atrás, mirando adelante".
+*If I **were** you, I would accept the offer.* (Si yo fuera tú, aceptaría la oferta).
 
-Write about your life using as many structures from all five books as possible.
-Talk about your past, your present, and your future. Include at least:
+*I wish she **were** here.* (Ojalá ella estuviera aquí).
 
-🔹 Escribe sobre tu vida usando tantas estructuras de los cinco libros como sea posible.
-Habla sobre tu pasado, tu presente y tu futuro. Incluye al menos:
+As we noted in those units, *was* is very common and widely accepted in informal English:
+*If I was you... I wish she was here...*
 
-- 3 different past tenses
-- 2 different future forms
-- 1 conditional sentence
-- 1 wish sentence
-- 1 passive sentence
-- 2 relative clauses
-- 3 linking words
-- 2 phrasal verbs
+🔹 Como mencionamos en esas unidades, *was* es muy común y ampliamente aceptado en el
+inglés informal: *If I was you... I wish she was here...*
+
+## Fixed expressions (expresiones fijas)
+
+Some common English expressions use the subjunctive in a fossilized form. Native speakers
+use them without thinking of them as subjunctive:
+
+🔹 Algunas expresiones comunes en inglés usan el subjuntivo de forma fosilizada. Los
+hablantes nativos las usan sin pensar en ellas como subjuntivo:
+
+    God bless you. - Dios te bendiga.
+
+    Long live the king! - ¡Viva el rey!
+
+    Be that as it may. - Sea como sea.
+
+    Come what may. - Pase lo que pase.
+
+    If need be. - Si es necesario. / Si hiciera falta.
+
+    So be it. - Que así sea.

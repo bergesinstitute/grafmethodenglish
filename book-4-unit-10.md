@@ -1,126 +1,234 @@
-# A year abroad (un año en el extranjero)
+# Pronunciation tips for Spanish speakers (consejos de pronunciación para hispanohablantes)
 
-When I finished university, I decided to spend a year abroad [ə'brɔd] (en el extranjero).
-I had always wanted to live in another country, and I had been saving money for two years.
-I was excited but also nervous ['nɜrvəs] (nervioso).
+## The dark L (la L oscura)
 
-I chose ['tʃoʊz] England because I wanted to improve [ɪm'pru:v] (mejorar) my English.
-I had studied it for years at school, but I had never lived in an English-speaking country.
-I found a small apartment in Brighton ['braɪtən], a city on the south coast that is known
-for its beaches and its nightlife.
+In English, the L sound changes depending on its position in the word. When L is at the
+beginning of a word or before a vowel, it sounds similar to the Spanish L. This is called
+the *light L.*
 
-When I arrived, everything was different from what I had imagined. The weather, which
-I had heard was terrible, was actually not that bad in September. The people I met were
-very friendly. But the language was harder than I had expected. People spoke so fast that
-I couldn't understand anything at first.
+🔹 En inglés, el sonido de la L cambia dependiendo de su posición. Cuando la L está al principio
+de una palabra o antes de una vocal, suena parecida a la L del español. Esto se llama *light L.*
 
-I got a job at a café that was run by an Italian woman whose husband was English.
-I enjoyed working there because I could practice my English while earning [ɜrnɪŋ]
-(ganando) some money. If I hadn't found that job, I would have run out of money
-very quickly.
+    like [laɪk]
 
-I had been living in Brighton for about three months when I started to feel comfortable.
-I had made some friends - people who I met at work and at a language exchange
-[ɪks'tʃeɪndʒ] that was organized every Thursday at a pub [pʌb] (bar). The pub where
-we met was called The Lion ['laɪən], and it was the place where many international students
-would go.
+    love [lʌv]
 
-By December, my English had improved a lot. I had been practicing every day, and I was
-no longer afraid of making mistakes. I had learned many phrasal verbs that nobody had
-taught me in school. I had discovered that real English is very different from textbook English.
+    learn [lɜrn]
 
-If I could give one piece of advice to anyone who wants to learn a language, it would be
-this: go somewhere where the language is spoken. Nothing I had done before - no course,
-no app, no textbook - had prepared me as well as simply living in the country. I'm not
-saying you shouldn't study grammar. But if you combine studying with real experience,
-you will learn faster than you ever thought possible.
+When L is at the end of a word or before a consonant, it becomes a *dark L*. To pronounce it,
+raise the back of your tongue towards the soft palate while the tip of the tongue touches
+the roof of the mouth. It sounds almost like a W at the end.
 
-I came back home in July. I had been away for ten months. Everything looked the same,
-but I felt different. I was more confident, more independent [ɪndɪ'pɛndənt], and I had
-made friends from all over the world who I still keep in touch with.
+🔹 Cuando la L está al final de una palabra o antes de una consonante, se convierte en una
+*dark L*. Para pronunciarla, levanta la parte posterior de la lengua hacia el paladar blando
+mientras la punta toca el paladar. Suena casi como una W al final.
 
-That year abroad was the best decision I have ever made.
+    feel [fi:ɫ]
 
-    abroad [ə'brɔd] - en el extranjero
+    call [kɔ:ɫ]
 
-    improve [ɪm'pru:v] - mejorar
+    full [fʊɫ]
 
-    coast [koʊst] - costa
+    milk [mɪɫk]
 
-    nightlife ['naɪtlaɪf] - vida nocturna
+    help [hɛɫp]
 
-    expect [ɪk'spɛkt] - esperar (anticipar)
+    skill [skɪɫ]
 
-    earn [ɜrn] - ganar (dinero)
+> The symbol [ɫ] is used in this section to show the dark L sound. In the rest of this book
+> and in the other books, L is always represented as [l] for clarity.
 
-    comfortable ['kʌmfərtəbəl] - cómodo
+> 🔹 El símbolo [ɫ] se usa en esta sección para mostrar el sonido de la L oscura. En el resto
+> de este libro y en los demás libros, la L se representa siempre como [l] para mayor claridad.
 
-    exchange [ɪks'tʃeɪndʒ] - intercambio
+## The two TH sounds (los dos sonidos TH)
 
-    no longer [noʊ 'lɔŋgər] - ya no
+Spanish doesn't have either TH sound. There are two:
 
-    advice [əd'vaɪs] - consejo
+🔹 El español no tiene ninguno de los dos sonidos TH. Hay dos:
 
-    combine [kəm'baɪn] - combinar
+### Voiced [ð]
 
-    independent [ɪndɪ'pɛndənt] - independiente
+Place your tongue between your teeth and vibrate. It sounds like a soft D.
 
-    keep in touch [ki:p ɪn tʌtʃ] - mantener el contacto
+🔹 Coloca la lengua entre los dientes y vibra. Suena como una D suave.
 
-    decision [dɪ'sɪʒən] - decisión
+    the [ðə]
 
-# Homework
+    this [ðɪs]
 
-## 1. Answer based on the text
+    that [ðæt]
 
-🔹 Responde basándote en el texto.
+    they [ðeɪ]
 
-1. Why did the narrator choose England?
-2. How long had he been saving money before his trip?
-3. What was Brighton known for?
-4. Where did he get a job?
-5. What would have happened if he hadn't found a job?
-6. How long had he been living in Brighton when he started to feel comfortable?
-7. Where did the language exchange take place?
-8. What is his advice for anyone who wants to learn a language?
-9. How long had he been away when he came back?
-10. How did he feel when he returned?
+    mother ['mʌðər]
 
-## 2. Find examples in the text of the following structures
+    weather ['wɛðər]
 
-🔹 Encuentra en el texto ejemplos de las siguientes estructuras.
+### Voiceless [θ]
 
-1. Past perfect (2 examples)
-2. Present perfect continuous (2 examples)
-3. Passive voice (2 examples)
-4. Relative clause with *who* (1 example)
-5. Relative clause with *where* (1 example)
-6. Relative clause with *whose* (1 example)
-7. Second conditional (1 example)
-8. Phrasal verb (3 examples)
-9. Gerund after a verb (1 example)
+Place your tongue between your teeth and blow air, without vibration.
 
-## 3. Translate the following sentences from the text
+🔹 Coloca la lengua entre los dientes y sopla aire, sin vibración.
 
-🔹 Traduce las siguientes oraciones del texto.
+    think [θɪŋk]
 
-1. I had always wanted to live in another country.
-2. I had been saving money for two years.
-3. The people I met were very friendly.
-4. If I hadn't found that job, I would have run out of money very quickly.
-5. I had been living in Brighton for about three months when I started to feel comfortable.
-6. I was no longer afraid of making mistakes.
-7. Nothing I had done before had prepared me as well as simply living in the country.
-8. That year abroad was the best decision I have ever made.
+    three [θri:]
 
-## 4. Write about a real or imaginary experience abroad
+    month [mʌnθ]
 
-🔹 Escribe sobre una experiencia real o imaginaria en el extranjero.
+    bath [bæθ]
 
-Write a text similar to the one in this unit. You can write about a real experience
-or imagine one. Try to use: past perfect, present perfect continuous, passive voice,
-relative clauses, second conditional, phrasal verbs, and gerunds/infinitives.
+    birthday ['bɜrθdeɪ]
 
-🔹 Escribe un texto similar al de esta unidad. Puedes escribir sobre una experiencia real
-o imaginar una. Intenta usar: *past perfect*, *present perfect continuous*, voz pasiva,
-oraciones de relativo, segundo condicional, *phrasal verbs* y gerundios/infinitivos.
+    anything ['ɛniθɪŋ]
+
+> A common mistake is to replace [ð] with D and [θ] with T or S. Try to avoid this.
+
+> 🔹 Un error común es sustituir [ð] por D y [θ] por T o S. Intenta evitarlo.
+
+## The schwa [ə] (la vocal neutra)
+
+The schwa is the most common vowel sound in English. It is a short, relaxed, neutral sound,
+like a very soft "a" or "e." It appears in unstressed syllables.
+
+🔹 La schwa es el sonido vocálico más común en inglés. Es un sonido corto, relajado y neutro,
+como una "a" o "e" muy suave. Aparece en sílabas no acentuadas.
+
+    about [ə'baʊt]
+
+    banana [bə'nænə]
+
+    sofa ['soʊfə]
+
+    today [tə'deɪ]
+
+    problem ['prɑbləm]
+
+    animal ['ænɪməl]
+
+Many words that are spelled very differently use the same schwa sound in their unstressed
+syllables. The schwa is key to sounding natural in English.
+
+🔹 Muchas palabras que se escriben de forma muy diferente usan el mismo sonido schwa
+en sus sílabas no acentuadas. La schwa es clave para sonar natural en inglés.
+
+## The V sound [v]
+
+In Spanish, the letters B and V are pronounced the same way. In English, V is different:
+place your upper teeth on your lower lip and vibrate.
+
+🔹 En español, las letras B y V se pronuncian igual. En inglés, la V es diferente:
+coloca los dientes superiores sobre el labio inferior y vibra.
+
+    very ['vɛri] (not "berry")
+
+    have [hæv]
+
+    love [lʌv]
+
+    never ['nɛvər]
+
+    visit ['vɪzɪt]
+
+    voice [vɔɪs]
+
+> Be careful with the B/V distinction. *Berry* and *very* are two different words.
+> *Best* and *vest* are two different words.
+
+> 🔹 Cuidado con la distinción B/V. *Berry* y *very* son dos palabras diferentes.
+> *Best* y *vest* son dos palabras diferentes.
+
+## The initial S + consonant (S inicial + consonante)
+
+In Spanish, words that start with S + consonant always have an E before the S:
+*escuela, España, especial.* In English, there is no E. Be careful not to add one.
+
+🔹 En español, las palabras que empiezan con S + consonante siempre tienen una E antes de la S:
+*escuela, España, especial.* En inglés, no hay E. Ten cuidado de no añadirla.
+
+    speak [spi:k] (not "espeak")
+
+    street [stri:t] (not "estreet")
+
+    small [smɔl] (not "esmall")
+
+    stop [stɑp] (not "estop")
+
+    school [sku:l] (not "eschool")
+
+    Spain [speɪn] (not "eSpain")
+
+## The R sound [r]
+
+The English R is very different from the Spanish R. In English, the tongue curls back
+and does not touch the palate. There is no vibration.
+
+🔹 La R en inglés es muy diferente de la R en español. En inglés, la lengua se curva
+hacia atrás y no toca el paladar. No hay vibración.
+
+    red [rɛd]
+
+    river ['rɪvər]
+
+    right [raɪt]
+
+    really ['ri:əli]
+
+    breakfast ['brɛkfəst]
+
+    country ['kʌntri]
+
+## Silent letters (letras mudas)
+
+English has many silent letters. Here are the most common patterns:
+
+🔹 El inglés tiene muchas letras mudas. Estos son los patrones más comunes:
+
+### Silent K (before N)
+
+    know [noʊ]
+
+    knife [naɪf]
+
+    knee [ni:]
+
+    knock [nɑk]
+
+### Silent W (before R)
+
+    write [raɪt]
+
+    wrong [rɔŋ]
+
+    wrap [ræp]
+
+    wrist [rɪst]
+
+### Silent B (after M)
+
+    climb [klaɪm]
+
+    bomb [bɑm]
+
+    thumb [θʌm]
+
+    dumb [dʌm]
+
+### Silent GH
+
+    night [naɪt]
+
+    light [laɪt]
+
+    daughter ['dɔ:tər]
+
+    thought [θɔt]
+
+### Silent H
+
+    hour ['aʊr]
+
+    honest ['ɑnɪst]
+
+    honor ['ɑnər]

@@ -1,4 +1,4 @@
-# Review of structures from Books 1-4 (repaso de estructuras de los Libros 1-4)
+# Review of structures (repaso de estructuras)
 
 ## Present simple
 
@@ -92,25 +92,7 @@ Had + past participle. An action before another past action.
 
 🔹 *Had* + participio pasado. Una acción anterior a otra acción pasada.
 
-*When I arrived, she had already left.* (Cuando llegué, ella ya se había ido).
-
-*I had never eaten sushi before I went to Japan.*
-(Nunca había comido sushi antes de ir a Japón).
-
-*By the time [baɪ ðə taɪm] (para cuando) we got to the cinema, the movie had started.*
-(Para cuando llegamos al cine, la película ya había empezado).
-
-### Conversation
-
-Rita: Why were you late to the meeting yesterday?
-
-George: When I got to the office, the meeting had already started.
-My alarm hadn't gone off, so I woke up late. By the time I left home,
-it was already 9:30.
-
-R: That's terrible. Had you set the alarm the night before?
-
-G: Yes, I had set it, but my phone had run out of battery during the night.
+*When I arrived, she had already left. By the time we got to the cinema, the movie had started.*
 
 ## Present perfect continuous
 
@@ -120,12 +102,7 @@ on the ongoing process.
 🔹 *Have/has been* + verbo-*ing.* Duración del pasado al presente, con énfasis en
 el proceso continuo.
 
-*I have been studying English for two years.* (Llevo dos años estudiando inglés).
-
-*It has been raining all day.* (Lleva lloviendo todo el día).
-
-*She has been working at that company since March.*
-(Lleva trabajando en esa empresa desde marzo).
+*I have been studying English for two years. It has been raining all day.*
 
 > The present perfect emphasizes the result: *I have read three books.*
 > The present perfect continuous emphasizes the process: *I have been reading all day.*
@@ -133,52 +110,13 @@ el proceso continuo.
 > 🔹 El *present perfect* enfatiza el resultado: *I have read three books.*
 > El *present perfect continuous* enfatiza el proceso: *I have been reading all day.*
 
-### Conversation
-
-Luis: You look tired. What have you been doing?
-
-Andrea: I've been cleaning the house all morning. I've been washing the
-windows, organizing ['ɔrgənaɪzɪŋ] the garage, and doing the laundry.
-
-L: How long have you been at it?
-
-A: I've been working since 7 AM! I haven't even had lunch yet.
-
 ## Second conditional
 
 If + past simple, would + infinitive. For imaginary or unlikely situations in the present.
 
 🔹 *If* + *past simple*, *would* + infinitivo. Para situaciones imaginarias o improbables en el presente.
 
-*If I had more money, I would travel the world.*
-(Si tuviera más dinero, viajaría por el mundo).
-
-*If she lived closer, we would see each other more often.*
-(Si viviera más cerca, nos veríamos más a menudo).
-
-*If I were you, I would accept the offer.*
-(Si fuera tú, aceptaría la oferta).
-
-> In formal English, we use *were* (not *was*) for all persons in the second conditional:
-> *If I were rich...* *If she were here...*
-
-> 🔹 En inglés formal, usamos *were* (no *was*) para todas las personas en el segundo condicional:
-> *If I were rich...* *If she were here...*
-
-### Conversation
-
-Clara: If you could live anywhere in the world, where would you live?
-
-Daniel: If I had to choose, I would live in New Zealand. What about you?
-
-C: If money weren't a problem, I would buy a house in the south of France.
-But if I'm being realistic [riə'lɪstɪk], I would stay right here.
-
-D: If you had a million dollars, what would you do?
-
-C: I would quit [kwɪt] (dejar) my job and open a bookshop. What would you do?
-
-D: I would invest [ɪn'vɛst] (invertir) half and travel with the other half.
+*If I had more money, I would travel the world. If I were you, I would accept the offer.*
 
 ## Relative clauses
 
@@ -186,27 +124,7 @@ D: I would invest [ɪn'vɛst] (invertir) half and travel with the other half.
 
 🔹 *Who* (personas), *which* (cosas), *that* (ambos), *whose* (posesión), *where* (lugares).
 
-*The man who lives next door is a doctor.* (El hombre que vive al lado es médico).
-
-*The book which I bought yesterday is great.* (El libro que compré ayer es genial).
-
-*That's the restaurant where we had dinner.* (Ese es el restaurante donde cenamos).
-
-*The woman whose car was stolen called the police.*
-(La mujer a quien le robaron el coche llamó a la policía).
-
-### Conversation
-
-Marta: Do you know the woman who just moved into apartment 3B?
-
-Hugo: Yes, she's the person who I told you about last week. She's a journalist
-['dʒɜrnəlɪst] who works for the local newspaper, which is the one that
-my mother reads every day.
-
-M: And the man whose dog is always barking?
-
-H: That's her husband, who works from home. The dog, which is a golden
-retriever [rɪ'tri:vər], is actually very friendly.
+*The man who lives next door is a doctor. That's the restaurant where we had dinner.*
 
 ## Passive voice
 
@@ -216,28 +134,7 @@ who does it, or when the agent is unknown.
 🔹 *Be* + participio pasado. Lo usamos cuando la acción es más importante que
 quién la realiza, o cuando el agente es desconocido.
 
-*Hamlet was written by Shakespeare.* (Hamlet fue escrito por Shakespeare).
-
-*English is spoken in many countries.* (El inglés se habla en muchos países).
-
-*My car was stolen last night.* (Mi coche fue robado anoche).
-
-*The bridge is being built right now.* (El puente se está construyendo ahora mismo).
-
-### Conversation
-
-Patricia: Did you hear about the museum?
-
-Felipe: No, what happened?
-
-P: Several paintings were stolen last night. The police were called immediately,
-but nobody was caught [kɔ:t] (atrapado).
-
-F: That's terrible! Were the cameras checked?
-
-P: Yes, the security footage ['fʊtɪdʒ] (grabaciones) was reviewed, but the
-thieves [θi:vz] (ladrones) were wearing masks [mæsks] (máscaras). The museum
-has been closed until further notice ['noʊtɪs] (aviso).
+*Hamlet was written by Shakespeare. English is spoken in many countries.*
 
 ## Gerund vs. infinitive
 
@@ -258,8 +155,6 @@ good at cooking, tired of waiting.*
 
 🔹 Después de preposiciones, siempre usamos el gerundio: *interested in reading,
 good at cooking, tired of waiting.*
-
-*I enjoy reading.* *I want to read.* *I'm interested in reading.*
 
 ## Phrasal verbs
 
@@ -283,136 +178,6 @@ Common phrasal verbs:
     look after - cuidar
     go on - continuar
     come back - volver
-
-# Too, enough, so, such
-
-## Too (demasiado)
-
-*Too* [tu:] goes before an adjective or adverb. It means *demasiado* and
-always has a negative implication - there is more than is good or necessary.
-
-🔹 *Too* [tu:] va antes de un adjetivo o adverbio. Significa *demasiado* y
-siempre tiene una implicación negativa - hay más de lo bueno o necesario.
-
-    It's too hot. (Hace demasiado calor).
-
-    She drives too fast. (Ella conduce demasiado rápido).
-
-    This bag is too heavy. (Esta bolsa es demasiado pesada).
-
-We can add *to* + infinitive to say what is impossible because of the excess:
-
-🔹 Podemos añadir *to* + infinitivo para decir qué es imposible debido al exceso:
-
-*It's too cold to go outside.* (Hace demasiado frío para salir).
-
-*He's too young to drive.* (Es demasiado joven para conducir).
-
-> Don't confuse *too* (demasiado) with *too* (también) or *two* (dos).
-> They sound the same!
-
-> 🔹 No confundas *too* (demasiado) con *too* (también) o *two* (dos).
-> Suenan igual.
-
-## Enough (suficiente / bastante)
-
-*Enough* [ɪ'nʌf] goes after an adjective or adverb, but before a noun.
-
-🔹 *Enough* [ɪ'nʌf] va después de un adjetivo o adverbio, pero antes de un sustantivo.
-
-    She is old enough to drive. (Ella es lo suficientemente mayor para conducir).
-
-    He doesn't run fast enough. (Él no corre lo suficientemente rápido).
-
-    We have enough time. (Tenemos suficiente tiempo).
-
-    There aren't enough chairs. (No hay suficientes sillas).
-
-## So (tan)
-
-*So* [soʊ] goes before an adjective or adverb. It adds emphasis.
-
-🔹 *So* [soʊ] va antes de un adjetivo o adverbio. Añade énfasis.
-
-    She is so smart! (¡Es tan inteligente!)
-
-    He speaks so quickly! (¡Habla tan rápido!)
-
-## Such (tan / tal)
-
-*Such* [sʌtʃ] goes before a noun (with or without an adjective). When the noun
-is singular and countable, we add *a/an.*
-
-🔹 *Such* [sʌtʃ] va antes de un sustantivo (con o sin adjetivo). Cuando el sustantivo
-es singular y contable, añadimos *a/an.*
-
-    It's such a beautiful day! (¡Es un día tan bonito!)
-
-    She's such a good teacher! (¡Es una profesora tan buena!)
-
-    They are such nice people! (¡Son gente tan amable!)
-
-## So/such + that (resultado)
-
-Both *so* and *such* can be followed by *that* to express a result:
-
-🔹 Tanto *so* como *such* pueden ir seguidos de *that* para expresar un resultado:
-
-*It was so cold that we stayed home.* (Hacía tanto frío que nos quedamos en casa).
-
-*It was such a long movie that I fell asleep.*
-(Era una película tan larga que me dormí).
-
-# Conversation
-
-Elena: I went shopping yesterday. I found such a nice jacket!
-
-Pablo: Was it expensive?
-
-E: It was on sale, so it wasn't too bad. The original [ə'rɪdʒɪnəl] price was $200,
-but I got a 50% discount. It was such a good deal that I couldn't say no.
-
-P: That's great. Was the store crowded ['kraʊdɪd] (llena de gente)?
-
-E: So crowded that I had to wait thirty minutes to pay. And they didn't
-have enough cashiers [kæ'ʃɪrz] (cajeros). The line was so long!
-
-P: I hate shopping when it's too crowded. I'd rather shop online.
-
-E: Me too, but I wanted to try on the jacket first. The last one I bought online
-was too small. And the one before that wasn't warm enough.
-
-P: Did the jacket fit?
-
-E: Perfectly. It's so comfortable that I wore it home.
-
-# A note on the most challenging sounds for Spanish speakers (repaso de sonidos difíciles)
-
-Let's review the sounds that are most difficult for Spanish speakers:
-
-🔹 Repasemos los sonidos más difíciles para los hispanohablantes:
-
-### The two TH sounds
-
-Voiced [ð] (like a soft D with the tongue between the teeth): *the, this, that, there*
-
-Voiceless [θ] (like blowing air with the tongue between the teeth): *think, three, month, bath*
-
-### The V sound [v]
-
-Upper teeth on lower lip with vibration: *very, have, love, never*
-
-### The schwa [ə]
-
-The most common sound in English. A short, relaxed, neutral vowel: *about, banana, sofa, the*
-
-### The R sound [r]
-
-Tongue curled back, not touching the palate, no vibration: *red, river, right, really*
-
-### The initial S + consonant
-
-No E before the S: *speak, street, small, stop*
 
 # Homework
 
@@ -493,20 +258,7 @@ No E before the S: *speak, street, small, stop*
 7. When did you __________ from your holiday?
 8. I just __________ that she got married!
 
-## 8. Complete with too, enough, so, or such
-
-🔹 Completar con *too*, *enough*, *so* o *such*.
-
-1. It's __________ cold to go swimming.
-2. She's __________ a good singer!
-3. He doesn't speak English well __________.
-4. The movie was __________ boring that I fell asleep.
-5. We don't have __________ money to buy a house.
-6. It was __________ a long day!
-7. The music is __________ loud. Can you turn it down?
-8. He is smart __________ to solve the problem.
-
-## 9. Translate. You can use a dictionary to look up words you don't know.
+## 8. Translate. You can use a dictionary to look up words you don't know.
 
 🔹 Traducir. Puedes usar un diccionario para buscar las palabras que no conoces.
 
@@ -547,15 +299,7 @@ No E before the S: *speak, street, small, stop*
 18. Ella está buscando sus llaves.
 19. Él dejó de fumar el año pasado.
 
-### Too / enough / so / such
-
-20. Hace demasiado frío para salir.
-21. ¡Es un día tan bonito!
-22. La película era tan larga que me dormí.
-23. No tenemos suficiente tiempo.
-24. No soy lo suficientemente alto para llegar.
-
-## 10. Translate (mixed tenses and structures)
+## 9. Translate (mixed tenses and structures)
 
 🔹 Traducir (tiempos y estructuras mezclados).
 
@@ -572,10 +316,8 @@ No E before the S: *speak, street, small, stop*
 11. English is spoken in many countries.
 12. I enjoy reading.
 13. Turn off the TV, please.
-14. It's too expensive. I can't buy it.
-15. She is such a good teacher!
 
-## 11. Write a short essay about your life
+## 10. Write a short essay about your life
 
 🔹 Escribe una redacción corta sobre tu vida.
 

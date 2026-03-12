@@ -186,6 +186,154 @@ This is different from normal prepositional phrases, where the preposition is un
 
     I looked UP the WORD. (*UP* is stressed - it's a phrasal verb)
 
+# Reading comprehension (comentario de texto)
+
+## The Outsider (el extraño)
+
+I have lived in this dark castle[1] for as long as I can remember. I do not know how
+I got here, and I do not know how long I have been here. I have never seen sunlight.[2]
+I have never seen another human being. The only light comes from the candles that I
+find in the rooms, and I do not know who lights them.
+
+The castle is old and full of shadows.[3] The walls are damp[4] and covered in
+something that looks like moss.[5] There are spiders[6] everywhere and the smell
+is terrible. I have spent my whole life walking through these dark rooms and reading
+the old books in the library. The books have taught me about the world outside — about
+the sun, about the forests,[7] about other people — but I have never experienced any
+of it. I have only known darkness.
+
+Above the castle there is a tall tower.[8] It is the highest point I have ever seen.
+I have always wanted to climb it, because I believe that if I reach the top, I will
+finally see the light. But the stones are old and dangerous, and for many years I was
+too afraid to try.
+
+One night, I decided that I could not wait any longer. I had to find out[9] what was
+above. I had to get out.[10] I began to climb the tower. The stones were wet[11] and
+slippery,[12] and several times I almost fell. I climbed for what felt like hours, in
+complete darkness, feeling the walls with my hands. I could not see anything.
+
+Finally, my hand touched something flat[13] — a stone door above my head. I pushed it
+with all my strength.[14] It opened, and I crawled[15] out.
+
+I expected to be high above the ground, at the top of the tower, looking down at the
+world. But instead, I was at ground level.[16] I was in a field,[17] and trees surrounded
+me. The moon was shining.[18] I could not understand it. I had climbed up for hours, and
+yet I was on the ground. Then I realized the terrible truth:[19] I had not been living in
+a castle on the surface.[20] I had been living underground,[21] deep below the earth, and
+the tower had only brought me up to the surface.
+
+I walked through the forest. Everything was new and strange. I had never felt the
+wind[22] on my face before. I had never seen the stars. I walked for a long time until
+I saw lights in the distance.
+
+It was a castle, and through the windows I could see a celebration. There were people
+inside — laughing, talking, and dancing. I had read about people in my books, but I had
+never seen them. I was filled with emotion. I wanted to be among them. I wanted to speak
+to them. I found a door and walked inside.
+
+The moment I entered the room, everything changed. A woman saw me first and
+screamed.[23] Then another person saw me, and another. Everyone screamed. They ran in
+every direction, pushing each other, falling over,[24] desperate to get away from me.
+Within[25] seconds, the room was empty. I stood there alone, confused, not understanding
+why they had all run away.[26]
+
+Then I saw it. At the far end of the room, there was a dark archway.[27] Standing in the
+archway, there was a creature[28] — the most horrible thing I had ever seen. It was tall
+and thin, with a face that was not quite[29] human. Its skin[30] was pale and seemed to
+be falling apart.[31] Its eyes were empty and dark. It wore old, rotting[32] clothes.
+I understood why everyone had screamed. This creature was a monster.
+
+I was horrified, but I could not look away. Slowly, I raised[33] my hand. The creature
+raised its hand at the same time. I reached[34] forward to touch it.
+
+My fingers touched cold, flat glass.[35]
+
+It was a mirror.[36]
+
+*H.P. Lovecraft (1926). Adapted version*
+
+[1] castle ['kæsəl] - castillo
+
+[2] sunlight ['sʌnlaɪt] - luz del sol
+
+[3] shadows ['ʃædoʊz] - sombras
+
+[4] damp [dæmp] - húmedo
+
+[5] moss [mɔs] - musgo
+
+[6] spiders ['spaɪdərz] - arañas
+
+[7] forests ['fɔrɪsts] - bosques
+
+[8] tower ['taʊər] - torre
+
+[9] find out [faɪnd aʊt] - descubrir / averiguar
+
+[10] get out [gɛt aʊt] - salir / escapar
+
+[11] wet [wɛt] - mojado
+
+[12] slippery ['slɪpəri] - resbaladizo
+
+[13] flat [flæt] - plano
+
+[14] strength [strɛŋθ] - fuerza
+
+[15] crawl [krɔ:l] - arrastrarse / gatear
+
+[16] ground level [graʊnd 'lɛvəl] - nivel del suelo
+
+[17] field [fi:ld] - campo
+
+[18] shine [ʃaɪn] - brillar
+
+[19] truth [tru:θ] - verdad
+
+[20] surface ['sɜrfɪs] - superficie
+
+[21] underground [ʌndər'graʊnd] - bajo tierra
+
+[22] wind [wɪnd] - viento
+
+[23] scream [skri:m] - gritar
+
+[24] fall over [fɔl 'oʊvər] - tropezar / caerse
+
+[25] within [wɪ'ðɪn] - en cuestión de / dentro de
+
+[26] run away [rʌn ə'weɪ] - huir / salir corriendo
+
+[27] archway ['ɑrtʃweɪ] - arco / arcada
+
+[28] creature ['kri:tʃər] - criatura
+
+[29] not quite [nɑt kwaɪt] - no del todo
+
+[30] skin [skɪn] - piel
+
+[31] fall apart [fɔl ə'pɑrt] - desmoronarse / deshacerse
+
+[32] rotting ['rɑtɪŋ] - podrido / en descomposición
+
+[33] raise [reɪz] - levantar
+
+[34] reach [ri:tʃ] - extender (la mano)
+
+[35] glass [glæs] - cristal / vidrio
+
+[36] mirror ['mɪrər] - espejo
+
+### Questions (preguntas)
+
+1. Where had the narrator lived his whole life?
+2. How had he learned about the outside world?
+3. What did he expect to find at the top of the tower?
+4. What was the terrible truth he discovered when he came out?
+5. What happened when he entered the room with the celebration?
+6. What was the creature he saw in the archway?
+7. Does the story end well or badly?
+
 # Homework
 
 ## 1. Replace the underlined words with a phrasal verb

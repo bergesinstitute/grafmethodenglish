@@ -2,11 +2,11 @@
 
 ## What this is about (de qué se trata)
 
-In Book 2, we learned modal verbs for the present: *can, must, should, may, might.*
+We have already learned modal verbs for the present: *can, must, should, may, might.*
 Now we'll learn how to use them to talk about the past. We combine a modal verb with
 *have* + past participle.
 
-🔹 En el Libro 2 aprendimos los verbos modales para el presente: *can, must, should, may, might.*
+🔹 Ya hemos aprendido los verbos modales para el presente: *can, must, should, may, might.*
 Ahora aprenderemos a usarlos para hablar del pasado. Combinamos un verbo modal con
 *have* + participio pasado.
 

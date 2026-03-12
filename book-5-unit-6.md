@@ -10,9 +10,9 @@ Este es uno de los temas más confusos para los estudiantes de inglés.
 
 ## Used to + infinitive (review)
 
-We learned this in Book 3. It describes past habits that are no longer true:
+*Used to* describes past habits that are no longer true:
 
-🔹 Esto lo aprendimos en el Libro 3. Describe hábitos pasados que ya no son ciertos:
+🔹 *Used to* describe hábitos pasados que ya no son ciertos:
 
 *I used to live in Madrid.* (Antes vivía en Madrid). => I don't live there anymore.
 
@@ -210,6 +210,91 @@ Here are some general tendencies:
 
     'object (noun - objeto) vs. ob'ject (verb - objetar)
 
+# Reading comprehension (comentario de texto)
+
+## Looking back, looking forward (mirando atrás, mirando adelante)
+
+I have been living in this city for almost ten years now. When I first arrived, I didn't know
+anyone. I had just finished university, and I had decided to move here because I had been
+offered a job at a small company. If I hadn't received that offer, I would have stayed in
+my hometown, and my life would be completely different now.
+
+The first few months were difficult. I wasn't used to living alone, and I couldn't get used
+to the noise of the city. I used to live in a quiet village where everyone knew everyone.
+Here, nobody knew my name. I remember feeling lonely and wondering ['wʌndərɪŋ]
+(preguntándome) if I had made the right decision.
+
+However, things gradually ['grædʒuəli] (gradualmente) got better. I met a woman named Clara
+at a café near my office. She was the person who changed everything. She told me that she
+had also moved to the city on her own, and she said she had felt exactly the same way.
+She suggested joining a hiking ['haɪkɪŋ] (senderismo) group, which was the best advice
+anyone has ever given me.
+
+Through the hiking group, I made friends who I still see every week. We would meet every
+Saturday morning and walk for hours in the mountains near the city. Although I had never been
+interested in hiking before, I quickly fell in love with it. The mountains, which are
+about an hour from the center, are absolutely beautiful.
+
+Eventually, I was promoted at work, and I moved to a bigger apartment. The apartment
+was found by Clara, who had been looking for a place for me while I was busy with a
+project. I wish I could say I did something equally ['i:kwəli] (igualmente) nice for her, but
+I should have been a better friend in those early days. She must have been very patient with me.
+
+Now my life looks very different from what I had imagined when I was young. I used to think
+I would become a famous musician. If only I had practiced more! But I don't regret the path
+I've taken. I have been working at the same company for eight years, and I have been
+promoted three times. I am used to the pace [peɪs] (ritmo) of city life now, even though
+I sometimes wish it would slow down.
+
+Next year, I'm going to take a big step. Clara and I are getting married. If someone had told
+me ten years ago that I would meet my future wife at a random ['rændəm] café, I wouldn't
+have believed them. She asked me last month whether I was happy here. I told her that
+I couldn't imagine living anywhere else. Despite the difficult beginning, this city has become
+my home.
+
+I think life is about taking chances. If you never take risks [rɪsks], you'll never discover
+what you're capable ['keɪpəbəl] (capaz) of. I'd rather try and fail than never try at all.
+You'd better believe me - the best things in my life have happened because I was brave
+[breɪv] (valiente) enough to say yes.
+
+Looking back, I'm grateful for every decision I've made, even the mistakes. Looking forward,
+I can't wait to see what happens next. Whatever it is, I know I'll have Clara by my side,
+and that's enough for me.
+
+    gradually ['grædʒuəli] - gradualmente
+
+    wonder ['wʌndər] - preguntarse
+
+    hiking ['haɪkɪŋ] - senderismo
+
+    fall in love [fɔl ɪn lʌv] - enamorarse
+
+    promote [prə'moʊt] - ascender
+
+    equally ['i:kwəli] - igualmente
+
+    patient ['peɪʃənt] - paciente
+
+    path [pæθ] - camino / trayectoria
+
+    pace [peɪs] - ritmo
+
+    step [stɛp] - paso
+
+    random ['rændəm] - aleatorio / al azar
+
+    risk [rɪsk] - riesgo
+
+    capable ['keɪpəbəl] - capaz
+
+    brave [breɪv] - valiente
+
+    grateful ['greɪtfəl] - agradecido
+
+    whatever [wʌt'ɛvər] - lo que sea / sea lo que sea
+
+    by my side [baɪ maɪ saɪd] - a mi lado
+
 # Homework
 
 ## 1. Complete with used to, be used to, or get used to
@@ -259,3 +344,18 @@ Here are some general tendencies:
 2. Is there something about your daily life you are used to that other people might find strange?
 3. If you moved to another country, what would be the hardest thing to get used to?
 4. Do you think you make more decisions with your heart or your head?
+
+## 5. Reading comprehension (comentario de texto)
+
+🔹 Responde basándote en el texto.
+
+1. How long has the narrator been living in the city?
+2. Why did he move there?
+3. What would have happened if he hadn't received the job offer?
+4. Who helped him adjust to the city?
+5. What had Clara also experienced when she first moved?
+6. What was the best advice anyone gave him?
+7. How was the bigger apartment found?
+8. What had he imagined his life would be like when he was young?
+9. What big step is he going to take next year?
+10. What is his philosophy about life?

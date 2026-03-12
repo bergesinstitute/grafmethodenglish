@@ -178,6 +178,91 @@ the natural rhythm of English, which is very different from Spanish.
 🔹 Las palabras en mayúsculas son las acentuadas. Las demás se dicen rápidamente. Esto crea
 el ritmo natural del inglés, que es muy diferente del español.
 
+# Reading comprehension (comentario de texto)
+
+## The Pied Piper of Hamelin (el flautista de Hamelín)
+
+In the town of Hamelin,[1] in Germany, the houses were grey and the people were honest.
+It was a very rich town, but they had a very big problem: there were thousands of
+rats[2] in Hamelin. The cats could not fight against so many. The rats multiplied
+constantly. The citizens were terrified, and the mayor[3] decided that they needed
+a plan.
+
+One day, a very tall and very thin man arrived in the town. He wore clothes of many
+colors, a brown feather[4] in his hat, and he carried a flute.[5]
+
+"For a thousand florins,[6] I can take the rats away from Hamelin," said the man.
+
+"A thousand florins!" said the mayor. "We will give you ten thousand florins if you
+take the rats away."
+
+"Done.[7] Tomorrow night you will have no more rats in Hamelin."
+
+The next day the stranger's[8] flute was heard all over the town. When the rats heard
+the music, they mysteriously came out of the houses and the sewers.[9] The piper[10]
+walked towards the river, and the rats followed him. When they reached[11] the river,
+the current[12] carried them away and they drowned.[13]
+
+By night there were no more rats in Hamelin. The piper went to the town hall[14] to
+ask for his money. He asked for the ten thousand florins that the mayor had promised.
+
+"Ten thousand florins?" said the mayor and his advisors.[15] "Never!"
+
+"A thousand florins, at least!" said the piper, very angry.
+
+"The rats are dead and they will not come back. We will give you twenty florins, at most,
+and you should be happy. You are just a simple piper."
+
+The man's eyes turned red. He said nothing more and left the town hall. The mayor and
+his advisors laughed with arrogance.
+
+That night the stranger's flute was heard again, but this time only the children could
+hear it. All the children of Hamelin came out of their houses and followed the piper.
+They left the town and walked towards the mountains. The children never returned to
+Hamelin, and nobody ever knew where they went.
+
+*Traditional*
+
+[1] Hamelin ['hæmɪlɪn] - Hamelín (a town in Germany)
+
+[2] rats [ræts] - ratas
+
+[3] mayor [meɪr] - alcalde
+
+[4] feather ['fɛðər] - pluma
+
+[5] flute [flu:t] - flauta
+
+[6] florins ['flɔrɪnz] - florines (old European coins)
+
+[7] done [dʌn] - hecho / trato hecho
+
+[8] stranger ['streɪndʒər] - forastero / desconocido
+
+[9] sewers ['su:ərz] - alcantarillas
+
+[10] piper ['paɪpər] - flautista
+
+[11] reach [ri:tʃ] - llegar a / alcanzar
+
+[12] current ['kɜrənt] - corriente
+
+[13] drown [draʊn] - ahogarse
+
+[14] town hall [taʊn hɔl] - ayuntamiento
+
+[15] advisors [əd'vaɪzərz] - consejeros
+
+### Questions (preguntas)
+
+1. Where was Hamelin?
+2. What was the main problem in Hamelin?
+3. Was the mayor's reaction correct?
+4. Was the piper's reaction correct?
+5. What did the piper look like?
+6. Does the story end well or badly?
+7. What do you think the moral of the story is?
+
 # Homework
 
 ## 1. Change from active to passive
@@ -225,3 +310,4 @@ Example: *They built the bridge in 1990.* => *The bridge was built in 1990.*
 2. What language is spoken in Brazil?
 3. When was your city founded ['faʊndɪd] (fundada)?
 4. Was this book written by one person or by many people?
+
