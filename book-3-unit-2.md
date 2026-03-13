@@ -91,6 +91,52 @@ to go to a bar. I went to the bar with Pedro. We had a very good time.*
 
     have a good time - pasarlo bien
 
+# Possessive pronouns (pronombres posesivos)
+
+The possessive determiners are: *my, your, his, her, its, our, their.*
+Possessive determiners always go before a noun: *my car, your house.*
+
+🔹 Los determinantes posesivos son: *my, your, his, her, its, our, their.*
+Los determinantes posesivos siempre van antes de un sustantivo: *my car, your house.*
+
+Possessive pronouns can replace a possessive determiner + noun: *My car is red. Mine
+is blue.* They can also be used after the verb *to be* to express possession: *This car
+is mine.*
+
+🔹 Los pronombres posesivos pueden sustituir a un determinante posesivo + sustantivo:
+*My car is red. Mine is blue.* También se pueden usar después del verbo *to be* para
+expresar posesión: *This car is mine.*
+
+    my => mine [maɪn] - (el) mío, (la) mía, (los) míos, (las) mías
+
+    your => yours [jɔ:rz] - (el) tuyo, (la) tuya, (los) tuyos, (las) tuyas
+
+    his => his [hɪz] - (el) suyo, (la) suya, (los) suyos, (las) suyas (de él)
+
+    her => hers [hɜrz] - (el) suyo, (la) suya, (los) suyos, (las) suyas (de ella)
+
+    our => ours [aʊrz] - (el) nuestro, (la) nuestra, (los) nuestros, (las) nuestras
+
+    their => theirs [ðɛrz] - (el) suyo, (la) suya, (los) suyos, (las) suyas (de ellos)
+
+## Examples (ejemplos)
+
+*This is my book. That one is yours.* (Este es mi libro. Ese es (el) tuyo).
+
+*Her car is red. Mine is blue.* (Su coche es rojo. El mío es azul).
+
+*Our house is small. Theirs is big.* (Nuestra casa es pequeña. La suya es grande).
+
+*Is this pen yours or his?* (¿Este bolígrafo es (el) tuyo o (el) suyo?)
+
+*I forgot my umbrella. Can I borrow yours?* (Olvidé mi paraguas. ¿Puedo usar el tuyo?)
+
+    umbrella [ʌm'brɛlə] - paraguas
+
+    borrow ['bɑroʊ] - tomar prestado
+
+    lend [lɛnd] - prestar
+
 # Nature vocabulary (vocabulario: la naturaleza)
 
     nature ['neɪtʃər] - naturaleza
