@@ -196,6 +196,94 @@ para hablar de planes futuros que ya están organizados y confirmados.
 
 > 🔹 *Luggage* es incontable: decimos *a lot of luggage,* no *many luggages*.
 
+# Ordinal numbers (números ordinales)
+
+## 1st to 10th (del 1º al 10º)
+
+    first [fɜrst] - primero/a
+
+    second ['sɛkənd] - segundo/a
+
+    third [θɜrd] - tercero/a
+
+    fourth [fɔrθ] - cuarto/a
+
+    fifth [fɪfθ] - quinto/a
+
+    sixth [sɪksθ] - sexto/a
+
+    seventh ['sɛvənθ] - séptimo/a
+
+    eighth [eɪtθ] - octavo/a
+
+    ninth [naɪnθ] - noveno/a
+
+    tenth [tɛnθ] - décimo/a
+
+> Pay attention to *fifth* [fɪfθ], *sixth* [sɪksθ], and *eighth* [eɪtθ]. The consonant clusters
+> at the end are difficult to pronounce. Practice them slowly.
+
+> 🔹 Presta atención a *fifth* [fɪfθ], *sixth* [sɪksθ] y *eighth* [eɪtθ]. Los grupos de consonantes
+> al final son difíciles de pronunciar. Practícalos despacio.
+
+## 11th to 20th (del 11º al 20º)
+
+From 11 to 20, all ordinal numbers end in *-th:*
+
+🔹 Del 11 al 20, todos los números ordinales terminan en *-th:*
+
+    eleventh [ɪ'lɛvənθ] (11th) - décimo/a primero/a
+
+    twelfth [twɛlfθ] (12th) - décimo/a segundo/a
+
+    thirteenth [θɜr'ti:nθ] (13th) - décimo/a tercero/a
+
+    fourteenth (14th) - décimo/a cuarto/a
+
+    fifteenth (15th) - décimo/a quinto/a
+
+    sixteenth (16th) - décimo/a sexto/a
+
+    seventeenth (17th) - décimo/a séptimo/a
+
+    eighteenth (18th) - décimo/a octavo/a
+
+    nineteenth (19th) - décimo/a noveno/a
+
+    twentieth (20th) - vigésimo/a
+
+## 21st and above (del 21º en adelante)
+
+From 21 onwards, numbers ending in 1, 2, or 3 keep the *first, second, third* form.
+The rest end in *-th:*
+
+🔹 A partir de 21, los números que terminan en 1, 2 o 3 mantienen la forma *first, second, third.*
+El resto terminan en *-th:*
+
+    twenty-first (21st) - vigésimo/a primero/a
+
+    twenty-second (22nd) - vigésimo/a segundo/a
+
+    twenty-third (23rd) - vigésimo/a tercero/a
+
+    thirtieth (30th) - trigésimo/a
+
+    forty-second (42nd) - cuadragésimo/a segundo/a
+
+    hundredth (100th) - centésimo/a
+
+## Usage (uso)
+
+Ordinal numbers are very common with streets, avenues, and floors:
+
+🔹 Los números ordinales son muy comunes con calles, avenidas y pisos:
+
+*My apartment is on 5th Avenue.* (Mi apartamento está en la Quinta Avenida).
+
+*The store is on 42nd Street.* (La tienda está en la calle cuarenta y dos).
+
+*Our room is on the third floor.* (Nuestra habitación está en el tercer piso).
+
 # Conversation
 
 Andrea: Are you going to travel this summer?
@@ -278,7 +366,22 @@ A: I'm sure you'll have a great time!
 4. Do you think it will rain this weekend?
 5. Are you going to study English next year?
 
-## 5. My next trip
+## 5. Write the ordinal numbers
+
+🔹 Escribe los números ordinales.
+
+1. 5th
+2. 9th
+3. 1st
+4. 3rd
+5. 10th
+6. 2nd
+7. 4th
+8. 7th
+9. 12th
+10. 42nd
+
+## 6. My next trip
 
 🔹 Escribe un párrafo sobre tu próximo viaje (real o imaginario). Usa *will* y *going to*.
 
