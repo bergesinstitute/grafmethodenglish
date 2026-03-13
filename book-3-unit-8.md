@@ -26,15 +26,15 @@ de una oración con *will*.
 > In English, the result clause requires *will*: *If it rains, I will stay home.*
 
 > 🔹 En español, también es común usar el presente en ambos lados: *Si llueve, me quedo en casa.*
-> En inglés, la cláusula de resultado requiere *will*: *If it rains, I will stay home.*
+> En inglés, la oración de resultado requiere *will*: *If it rains, I will stay home.*
 
 > The *if* clause can go at the beginning or at the end:
 > *I will stay home if it rains.* This is the same as *If it rains, I will stay home.*
 > When the *if* clause goes first, we put a comma after it.
 
-> 🔹 La cláusula con *if* puede ir al principio o al final:
+> 🔹 La oración con *if* puede ir al principio o al final:
 > *I will stay home if it rains.* Es lo mismo que *If it rains, I will stay home.*
-> Cuando la cláusula con *if* va al principio, ponemos una coma después de ella.
+> Cuando la oración con *if* va al principio, ponemos una coma después de ella.
 
 ## Examples (ejemplos)
 
@@ -60,7 +60,7 @@ de una oración con *will*.
 
 We can use *not* in either clause or in both:
 
-🔹 Podemos usar *not* en cualquiera de las dos cláusulas o en ambas:
+🔹 Podemos usar *not* en cualquiera de las dos oraciones o en ambas:
 
     If it doesn't rain, we'll go to the park. (Si no llueve, iremos al parque).
 
