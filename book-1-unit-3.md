@@ -1,4 +1,4 @@
-# Adjetivos posesivos en inglés
+# Determinantes posesivos en inglés
 
     Primera persona del singular: my [maɪ] - mi / mis
     
@@ -12,8 +12,8 @@
     
     Tercera persona del plural: their [ðɛr] - su / sus
 
-Mientras que en español tenemos diferentes adjetivos posesivos para una o más
-de una cosa poseída (*mi gato, mis gatos*), en inglés el adjetivo posesivo
+Mientras que en español tenemos diferentes determinantes posesivos para una o más
+de una cosa poseída (*mi gato, mis gatos*), en inglés el determinante posesivo
 no cambia para singular o plural (*my cat, my cats*). 
 
 En la tercera persona tenemos una versión masculina y otra femenina. El género

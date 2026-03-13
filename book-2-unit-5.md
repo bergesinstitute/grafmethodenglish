@@ -176,7 +176,7 @@ En los verbos que terminan en *ie*, cambiamos *ie* por Y.
 Dicho esto, es mejor tratar de memorizar la ortografía de los diferentes gerundios individualmente
 que aprenderse todas estas reglas ortográficas.
 
-# Adjetivos y pronombres demostrativos en inglés
+# Determinantes y pronombres demostrativos en inglés
 
 ## Adverbios
 
@@ -184,17 +184,17 @@ que aprenderse todas estas reglas ortográficas.
 
     there ['ðɛər] - ahí / allí / allá
 
-## Adjetivos y pronombres
+## Determinantes y pronombres
 
     this [ðɪs] - este / esta / esto
 
     these [ði:z] - estos / estas
 
-    that [ðæt] - ese / esa / eso / aquel / aquella / aquello  
+    that [ðæt] - ese / esa / eso / aquel / aquella / aquello
 
     those [ðoʊz] - esos / esas / aquellos / aquellas
 
-Los demostrativos pueden ser adjetivos o pronombres. Cuando van con un sustantivo, son adjetivos:
+Los demostrativos pueden ser determinantes o pronombres. Cuando van con un sustantivo, son determinantes:
 
 *This house is big. That piano is black.* (Esta casa es grande. Ese piano es negro).
 
