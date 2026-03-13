@@ -36,7 +36,31 @@ había salido, habían terminado.*
 
     they had + past participle
 
+### Negative sentences (oraciones negativas)
+
+We add *not* after *had:*
+
+🔹 Añadimos *not* después de *had:*
+
+    I had not eaten. (No había comido).
+
+    She had not finished. (Ella no había terminado).
+
+### Questions (preguntas)
+
+We invert the subject and *had:*
+
+🔹 Invertimos el sujeto y *had:*
+
+    Had you eaten? (¿Habías comido?)
+
+    Had she finished? (¿Ella había terminado?)
+
 ### Contractions (contracciones)
+
+It is very common to contract the subject and *had:*
+
+🔹 Es muy común contraer el sujeto y *had:*
 
     I had => I'd [aɪd]
 
@@ -50,11 +74,15 @@ había salido, habían terminado.*
 
     they had => they'd [ðeɪd]
 
-    had not => hadn't ['hædənt]
-
 > Be careful: *I'd* can mean *I had* or *I would*. The context tells you which one.
 
 > 🔹 Cuidado: *I'd* puede significar *I had* o *I would*. El contexto te dice cuál es.
+
+In negative sentences, we can contract *had* and *not:*
+
+🔹 En las oraciones negativas podemos contraer *had* y *not:*
+
+    had not => hadn't ['hædənt]
 
 ## When to use it (cuándo usarlo)
 
@@ -138,7 +166,7 @@ Marta: Did you hear about Pedro?
 
 Luis: No, what happened?
 
-M: He got a new job! He had been looking for one for six months.
+M: He got a new job! He had wanted a new job for six months.
 By the time the company called him, he had already done twenty interviews.
 
 L: That's a lot. Had he quit [kwɪt] (dejar) his old job?
@@ -148,7 +176,7 @@ His boss was surprised because Pedro had never said anything about wanting to le
 
 L: What happened to his old position [pə'zɪʃən] (puesto)?
 
-M: They hired someone new. She had worked at a similar ['sɪmɪlər] (similar) company before.
+M: They hired someone new. The new employee had worked at a similar ['sɪmɪlər] (similar) company before.
 
 L: I'm happy for Pedro. He had worked at his old company for ten years.
 He deserved [dɪ'zɜrvd] (se merecía) a change.
@@ -161,7 +189,7 @@ He deserved [dɪ'zɜrvd] (se merecía) a change.
 *some* in affirmative sentences and *any* in negative sentences and questions.
 
 🔹 *Some* [sʌm] y *any* ['ɛni] significan una cantidad indefinida. En general, usamos
-*some* en oraciones afirmativas y *any* en negativas e interrogativas.
+*some* en oraciones afirmativas y *any* en oraciones negativas e interrogativas.
 
     I have some books. (Tengo algunos libros).
 
@@ -177,19 +205,19 @@ He deserved [dɪ'zɜrvd] (se merecía) a change.
 
 ## No
 
-*No* can be used as a determiner before a noun. It means *not any:*
+*No* can be used as a determiner before a noun. It is equivalent to *not any:*
 
-🔹 *No* puede usarse como determinante antes de un sustantivo. Significa lo mismo que *not any:*
+🔹 *No* puede usarse como determinante antes de un sustantivo. Equivale a *not any:*
 
     I have no money. = I don't have any money. (No tengo dinero).
 
     There are no chairs. = There aren't any chairs. (No hay sillas).
 
-> When we use *no* before a noun, the verb stays positive. We don't use a double
-> negative in English.
+> When we use *no* before a noun, the verb stays affirmative: *I have no money,*
+> not *I don't have no money.*
 
-> 🔹 Cuando usamos *no* antes de un sustantivo, el verbo es positivo. En inglés
-> no usamos doble negación.
+> 🔹 Cuando usamos *no* antes de un sustantivo, el verbo es afirmativo: *I have no money,*
+> no *I don't have no money.*
 
 ## Compound words (palabras compuestas)
 
@@ -203,7 +231,7 @@ para crear palabras compuestas muy útiles:
 
     something ['sʌmθɪŋ] - algo
 
-    anything ['ɛniθɪŋ] - algo (en preguntas) / nada (en negativas)
+    anything ['ɛniθɪŋ] - algo (en preguntas) / nada (en oraciones negativas)
 
     nothing ['nʌθɪŋ] - nada
 
@@ -213,7 +241,7 @@ para crear palabras compuestas muy útiles:
 
     someone ['sʌmwʌn] / somebody ['sʌmbədi] - alguien
 
-    anyone ['ɛniwʌn] / anybody ['ɛnibədi] - alguien (en preguntas) / nadie (en negativas)
+    anyone ['ɛniwʌn] / anybody ['ɛnibədi] - alguien (en preguntas) / nadie (en oraciones negativas)
 
     no one ['noʊ wʌn] / nobody ['noʊbədi] - nadie
 
@@ -223,7 +251,7 @@ para crear palabras compuestas muy útiles:
 
     somewhere ['sʌmwɛr] - en algún lugar
 
-    anywhere ['ɛniwɛr] - en algún lugar (en preguntas) / en ningún lugar (en negativas)
+    anywhere ['ɛniwɛr] - en algún lugar (en preguntas) / en ningún lugar (en oraciones negativas)
 
     nowhere ['noʊwɛr] - en ningún lugar
 
@@ -243,11 +271,23 @@ para crear palabras compuestas muy útiles:
 
 *I looked for my keys everywhere.* (Busqué mis llaves en todas partes).
 
-> Like with *no*, when we use *nothing, nobody,* or *nowhere,* the verb stays positive:
-> *Nobody called me.* Not: *Nobody didn't call me.*
+When we use *nothing, nobody,* or *nowhere,* the verb stays affirmative.
+In Spanish, when *nada, nadie,* etc. come after the verb, a double negative
+is mandatory: *No tengo nada. No conozco a nadie.* In English, we cannot
+use double negatives.
 
-> 🔹 Al igual que con *no*, cuando usamos *nothing, nobody* o *nowhere*, el verbo
-> es positivo: *Nobody called me.* No: *Nobody didn't call me.*
+🔹 Cuando usamos *nothing, nobody* o *nowhere*, el verbo es afirmativo.
+En español, cuando *nada, nadie,* etc. van después del verbo, la doble negación
+es obligatoria: *No tengo nada. No conozco a nadie.* En inglés no podemos usar
+doble negación.
+
+    ✔ I have nothing.
+    ✔ I don't have anything.
+    ✗ I don't have nothing.
+
+    ✔ I know nobody.
+    ✔ I don't know anybody.
+    ✗ I don't know nobody.
 
 ## Conversation
 
@@ -284,19 +324,7 @@ too active [æktɪv] (activo). I just want to relax.
 5. __________ you __________ (finish) the report before the meeting?
 6. They were tired because they __________ (work) for twelve hours.
 
-## 2. Combine the sentences using when, before, after, or by the time
-
-🔹 Combina las oraciones usando *when, before, after* o *by the time*.
-
-Example: She left. I arrived. => *When I arrived, she had already left.*
-
-1. He ate dinner. She called.
-2. We finished the project. The deadline arrived.
-3. They sold the house. I heard the news.
-4. The movie started. We got to the cinema.
-5. She studied for hours. She took the exam.
-
-## 3. Translate. You can use a dictionary to look up words you don't know.
+## 2. Translate. You can use a dictionary to look up words you don't know.
 
 🔹 Traducir. Puedes usar un diccionario para buscar las palabras que no conoces.
 
@@ -309,7 +337,7 @@ Example: She left. I arrived. => *When I arrived, she had already left.*
 7. Habían vivido en Madrid durante diez años antes de mudarse a Barcelona.
 8. Nunca había viajado en avión antes de ese viaje.
 
-## 4. Answer using complete sentences
+## 3. Answer using complete sentences
 
 🔹 Responde usando oraciones completas.
 
@@ -318,22 +346,7 @@ Example: She left. I arrived. => *When I arrived, she had already left.*
 3. Had you ever traveled outside your country before you were 18?
 4. By the time you finished school, how many years had you studied?
 
-## 5. Complete with some, any, no, something, anything, nothing, someone, anyone, no one, somewhere, anywhere, nowhere, everything, everyone, everywhere
-
-🔹 Completar con la palabra correcta.
-
-1. I have __________ money in my wallet.
-2. She doesn't have __________ friends in this city.
-3. There is __________ milk in the fridge. We need to buy more.
-4. Would you like __________ coffee?
-5. __________ is perfect. We all make mistakes.
-6. I can't find my keys __________. I've looked __________.
-7. Is __________ home? I knocked on the door but __________ answered.
-8. She knows __________. She's very smart.
-9. I have __________ to tell you. It's important.
-10. There is __________ I can do to help. I'm sorry.
-
-## 6. Translate (some / any / no / every)
+## 4. Translate (some / any / no / every)
 
 🔹 Traducir. Puedes usar un diccionario para buscar las palabras que no conoces.
 

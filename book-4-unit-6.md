@@ -17,10 +17,22 @@ o improbables. Se forma con *if* + *past simple*, seguido de *would* + infinitiv
     (Si ella viviera en Londres, visitaría museos cada semana).
 
 > Even though we use the past simple after *if*, we are NOT talking about the past.
-> We are talking about an imaginary present or future.
+> We are talking about an imaginary present or future. The past simple after *if*
+> is equivalent to the *pretérito imperfecto de subjuntivo* in Spanish:
+> *If I had* = *Si yo tuviera.*
 
 > 🔹 Aunque usamos el *past simple* después de *if*, NO estamos hablando del pasado.
-> Estamos hablando de un presente o futuro imaginario.
+> Estamos hablando de un presente o futuro imaginario. El *past simple* después de
+> *if* equivale al pretérito imperfecto de subjuntivo en español:
+> *If I had* = *Si yo tuviera.*
+
+> The *if* clause can go at the beginning or at the end:
+> *I would travel the world if I had more money.* When the *if* clause goes first,
+> we put a comma after it.
+
+> 🔹 La oración con *if* puede ir al principio o al final:
+> *I would travel the world if I had more money.* Cuando la oración con *if* va
+> primero, ponemos una coma después.
 
 ## First conditional vs. second conditional (primer condicional vs. segundo condicional)
 
@@ -74,13 +86,23 @@ We can use *could* or *might* instead of *would* for possibility:
 
 *If I had more time, I could learn another language.* (Si tuviera más tiempo, podría aprender otro idioma).
 
-*If we moved to the coast, we might go to the beach every day.* (Si nos mudáramos a la costa, puede que fuéramos a la playa cada día).
+*If we moved to the coast, we might go to the beach every day.* (Si nos mudáramos a la costa, tal vez iríamos a la playa cada día).
 
-## Questions and negative sentences (preguntas y oraciones negativas)
+## Using *not* (uso de *not*)
 
-    What would you do if you won the lottery? (¿Qué harías si ganaras la lotería?)
+We can use *not* in either clause or in both:
+
+🔹 Podemos usar *not* en cualquiera de las dos oraciones o en ambas:
 
     If I didn't have a job, I would travel. (Si no tuviera trabajo, viajaría).
+
+    If I had more money, I wouldn't worry. (Si tuviera más dinero, no me preocuparía).
+
+    If she didn't live so far, I wouldn't need a car. (Si ella no viviera tan lejos, no necesitaría un coche).
+
+## Questions (preguntas)
+
+    What would you do if you won the lottery? (¿Qué harías si ganaras la lotería?)
 
     Would you move to another country if you could? (¿Te mudarías a otro país si pudieras?)
 
@@ -122,12 +144,6 @@ We can use *could* or *might* instead of *would* for possibility:
 
     overwhelmed [oʊvər'wɛlmd] - abrumado
 
-> *Embarrassed* is a false friend. In Spanish, *embarazada* means *pregnant*.
-> *Embarrassed* means *avergonzado*.
-
-> 🔹 *Embarrassed* es un falso amigo. En español, *embarazada* significa *pregnant*.
-> *Embarrassed* significa *avergonzado*.
-
 # Conversation
 
 Elena: If you could live anywhere in the world, where would you live?
@@ -145,7 +161,7 @@ had a good internet connection, I could work from home.
 M: If I were you, I would think about it carefully. What would you do if there were
 no hospital nearby ['nɪrbaɪ] (cerca)?
 
-E: That's true. If I were really sick, I would need to drive a long way.
+E: That's true. If I got really sick, I would need to drive a long way.
 Maybe I would keep an apartment in the city too.
 
 M: If we both had unlimited [ʌn'lɪmɪtɪd] (ilimitado) money, we could buy houses

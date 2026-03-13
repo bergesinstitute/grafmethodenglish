@@ -16,6 +16,14 @@ de la acción. Se forma con *have/has been* + verbo-*ing.*
 
     It has been raining since 3 PM. (Lleva lloviendo desde las 3).
 
+In English, instead of a construction like *llevar* + gerund, the present perfect
+continuous is used: *I have been waiting for an hour* = *Llevo una hora esperando*
+(literally, *he estado esperando una hora*).
+
+🔹 En inglés, en lugar de una construcción como *llevar* + gerundio, se usa el
+*present perfect continuous*: *I have been waiting for an hour* = *Llevo una hora
+esperando* (literalmente, *he estado esperando una hora*).
+
 ## Conjugation (conjugación)
 
     I have been + verb-ing
@@ -40,10 +48,10 @@ de la acción. Se forma con *have/has been* + verbo-*ing.*
 
 ### Emphasis on result vs. duration (énfasis en el resultado vs. la duración)
 
-The present perfect simple emphasizes the result. The present perfect continuous emphasizes
+The present perfect emphasizes the result. The present perfect continuous emphasizes
 the process or the duration.
 
-🔹 El *present perfect* simple enfatiza el resultado. El *present perfect continuous* enfatiza
+🔹 El *present perfect* enfatiza el resultado. El *present perfect continuous* enfatiza
 el proceso o la duración.
 
     I have read three books this month. (He leído tres libros este mes). => result
@@ -52,7 +60,7 @@ el proceso o la duración.
 
     She has written the report. (Ella ha escrito el informe). => it's done
 
-    She has been writing the report all day. (Ella ha estado escribiendo el informe todo el día). => emphasis on duration
+    She has been writing the report all day. (Ella lleva todo el día escribiendo el informe / Ella ha estado escribiendo el informe todo el día). => emphasis on duration
 
 ### Visible evidence (evidencia visible)
 
@@ -94,13 +102,19 @@ en la forma continua. Los más importantes son:
 
     understand [ʌndər'stænd] - entender
 
-With these verbs, we use the present perfect simple, even when talking about duration:
+With these verbs, we use the present perfect, even when talking about duration:
 
-🔹 Con estos verbos, usamos el *present perfect* simple, incluso cuando hablamos de duración:
+🔹 Con estos verbos, usamos el *present perfect*, incluso cuando hablamos de duración:
 
 *I have known her for ten years.* Not: *I have been knowing her for ten years.*
 
 *He has wanted to visit Japan since he was a kid.* Not: *He has been wanting to visit Japan...*
+
+> The song *Since I've Been Loving You* by Led Zeppelin uses the continuous form
+> with *love,* but this is artistic license.
+
+> 🔹 La canción *Since I've Been Loving You* de Led Zeppelin usa la forma continua
+> con *love,* pero es una licencia artística.
 
 # Health and body vocabulary (vocabulario: salud y cuerpo)
 
@@ -174,35 +188,7 @@ problems. I'll give you a prescription for the headaches.
 
     fast food [fæst fu:d] - comida rápida
 
-# A note on connected speech - linking (nota sobre el habla conectada - enlace)
-
-In natural English, when a word ends in a consonant and the next word starts with a vowel,
-the two sounds connect smoothly. This is called *linking.*
-
-🔹 En inglés natural, cuando una palabra termina en consonante y la siguiente empieza con vocal,
-los dos sonidos se conectan de forma suave. Esto se llama *linking* (enlace).
-
-    turn off => sounds like tur-noff
-
-    pick it up => sounds like pi-ki-tup
-
-    an apple => sounds like a-napple
-
-    is it => sounds like i-zit
-
-This is one of the reasons English can be difficult to understand at natural speed.
-Knowing about linking will help you understand native speakers better.
-
-🔹 Esta es una de las razones por las que el inglés puede ser difícil de entender
-a velocidad natural. Conocer el *linking* te ayudará a entender mejor a los nativos.
-
-# A note on consonant clusters (nota sobre los grupos consonánticos)
-
-In Spanish, very few words start with two consonants together, and those that do
-always start with a consonant followed by L or R (*playa, tres, brazo*).
-
-🔹 En español, muy pocas palabras empiezan con dos consonantes juntas, y las que lo hacen
-siempre empiezan con una consonante seguida de L o R (*playa, tres, brazo*).
+# A note on consonant clusters
 
 In English, many words start with consonant clusters that don't exist in Spanish, like
 SP, ST, SK, SM, SN, SL, SPR, STR, SKR. Spanish speakers often add an E before these
@@ -249,16 +235,16 @@ sin pausa: sss...peak, sss...top, sss...now.
 5. They __________ (live) here since 2019.
 6. He __________ (not / sleep) well lately ['leɪtli] (últimamente).
 
-## 2. Choose between present perfect simple and continuous
+## 2. Choose between present perfect and continuous
 
-🔹 Elige entre *present perfect* simple y continuo.
+🔹 Elige entre *present perfect* y *present perfect continuous*.
 
 1. I __________ (read) three books this month. (focus on result)
 2. I __________ (read) a lot this month. (focus on activity)
 3. She __________ (write) the report. It's finished.
 4. She __________ (write) the report all day. It's not finished yet.
 5. I __________ (know) her for ten years.
-6. It __________ (rain) since morning. The streets are wet.
+6. It __________ (rain) since this morning. The streets are wet.
 7. He __________ (run) five kilometers today. (completed)
 8. He __________ (run). He's very sweaty [swɛti] (sudoroso).
 

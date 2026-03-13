@@ -62,7 +62,7 @@ un sustantivo. Empiezan con un pronombre relativo: *who, which, that, whose* o *
 *This is the city where I grew up.*
 (Esta es la ciudad donde crecí).
 
-## When can we omit the relative pronoun? (cuándo podemos omitir el pronombre relativo)
+## When can we omit the relative pronoun? (omisión del pronombre relativo)
 
 When the relative pronoun is the object of the clause (not the subject), we can omit it.
 Compare:
@@ -121,7 +121,7 @@ just adds extra information).
 
     download [daʊn'loʊd] - descargar
 
-    upload [ʌp'loʊd] - subir / cargar
+    upload [ʌp'loʊd] - subir
 
     search [sɜrtʃ] - buscar
 
@@ -135,7 +135,7 @@ just adds extra information).
 
     charger ['tʃɑrdʒər] - cargador
 
-    update [ʌp'deɪt] - actualizar / actualización
+    update [ʌp'deɪt] (verb) / ['ʌpdeɪt] (noun) - actualizar / actualización
 
     delete [dɪ'li:t] - borrar / eliminar
 
@@ -158,38 +158,6 @@ who really knows his stuff [stʌf] (que realmente sabe lo suyo).
 
 S: Great. I have some files [faɪlz] (archivos) that I need to recover [rɪ'kʌvər]
 (recuperar). I hope he can help.
-
-# A note on word stress with suffixes (nota sobre el acento con sufijos)
-
-When we add certain suffixes to a word, the stress often moves. This is important because
-mispronouncing the stress can make a word hard to understand.
-
-🔹 Cuando añadimos ciertos sufijos a una palabra, el acento a menudo cambia de posición. Esto
-es importante porque pronunciar mal el acento puede hacer que una palabra sea difícil de entender.
-
-### -tion and -sion: stress falls on the syllable before
-
-    educate ['ɛdʒukeɪt] => education [ɛdʒu'keɪʃən]
-
-    decide [dɪ'saɪd] => decision [dɪ'sɪʒən]
-
-    inform [ɪn'fɔrm] => information [ɪnfər'meɪʃən]
-
-    communicate [kə'mju:nɪkeɪt] => communication [kəmju:nɪ'keɪʃən]
-
-### -ity: stress falls on the syllable before
-
-    possible ['pɑsəbəl] => possibility [pɑsə'bɪləti]
-
-    electric [ɪ'lɛktrɪk] => electricity [ɪlɛk'trɪsəti]
-
-    personal ['pɜrsənəl] => personality [pɜrsə'næləti]
-
-### -ous, -ious: stress falls on the syllable before
-
-    danger ['deɪndʒər] => dangerous ['deɪndʒərəs]
-
-    mystery ['mɪstəri] => mysterious [mɪs'tɪriəs]
 
 # Homework
 
@@ -236,4 +204,4 @@ Example: I have a friend. He lives in London. => *I have a friend who lives in L
 1. Do you know anyone who speaks more than two languages?
 2. What is a place where you feel happy?
 3. What is a movie that you have seen more than once?
-4. Describe a person whose job you think is interesting.
+4. Do you have a friend whose job is very different from yours?

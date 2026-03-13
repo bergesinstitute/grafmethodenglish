@@ -12,12 +12,6 @@ recibe la acción.
 
     Passive: Hamlet was written by Shakespeare. (Hamlet fue escrito por Shakespeare).
 
-The passive is much more common in English than in Spanish. In Spanish, you often use
-the reflexive (*se habla español*), while in English we use the passive (*Spanish is spoken*).
-
-🔹 La voz pasiva es mucho más común en inglés que en español. En español se usa a menudo
-la forma reflexiva (*se habla español*), mientras que en inglés usamos la pasiva (*Spanish is spoken*).
-
 ## How it is built (construcción)
 
 The passive is formed with *to be* + past participle. The tense is shown by the form
@@ -72,9 +66,9 @@ Often, we don't include the agent because it is unknown, obvious, or unimportant
 
 🔹 A menudo no incluimos el agente porque es desconocido, obvio o no importante:
 
-*My phone was stolen.* (Me robaron el teléfono). => We don't know who did it.
+*My phone was stolen.* (Me robaron el teléfono / lit. Mi teléfono fue robado). => We don't know who did it.
 
-*The road is being repaired.* (Están arreglando la carretera). => It doesn't matter who.
+*The road was repaired last year.* (Arreglaron la carretera el año pasado / lit. La carretera fue arreglada el año pasado). => It doesn't matter who.
 
 ## When to use the passive (cuándo usar la pasiva)
 
@@ -83,14 +77,15 @@ We use the passive when:
 🔹 Usamos la pasiva cuando:
 
 1. We don't know who did the action: *My car was stolen.*
+🔹 No sabemos quién hizo la acción: *My car was stolen.*
+
 2. The action is more important than the person: *The bridge was built in 1920.*
+🔹 La acción es más importante que la persona: *The bridge was built in 1920.*
+
 3. In formal or scientific writing: *The experiment was conducted in three phases.*
+🔹 En escritura formal o científica: *The experiment was conducted in three phases.*
 
-🔹 1. No sabemos quién hizo la acción: *My car was stolen.*
-2. La acción es más importante que la persona: *The bridge was built in 1920.*
-3. En escritura formal o científica: *The experiment was conducted in three phases.*
-
-## Questions in the passive (preguntas en la pasiva)
+## Questions (preguntas)
 
     Was the book written in English? (¿Fue escrito el libro en inglés?)
 
@@ -159,28 +154,57 @@ R: Will tours [tʊrz] (visitas guiadas) be offered?
 
 A: Yes, free tours will be given every Saturday.
 
-# A note on sentence stress (nota sobre el acento en la oración)
+# Homework
 
-In English, not every word in a sentence has the same importance. We stress *content words*
-(nouns, verbs, adjectives, adverbs) and we say *function words* (articles, prepositions,
-pronouns, auxiliary verbs) more quickly and weakly.
+## 1. Change from active to passive
 
-🔹 En inglés, no todas las palabras en una oración tienen la misma importancia. Acentuamos
-las *palabras de contenido* (sustantivos, verbos, adjetivos, adverbios) y decimos las
-*palabras funcionales* (artículos, preposiciones, pronombres, verbos auxiliares) más
-rápidamente y con menos fuerza.
+🔹 Cambiar de activa a pasiva.
 
-*I WENT to the STORE and BOUGHT some BREAD.*
+Example: *They built the bridge in 1990.* => *The bridge was built in 1990.*
 
-The capitalized words are stressed. The other words are said quickly. This creates
-the natural rhythm of English, which is very different from Spanish.
+1. Shakespeare wrote Romeo and Juliet.
+2. Millions of people speak English.
+3. They will publish the book next month.
+4. Someone stole my bicycle.
+5. They have repaired the road.
+6. A famous chef cooks the food at this restaurant.
 
-🔹 Las palabras en mayúsculas son las acentuadas. Las demás se dicen rápidamente. Esto crea
-el ritmo natural del inglés, que es muy diferente del español.
+## 2. Complete with the correct passive form
 
-# Reading comprehension (comentario de texto)
+🔹 Completar con la forma pasiva correcta.
 
-## The Pied Piper of Hamelin (el flautista de Hamelín)
+1. English __________ (speak) in Australia.
+2. The Mona Lisa __________ (paint) by Leonardo da Vinci.
+3. The new hospital __________ (build) next year.
+4. The email __________ already __________ (send).
+5. The movie __________ (film) in Spain in 2019.
+6. These phones __________ (make) in China.
+
+## 3. Translate. You can use a dictionary to look up words you don't know.
+
+🔹 Traducir. Puedes usar un diccionario para buscar las palabras que no conoces.
+
+1. El libro fue escrito por un autor español.
+2. El español se habla en muchos países.
+3. Me robaron el teléfono ayer.
+4. La reunión se celebrará el lunes.
+5. El puente fue construido en 1920.
+6. El informe ya ha sido terminado.
+7. ¿Dónde se filmó esta película?
+8. El museo fue diseñado por un arquitecto famoso.
+
+## 4. Answer using complete sentences
+
+🔹 Responde usando oraciones completas.
+
+1. Where was the last movie you watched filmed?
+2. What language is spoken in Brazil?
+3. When was your city founded ['faʊndɪd] (fundada)?
+4. Was this book written by one person or by many people?
+
+## 5. Reading comprehension (comentario de texto)
+
+### The Pied Piper of Hamelin (el flautista de Hamelín)
 
 In the town of Hamelin,[1] in Germany, the houses were grey and the people were honest.
 It was a very rich town, but they had a very big problem: there were thousands of
@@ -262,52 +286,4 @@ Hamelin, and nobody ever knew where they went.
 5. What did the piper look like?
 6. Does the story end well or badly?
 7. What do you think the moral of the story is?
-
-# Homework
-
-## 1. Change from active to passive
-
-🔹 Cambiar de activa a pasiva.
-
-Example: *They built the bridge in 1990.* => *The bridge was built in 1990.*
-
-1. Shakespeare wrote Romeo and Juliet.
-2. Millions of people speak English.
-3. They will publish the book next month.
-4. Someone stole my bicycle.
-5. They have repaired the road.
-6. A famous chef cooks the food at this restaurant.
-
-## 2. Complete with the correct passive form
-
-🔹 Completar con la forma pasiva correcta.
-
-1. English __________ (speak) in Australia.
-2. The Mona Lisa __________ (paint) by Leonardo da Vinci.
-3. The new hospital __________ (build) next year.
-4. The email __________ already __________ (send).
-5. The movie __________ (film) in Spain in 2019.
-6. These phones __________ (make) in China.
-
-## 3. Translate. You can use a dictionary to look up words you don't know.
-
-🔹 Traducir. Puedes usar un diccionario para buscar las palabras que no conoces.
-
-1. El libro fue escrito por un autor español.
-2. El español se habla en muchos países.
-3. Me robaron el teléfono ayer.
-4. La reunión se celebrará el lunes.
-5. El puente fue construido en 1920.
-6. El informe ya ha sido terminado.
-7. ¿Dónde se filmó esta película?
-8. El museo fue diseñado por un arquitecto famoso.
-
-## 4. Answer using complete sentences
-
-🔹 Responde usando oraciones completas.
-
-1. Where was the last movie you watched filmed?
-2. What language is spoken in Brazil?
-3. When was your city founded ['faʊndɪd] (fundada)?
-4. Was this book written by one person or by many people?
 

@@ -19,10 +19,15 @@ In the third person singular, we add -s or -es. For questions and negative sente
 Common time expressions:
 
     always - siempre
+
     usually - normalmente
+
     sometimes - a veces
+
     never - nunca
+
     every day - cada día
+
     on Mondays - los lunes
 
 ### Conversation
@@ -61,9 +66,13 @@ We form it with *be* + verb-*ing.*
 Common time expressions:
 
     right now - ahora mismo
+
     at the moment - en este momento
+
     today - hoy
+
     this week - esta semana
+
     tomorrow (for plans) - mañana
 
 ### Conversation
@@ -101,8 +110,11 @@ Los verbos irregulares tienen formas especiales que hay que memorizar.
 Common time expressions:
 
     yesterday - ayer
+
     last Monday / last week / last year - el lunes pasado / la semana pasada / el año pasado
+
     two days ago - hace dos días
+
     in 2015 - en 2015
 
 ### Conversation
@@ -199,16 +211,22 @@ We form it with *have/has* + past participle.
 
 *She has lost her keys.* (Ha perdido sus llaves). => recent action, present result
 
-*We have lived here for five years.* (Hemos vivido aquí durante cinco años). => duration
+*We have lived here for five years.* (Hemos vivido aquí cinco años). => duration
 
 Key words:
 
     ever - alguna vez (in questions)
+
     never - nunca (in negatives)
+
     already - ya
-    yet - todavía / aún (in questions and negatives)
+
+    yet - ya (in questions) / todavía (in negatives)
+
     just - acabar de
+
     for - durante (+ period of time)
+
     since - desde (+ point in time)
 
 *Have you ever been to Japan?* (¿Has estado alguna vez en Japón?)
@@ -430,7 +448,7 @@ L: OK. If I can't make it, I'll call you. But I think I'll be there.
 ### Used to
 
 9. Antes vivía en Madrid.
-10. Ella antes fumaba, pero ya no fuma.
+10. Ella antes fumaba, pero ya no fuma. (no longer - ya no)
 
 ### Present perfect
 
@@ -449,24 +467,7 @@ L: OK. If I can't make it, I'll call you. But I think I'll be there.
 17. Si llueve, me quedaré en casa.
 18. Si estudias, aprobarás el examen.
 
-## 10. Translate (mixed)
-
-🔹 Traducir (mezcla).
-
-1. I always go to the gym on Mondays.
-2. She is studying right now.
-3. Last Friday I cooked dinner for my friends.
-4. When I was living in Spain, I would always eat dinner at 10 PM.
-5. I have been to Rome twice.
-6. Have you finished your homework yet?
-7. If you don't hurry, you will miss the train.
-8. I used to play tennis every weekend.
-9. It was raining when I left the house.
-10. I'm going to start a new job next month.
-11. Someone called you this morning.
-12. I don't know anyone in this city.
-
-## 11. Answer using complete sentences
+## 10. Answer using complete sentences
 
 🔹 Responde usando oraciones completas.
 
@@ -476,5 +477,3 @@ L: OK. If I can't make it, I'll call you. But I think I'll be there.
 4. What did you use to do as a child that you don't do anymore?
 5. Have you ever been to a country where you didn't speak the language?
 6. What are you going to do next summer?
-7. If you could live anywhere in the world, where would you live?
-8. Is there anyone famous you would like to meet?
