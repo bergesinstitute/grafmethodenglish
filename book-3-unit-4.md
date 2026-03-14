@@ -128,7 +128,9 @@ irregulares más comunes con sus tres formas (infinitivo / *past simple* / parti
 
     choose / chose / chosen ['tʃoʊzən]
 
-    come / came / come [kʌm]
+    come [kʌm] / came / come
+
+    cut [kʌt] (cortar) / cut / cut
 
     do / did / done [dʌn]
 
@@ -178,13 +180,15 @@ irregulares más comunes con sus tres formas (infinitivo / *past simple* / parti
 
     pay / paid [peɪd] / paid
 
-    put / put [pʊt] / put
+    put [pʊt] / put / put
+
+    quit [kwɪt] (dejar) / quit / quit
 
     read / read [rɛd] / read
 
     ride / rode / ridden ['rɪdən]
 
-    run / ran / run [rʌn]
+    run [rʌn] / ran / run
 
     say / said [sɛd] / said
 
