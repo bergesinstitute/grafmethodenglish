@@ -49,10 +49,10 @@ esperando* (literalmente, *he estado esperando una hora*).
 ### Emphasis on result vs. duration (énfasis en el resultado vs. la duración)
 
 The present perfect emphasizes the result. The present perfect continuous emphasizes
-the process or the duration.
+the ongoing nature of the activity.
 
 🔹 El *present perfect* enfatiza el resultado. El *present perfect continuous* enfatiza
-el proceso o la duración.
+la naturaleza continua de la actividad.
 
     I have read three books this month. (He leído tres libros este mes). => result
 

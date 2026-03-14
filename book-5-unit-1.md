@@ -105,10 +105,10 @@ el proceso continuo.
 *I have been studying English for two years. It has been raining all day.*
 
 > The present perfect emphasizes the result: *I have read three books.*
-> The present perfect continuous emphasizes the process: *I have been reading all day.*
+> The present perfect continuous emphasizes the ongoing nature of the activity: *I have been reading all day.*
 
 > 🔹 El *present perfect* enfatiza el resultado: *I have read three books.*
-> El *present perfect continuous* enfatiza el proceso: *I have been reading all day.*
+> El *present perfect continuous* enfatiza la naturaleza continua de la actividad: *I have been reading all day.*
 
 ## Second conditional
 

@@ -2,17 +2,31 @@
 
 ## The problem (el problema)
 
-In English, some verbs are followed by a gerund (verb + *-ing*) and some by an infinitive
-(*to* + verb). This distinction does not exist in the same way in Spanish, where verbs
-are normally followed by an infinitive.
+In Spanish, when one verb follows another, the second verb is almost always in the
+infinitive: *quiero nadar*, *necesito estudiar*, *evito conducir*.
 
-🔹 En inglés, algunos verbos van seguidos de un gerundio (verbo + *-ing*) y otros de un infinitivo
-(*to* + verbo). Esta distinción no existe de la misma manera en español, donde los verbos
-normalmente van seguidos de un infinitivo.
+🔹 En español, cuando un verbo sigue a otro, el segundo verbo casi siempre va en
+infinitivo: *quiero nadar*, *necesito estudiar*, *evito conducir*.
 
-    I enjoy swimming. (Disfruto nadando / Me gusta nadar). => gerund
+In English, this is different. Some verbs are followed by a gerund (verb + *-ing*),
+and others by an infinitive (*to* + verb). You have to learn which form each verb takes,
+because there is no general rule that covers all cases.
 
-    I want to swim. (Quiero nadar). => infinitive
+🔹 En inglés, esto es diferente. Algunos verbos van seguidos de un gerundio (verbo + *-ing*),
+y otros de un infinitivo (*to* + verbo). Hay que aprender qué forma lleva cada verbo,
+porque no hay una regla general que cubra todos los casos.
+
+Compare:
+
+    I avoid driving at night. (Evito conducir de noche). => gerund (-ing)
+
+    I want to drive. (Quiero conducir). => infinitive (to + verb)
+
+In Spanish, both sentences use the infinitive (*conducir*). In English, you have to
+choose between *-ing* and *to* depending on the first verb.
+
+🔹 En español, ambas oraciones usan el infinitivo (*conducir*). En inglés, hay que
+elegir entre *-ing* y *to* según el primer verbo.
 
 ## Verbs followed by a gerund (verbos seguidos de gerundio)
 
@@ -43,14 +57,6 @@ These verbs are followed by verb + *-ing:*
     deny [dɪ'naɪ] (negar) => He denied stealing the money.
 
     quit [kwɪt] (dejar) => She quit smoking.
-
-> A useful trick: if you can replace the verb with *it* and the sentence makes sense
-> with *enjoy/avoid/finish + it*, then you use the gerund.
-> *I enjoy it.* => *I enjoy swimming.*
-
-> 🔹 Un truco útil: si puedes reemplazar el verbo con *it* y la oración tiene sentido
-> con *enjoy/avoid/finish + it*, entonces usas el gerundio.
-> *I enjoy it.* => *I enjoy swimming.*
 
 ## Verbs followed by an infinitive (verbos seguidos de infinitivo)
 
@@ -166,8 +172,6 @@ After a preposition, we always use the gerund, never the infinitive:
 
     knowledge ['nɑlɪdʒ] - conocimiento
 
-    skill [skɪl] - habilidad
-
     research [rɪ'sərtʃ] - investigación
 
 > *Homework* is uncountable in English: *I have a lot of homework* (not *many homeworks*).
@@ -184,7 +188,7 @@ L: I'm considering taking a course at the university. I also plan to practice
 speaking with a tutor ['tu:tər] (tutor) online.
 
 C: I tried learning Japanese a few years ago. I enjoyed studying the writing system,
-but I found it very difficult. I ended up quitting after three months.
+but I found it very difficult. I quit after three months.
 
 L: I don't mind spending a lot of time on it. I've always been interested in
 Japanese culture ['kʌltʃər] (cultura). I refuse to give up this time.
@@ -196,100 +200,51 @@ L: Good advice. I need to practice speaking without being afraid of making mista
 
 C: Exactly. I miss studying languages. Maybe I should try again!
 
-# A note on the stress-timed rhythm of English (nota sobre el ritmo del inglés)
+# Past perfect continuous (pasado perfecto continuo)
 
-English is a *stress-timed* language, which means the stressed syllables come at
-roughly ['rʌfli] (aproximadamente) regular intervals, and the unstressed syllables are
-squeezed [skwi:zd] (comprimidas) between them.
+*I had been saving money for two years.* (Llevaba dos años ahorrando dinero; literalmente, había estado ahorrando dinero durante dos años).
 
-🔹 El inglés es un idioma de *ritmo acentual*, lo que significa que las sílabas acentuadas
-se producen a intervalos más o menos regulares, y las sílabas no acentuadas se comprimen
-entre ellas.
+The continuous tenses emphasize the ongoing nature of the activity. Think of them as
+a variation of the standard perfect tenses. Here are the four perfect tenses:
 
-Spanish, by contrast, is a *syllable-timed* language, where each syllable takes roughly
-the same amount of time.
+🔹 Los tiempos continuos enfatizan la naturaleza continua de la actividad. Piensa en ellos
+como una variación de los tiempos perfectos estándar. Estos son los cuatro:
 
-🔹 El español, por el contrario, es un idioma de *ritmo silábico*, donde cada sílaba
-ocupa más o menos el mismo tiempo.
+    present perfect: I have lived in Madrid for two years.
 
-This is why English can sound very fast to Spanish speakers - the unstressed words
-and syllables are said very quickly.
+    present perfect continuous: I have been living in Madrid for two years. => emphasizes the ongoing nature of the activity
 
-🔹 Esta es la razón por la que el inglés puede sonar muy rápido para los hispanohablantes -
-las palabras y sílabas no acentuadas se dicen muy rápido.
+    past perfect: I had lived in Madrid for two years.
 
-# Reading comprehension (comentario de texto)
+    past perfect continuous: I had been living in Madrid for two years. => emphasizes the ongoing nature of the activity
 
-## A year abroad (un año en el extranjero)
+> In practice, the difference between the standard and continuous forms is subtle.
+> Both are correct in most situations. Don't worry too much about which one to use.
 
-When I finished university, I decided to spend a year abroad [ə'brɔd] (en el extranjero).
-I had always wanted to live in another country, and I had been saving money for two years.
-I was excited but also nervous ['nɜrvəs] (nervioso).
+> 🔹 En la práctica, la diferencia entre las formas estándar y continuas es sutil.
+> Ambas son correctas en la mayoría de situaciones. No te preocupes demasiado por cuál usar.
 
-I chose ['tʃoʊz] England because I wanted to improve [ɪm'pru:v] (mejorar) my English.
-I had studied it for years at school, but I had never lived in an English-speaking country.
-I found a small apartment in Brighton ['braɪtən], a city on the south coast that is known
-for its beaches and its nightlife.
+# A note on the rhythm of English (nota sobre el ritmo del inglés)
 
-When I arrived, everything was different from what I had imagined. The weather, which
-I had heard was terrible, was actually not that bad in September. The people I met were
-very friendly. But the language was harder than I had expected. People spoke so fast that
-I couldn't understand anything at first.
+In English, stressed syllables are long and clear, but unstressed syllables are
+much shorter and weaker. In Spanish, all syllables take more or less the same
+amount of time.
 
-I got a job at a café that was run by an Italian woman whose husband was English.
-I enjoyed working there because I could practice my English while earning [ɜrnɪŋ]
-(ganando) some money. If I hadn't found that job, I would have run out of money
+🔹 En inglés, las sílabas acentuadas son largas y claras, pero las no acentuadas
+son mucho más cortas y débiles. En español, todas las sílabas duran más o menos
+lo mismo.
+
+This means that unstressed syllables can be hard to hear, because they are said
 very quickly.
 
-I had been living in Brighton for about three months when I started to feel comfortable.
-I had made some friends - people who I met at work and at a language exchange
-[ɪks'tʃeɪndʒ] that was organized every Thursday at a pub [pʌb] (bar). The pub where
-we met was called The Lion ['laɪən], and it was the place where many international students
-would go.
+🔹 Esto hace que las sílabas no acentuadas puedan ser difíciles de entender,
+porque se dicen muy rápido.
 
-By December, my English had improved a lot. I had been practicing every day, and I was
-no longer afraid of making mistakes. I had learned many phrasal verbs that nobody had
-taught me in school. I had discovered that real English is very different from textbook English.
+When you speak English, try to make the stressed syllables longer and the unstressed
+syllables shorter. This will make your English sound more natural.
 
-If I could give one piece of advice to anyone who wants to learn a language, it would be
-this: go somewhere where the language is spoken. Nothing I had done before - no course,
-no app, no textbook - had prepared me as well as simply living in the country. I'm not
-saying you shouldn't study grammar. But if you combine studying with real experience,
-you will learn faster than you ever thought possible.
-
-I came back home in July. I had been away for ten months. Everything looked the same,
-but I felt different. I was more confident, more independent [ɪndɪ'pɛndənt], and I had
-made friends from all over the world who I still keep in touch with.
-
-That year abroad was the best decision I have ever made.
-
-    abroad [ə'brɔd] - en el extranjero
-
-    improve [ɪm'pru:v] - mejorar
-
-    coast [koʊst] - costa
-
-    nightlife ['naɪtlaɪf] - vida nocturna
-
-    expect [ɪk'spɛkt] - esperar (anticipar)
-
-    earn [ɜrn] - ganar (dinero)
-
-    comfortable ['kʌmfərtəbəl] - cómodo
-
-    exchange [ɪks'tʃeɪndʒ] - intercambio
-
-    no longer [noʊ 'lɔŋgər] - ya no
-
-    advice [əd'vaɪs] - consejo
-
-    combine [kəm'baɪn] - combinar
-
-    independent [ɪndɪ'pɛndənt] - independiente
-
-    keep in touch [ki:p ɪn tʌtʃ] - mantener el contacto
-
-    decision [dɪ'sɪʒən] - decisión
+🔹 Cuando hables inglés, intenta alargar las sílabas acentuadas y acortar las no
+acentuadas. Esto hará que tu inglés suene más natural.
 
 # Homework
 
@@ -312,8 +267,8 @@ That year abroad was the best decision I have ever made.
 
 🔹 Elige el significado correcto.
 
-1. She stopped talking. => a) She was quiet. b) She paused in order to talk.
-2. She stopped to talk. => a) She was quiet. b) She paused in order to talk.
+1. She stopped talking. => a) She went quiet. b) She paused in order to talk.
+2. She stopped to talk. => a) She went quiet. b) She paused in order to talk.
 3. I remember meeting him. => a) I have the memory. b) I didn't forget to meet him.
 4. I remembered to meet him. => a) I have the memory. b) I didn't forget to meet him.
 
@@ -332,14 +287,11 @@ That year abroad was the best decision I have ever made.
 
 🔹 Traducir. Puedes usar un diccionario para buscar las palabras que no conoces.
 
-1. Disfruto cocinando.
-2. Quiero aprender japonés.
-3. Ella dejó de fumar el año pasado.
-4. Se detuvo para hablar con un amigo.
-5. Estoy interesado en aprender más sobre la historia de España.
-6. Ella es buena jugando al tenis.
-7. Antes de salir, comprobé que las ventanas estuvieran cerradas.
-8. Me estoy planteando mudarme a otra ciudad.
+1. Quiero aprender japonés.
+2. Ella dejó de fumar el año pasado.
+3. Se detuvo para hablar con un amigo.
+4. Estoy interesado en aprender más sobre la historia de España.
+5. Estoy pensando en mudarme a otra ciudad. (pensar en = think about)
 
 ## 5. Answer using complete sentences
 
@@ -352,15 +304,68 @@ That year abroad was the best decision I have ever made.
 
 ## 6. Reading comprehension (comentario de texto)
 
+### Changing direction (cambio de rumbo)
+
+María had been working as an accountant[1] for eight years when she realized she
+was not happy. She didn't hate her job, but she didn't enjoy going to the office
+every morning. She spent most of her day looking at numbers on a screen, and she
+had started to feel that something was missing.
+
+She had always been interested in cooking. As a child, she loved watching her
+grandmother in the kitchen. She would spend hours learning to make traditional
+recipes.[2] When she grew up, she kept cooking for friends and family, and everyone
+told her she was very good at it.
+
+One day, she decided to make a change. She started looking for cooking courses and
+found a good school in her city. She was nervous about going back to studying — she
+had finished university more than ten years ago. But she signed up[3] for a one-year
+course.
+
+The first few months were hard. She was still working at her old job during the day
+and attending[4] classes in the evening. She had been doing both for about three
+months when she decided to quit her job. It was a big risk,[5] but she couldn't
+manage to do both things at the same time.
+
+She finished the course in June. After graduating, she got a job at a small restaurant
+near the city center. She enjoyed working there, but she had been thinking about
+opening her own place for a long time.
+
+Two years later, she opened a small restaurant. It was not easy — she had to learn
+about running a business, managing staff,[6] and keeping costs down. She sometimes
+missed having a stable[7] salary.[8] But she never regretted[9] making the change.
+
+Today, her restaurant is doing well. She works longer hours than before, but she
+doesn't mind working late because she loves what she does. When people ask her
+for advice,[10] she always says the same thing: "Don't be afraid of starting again.
+It's never too late to try something new."
+
+[1] accountant [ə'kaʊntənt] - contable
+
+[2] recipe ['rɛsɪpi:] - receta
+
+[3] sign up [saɪn ʌp] - inscribirse / apuntarse
+
+[4] attend [ə'tɛnd] - asistir a
+
+[5] risk [rɪsk] - riesgo
+
+[6] staff [stæf] - personal / empleados
+
+[7] stable ['steɪbəl] - estable
+
+[8] salary ['sæləri] - sueldo
+
+[9] regret [rɪ'grɛt] - arrepentirse de
+
+[10] advice [əd'vaɪs] - consejo
+
+### Questions (preguntas)
+
 🔹 Responde basándote en el texto.
 
-1. Why did the narrator choose England?
-2. How long had he been saving money before his trip?
-3. What was Brighton known for?
-4. Where did he get a job?
-5. What would have happened if he hadn't found a job?
-6. How long had he been living in Brighton when he started to feel comfortable?
-7. Where did the language exchange take place?
-8. What is his advice for anyone who wants to learn a language?
-9. How long had he been away when he came back?
-10. How did he feel when he returned?
+1. What didn't María enjoy about her job?
+2. What had she always been interested in?
+3. Why did she quit her job?
+4. What did she do after graduating?
+5. What does she sometimes miss?
+6. What is her advice?
