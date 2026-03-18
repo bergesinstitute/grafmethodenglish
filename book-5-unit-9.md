@@ -1,8 +1,8 @@
 # Review (repaso)
 
-Review all five books. You should be able to explain every concept to another person.
+Go over units 1-8 and review everything until you know it to the point where you could explain it to someone else.
 
-🔹 Repasa los cinco libros. Deberías ser capaz de explicar todos los conceptos a otra persona.
+🔹 Repasa las unidades 1-8 hasta que llegues al punto en el que puedas explicar todo a otra persona.
 
 # Homework
 

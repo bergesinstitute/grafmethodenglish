@@ -131,7 +131,7 @@ just adds extra information).
 
     message ['mɛsɪdʒ] - mensaje
 
-    battery ['bæɾəri] - batería
+    battery ['bæteri] - batería
 
     charger ['tʃɑrdʒər] - cargador
 

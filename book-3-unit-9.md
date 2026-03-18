@@ -1,9 +1,8 @@
 # Review (repaso)
 
-Review units 1-8 until you are at the point where you can explain all the concepts to another person.
+Go over units 1-8 and review everything until you know it to the point where you could explain it to someone else.
 
-🔹 Repasa las unidades 1-8 hasta que estés en el punto en el que puedas explicar
-todos los conceptos a otra persona.
+🔹 Repasa las unidades 1-8 hasta que llegues al punto en el que puedas explicar todo a otra persona.
 
 # Homework
 

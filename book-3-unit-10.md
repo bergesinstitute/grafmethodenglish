@@ -66,3 +66,25 @@ happy here. It's the best city I have ever lived in.
 
     forever [fər'ɛvər] - para siempre
 
+# The imperative (el imperativo)
+
+In English, the imperative is very simple. Use the base form of the verb without a subject.
+
+🔹 En inglés, el imperativo es muy sencillo. Se usa la forma base del verbo sin sujeto.
+
+    Open the door. (Abre la puerta).
+
+    Look at this. (Mira esto).
+
+    Wait here. (Espera aquí).
+
+For the negative, add *don't* before the verb.
+
+🔹 Para el negativo, se añade *don't* antes del verbo.
+
+    Don't worry. (No te preocupes).
+
+    Don't touch that. (No toques eso).
+
+    Don't be late. (No llegues tarde).
+

@@ -252,17 +252,13 @@ Voiced [ð] (like a soft D with the tongue between the teeth): *the, this, that,
 
 Voiceless [θ] (like blowing air with the tongue between the teeth): *think, three, month, bath*
 
-### The V sound [v]
-
-Upper teeth on lower lip with vibration: *very, have, love, never*
-
 ### The schwa [ə]
 
 The most common sound in English. A short, relaxed, neutral vowel: *about, banana, sofa, the*
 
 ### The R sound [r]
 
-Tongue curled back, not touching the palate, no vibration: *red, river, right, really*
+Tongue curled back, not touching the palate, no tongue vibration: *red, river, right, really*
 
 ### The initial S + consonant
 

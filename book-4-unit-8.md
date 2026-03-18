@@ -134,9 +134,9 @@ Some phrasal verbs are *inseparable*: the verb and particle always stay together
 
     She looks after her grandmother. Not: *She looks her grandmother after.*
 
-> Most phrasal verbs with *for, after,* and *into* are inseparable.
+> Most phrasal verbs with *for* and *after* are inseparable.
 
-> 🔹 La mayoría de *phrasal verbs* con *for, after* e *into* son inseparables.
+> 🔹 La mayoría de *phrasal verbs* con *for* y *after* son inseparables.
 
 # Conversation
 
@@ -148,7 +148,7 @@ Marcos: Not much. I need to clean up my apartment. I've been putting it off
 S: I know the feeling. I need to fill out some forms [fɔrmz] (formularios) for work,
 and I've been putting that off too. Do you want to go out on Saturday night?
 
-M: Sure! Let me look up some restaurants. I heard about a new place - let me check
+M: Sure! Let me look up some restaurants. I heard about a new place. Let me check
 it out online.
 
 S: Great. Can you pick me up at 8?
@@ -159,36 +159,72 @@ He showed up yesterday without telling anyone. Should I ask him to come along?
 S: Yes! I haven't seen him since he went back to Argentina. We have a lot
 to catch up on [kætʃ ʌp ɑn] (ponernos al día).
 
-M: Perfect. I'll call him back - he called me this morning but I couldn't
+M: Perfect. I'll call him back. He called me this morning but I couldn't
 pick up.
 
-# A note on stress in phrasal verbs (nota sobre el acento en los phrasal verbs)
+# Homework
 
-In phrasal verbs, the particle (up, down, on, off, out, back) usually receives
-the main stress:
+## 1. Replace the underlined words with a phrasal verb
 
-🔹 En los *phrasal verbs*, la partícula (up, down, on, off, out, back) normalmente recibe
-el acento principal:
+🔹 Reemplaza las palabras subrayadas con un *phrasal verb*.
 
-    pick UP
+Example: I *discovered* the answer. => *I found out the answer.*
 
-    turn OFF
+1. I need to *search for* my keys.
+2. The car *stopped working* on the highway.
+3. Can you *lower* the music?
+4. Please *complete* this form.
+5. She *returned* the book to the library.
 
-    find OUT
+## 2. Complete with the correct particle (up, down, on, off, out, back, for, after)
 
-    come BACK
+🔹 Completar con la partícula correcta.
 
-This is different from normal prepositional phrases, where the preposition is unstressed:
+1. Can you turn __________ the lights? It's dark in here.
+2. I grew __________ in a small town.
+3. We've run __________ of milk. Can you buy some?
+4. She's looking __________ her children while they play.
+5. He broke __________ with his girlfriend last month.
+6. Hold __________! I'm coming!
+7. I'm looking __________ a new apartment.
 
-🔹 Esto es diferente de las frases preposicionales normales, donde la preposición no lleva acento:
+## 3. Rewrite using a pronoun in the correct position
 
-    I LOOKED at the PICTURE. (*at* is not stressed)
+🔹 Reescribe usando un pronombre en la posición correcta.
 
-    I looked UP the WORD. (*UP* is stressed - it's a phrasal verb)
+Example: *Turn off the TV.* => *Turn it off.*
 
-# Reading comprehension (comentario de texto)
+1. Pick up the book.
+2. Put on your jacket.
+3. Write down the address.
+4. Turn down the music.
+5. Clean up the kitchen.
 
-## The Outsider (el extraño)
+## 4. Translate. You can use a dictionary to look up words you don't know.
+
+🔹 Traducir. Puedes usar un diccionario para buscar las palabras que no conoces.
+
+1. Me levanté a las 7, me puse la chaqueta y salí.
+2. Descubrí que mi vuelo había sido cancelado.
+3. ¿Puedes apagar la luz?
+4. No te rindas. Sigue intentándolo.
+5. Busqué la palabra en el diccionario.
+6. Me quedé sin gasolina en la autopista.
+7. Ella cuida a su abuela los fines de semana.
+8. ¿A qué hora te recojo?
+
+## 5. Answer using complete sentences
+
+🔹 Responde usando oraciones completas.
+
+1. What time do you usually wake up?
+2. Do you prefer to go out or stay in on weekends?
+3. Have you ever given up a hobby? Which one?
+4. Have you ever had to look after someone?
+
+## 6. Reading comprehension (comentario de texto)
+
+### The Outsider (el extraño)
 
 I have lived in this dark castle[1] for as long as I can remember. I do not know how
 I got here, and I do not know how long I have been here. I have never seen sunlight.[2]
@@ -329,69 +365,6 @@ It was a mirror.[36]
 1. Where had the narrator lived his whole life?
 2. How had he learned about the outside world?
 3. What did he expect to find at the top of the tower?
-4. What was the terrible truth he discovered when he came out?
-5. What happened when he entered the room with the celebration?
-6. What was the creature he saw in the archway?
-7. Does the story end well or badly?
-
-# Homework
-
-## 1. Replace the underlined words with a phrasal verb
-
-🔹 Reemplaza las palabras subrayadas con un *phrasal verb*.
-
-Example: She *extinguished* the candle. => *She blew out the candle.*
-
-1. I need to *search for* my keys.
-2. She *rejected* the job offer.
-3. Can you *lower* the music?
-4. He *discovered* the truth.
-5. Please *complete* this form.
-6. She *returned* the book to the library.
-
-## 2. Complete with the correct particle (up, down, on, off, out, back, for, after)
-
-🔹 Completar con la partícula correcta.
-
-1. Can you turn __________ the lights? It's dark in here.
-2. I grew __________ in a small town.
-3. We've run __________ of milk. Can you buy some?
-4. She's looking __________ her children while they play.
-5. I need to go __________ to the office. I forgot my bag.
-6. He broke __________ with his girlfriend last month.
-7. Hold __________! I'm coming!
-8. I'm looking __________ a new apartment.
-
-## 3. Rewrite using a pronoun in the correct position
-
-🔹 Reescribe usando un pronombre en la posición correcta.
-
-Example: *Turn off the TV.* => *Turn it off.*
-
-1. Pick up the book.
-2. Put on your jacket.
-3. Write down the address.
-4. Turn down the music.
-5. Clean up the kitchen.
-
-## 4. Translate. You can use a dictionary to look up words you don't know.
-
-🔹 Traducir. Puedes usar un diccionario para buscar las palabras que no conoces.
-
-1. Me levanté a las 7, me puse la chaqueta y salí.
-2. Descubrí que mi vuelo había sido cancelado.
-3. ¿Puedes apagar la luz?
-4. No te rindas. Sigue intentándolo.
-5. Busqué la palabra en el diccionario.
-6. Me quedé sin gasolina en la autopista.
-7. Ella cuida a su abuela los fines de semana.
-8. ¿A qué hora te recojo?
-
-## 5. Answer using complete sentences
-
-🔹 Responde usando oraciones completas.
-
-1. What time do you usually wake up?
-2. Do you prefer to go out or stay in on weekends?
-3. Have you ever given up a hobby? Which one?
-4. What is something you have been putting off?
+4. What happened when he entered the room with the celebration?
+5. What was the creature he saw in the archway?
+6. Does the story end well or badly?

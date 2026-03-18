@@ -181,7 +181,7 @@ M: He asked me to help him find a good neighborhood in London.
 He also asked whether I knew anyone who lived there.
 
 C: My cousin lives in London. She told me last week that she loved it.
-Tell Pedro to call me - I can give him her number.
+Tell Pedro to call me. I can give him her number.
 
 M: Great! He'll be happy to hear that. He complained that he didn't know
 anyone in the city.

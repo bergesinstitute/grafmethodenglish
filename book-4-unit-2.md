@@ -293,7 +293,7 @@ doble negación.
 
 Ana: Did you do anything interesting last weekend?
 
-David: Yes! I went somewhere new - a small town near the mountains.
+David: Yes! I went somewhere new, a small town near the mountains.
 Everything was very quiet and peaceful ['pi:sfəl] (tranquilo).
 
 A: Did you go with someone?
@@ -303,7 +303,7 @@ I met some nice people at the hotel.
 
 A: Did you buy anything?
 
-D: I bought something for my sister - a beautiful painting. But I couldn't find
+D: I bought something for my sister, a beautiful painting. But I couldn't find
 anything for my brother. There was nothing he would like in the shops.
 
 A: Is there anything you want to do next weekend?

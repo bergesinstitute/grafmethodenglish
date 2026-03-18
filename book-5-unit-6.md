@@ -155,7 +155,7 @@ In Spanish, both *make* and *do* translate as *hacer.* In English, they are diff
 
 María: How's the new job?
 
-Roberto: I'm slowly getting used to it. The hours are very different - I'm not
+Roberto: I'm slowly getting used to it. The hours are very different. I'm not
 used to waking up at 5 AM. I used to start work at 9.
 
 M: That must be hard. Are you getting used to the commute [kə'mju:t] (trayecto)?
