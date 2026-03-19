@@ -1,4 +1,4 @@
-# Review of structures (repaso de estructuras)
+# Review of tenses and structures (repaso de tiempos y estructuras)
 
 ## Present simple
 
@@ -34,9 +34,9 @@ Descriptions in the past. Interrupted actions. Simultaneous actions.
 
 ## Used to / would
 
-Past habits no longer true. *Would* for repeated actions only (not states).
+Past habits. *Would* for repeated actions only (not states).
 
-🔹 Hábitos pasados que ya no son ciertos. *Would* solo para acciones repetidas (no estados).
+🔹 Hábitos pasados. *Would* solo para acciones repetidas (no estados).
 
 *I used to live in Madrid. She would always cook on Sundays.*
 
@@ -64,11 +64,11 @@ Plans already decided. Predictions with evidence.
 
 🔹 Planes ya decididos. Predicciones con evidencia.
 
-*I'm going to visit my parents. Look at those clouds - it's going to rain.*
+*I'm going to visit my parents. Look at those clouds: it's going to rain.*
 
 ## First conditional
 
-If + present simple, will + infinitive. For possible or probable situations.
+*If* + present simple, *will* + infinitive. For possible or probable situations.
 
 🔹 *If* + *present simple*, *will* + infinitivo. Para situaciones posibles o probables.
 
@@ -88,7 +88,7 @@ everyone, somewhere, anywhere, nowhere, everywhere.*
 
 ## Past perfect
 
-Had + past participle. An action before another past action.
+*Had* + past participle. An action before another past action.
 
 🔹 *Had* + participio pasado. Una acción anterior a otra acción pasada.
 
@@ -96,7 +96,7 @@ Had + past participle. An action before another past action.
 
 ## Present perfect continuous
 
-Have/has been + verb-*ing.* Duration from the past to the present, with emphasis
+*Have/has been* + verb-*ing.* Duration from the past to the present, with emphasis
 on the ongoing process.
 
 🔹 *Have/has been* + verbo-*ing.* Duración del pasado al presente, con énfasis en
@@ -112,23 +112,23 @@ el proceso continuo.
 
 ## Second conditional
 
-If + past simple, would + infinitive. For imaginary or unlikely situations in the present.
+*If* + past simple, *would* + infinitive. For imaginary or hypothetical situations.
 
-🔹 *If* + *past simple*, *would* + infinitivo. Para situaciones imaginarias o improbables en el presente.
+🔹 *If* + *past simple*, *would* + infinitivo. Para situaciones imaginarias o hipotéticas.
 
 *If I had more money, I would travel the world. If I were you, I would accept the offer.*
 
 ## Relative clauses
 
-*Who* (people), *which* (things), *that* (both), *whose* (possession), *where* (places).
+*Who* (people), *which* (things), *that* (people or things), *whose* (possession), *where* (places).
 
-🔹 *Who* (personas), *which* (cosas), *that* (ambos), *whose* (posesión), *where* (lugares).
+🔹 *Who* (personas), *which* (cosas), *that* (personas o cosas), *whose* (posesión), *where* (lugares).
 
 *The man who lives next door is a doctor. That's the restaurant where we had dinner.*
 
 ## Passive voice
 
-Be + past participle. We use it when the action is more important than
+*Be* + past participle. We use it when the action is more important than
 who does it, or when the agent is unknown.
 
 🔹 *Be* + participio pasado. Lo usamos cuando la acción es más importante que
@@ -138,16 +138,22 @@ quién la realiza, o cuando el agente es desconocido.
 
 ## Gerund vs. infinitive
 
-Some verbs take the gerund (verb + *-ing*): *enjoy, finish, avoid, suggest, keep,
+In English, two conjugated verbs cannot go together. The second verb must be either
+a gerund (verb + *-ing*) or an infinitive (*to* + verb), depending on the first verb.
+
+🔹 En inglés, dos verbos conjugados no pueden ir juntos. El segundo verbo debe ser
+un gerundio (verbo + *-ing*) o un infinitivo (*to* + verbo), dependiendo del primer verbo.
+
+Verbs that take the gerund: *enjoy, finish, avoid, suggest, keep,
 mind, consider, imagine, practice.*
 
-🔹 Algunos verbos van con gerundio (verbo + *-ing*): *enjoy, finish, avoid, suggest, keep,
+🔹 Verbos que van con gerundio: *enjoy, finish, avoid, suggest, keep,
 mind, consider, imagine, practice.*
 
-Some verbs take the infinitive (to + verb): *want, decide, plan, hope, expect, offer,
+Verbs that take the infinitive: *want, decide, plan, hope, expect, offer,
 agree, refuse, learn, seem, promise.*
 
-🔹 Algunos verbos van con infinitivo (*to* + verbo): *want, decide, plan, hope, expect, offer,
+🔹 Verbos que van con infinitivo: *want, decide, plan, hope, expect, offer,
 agree, refuse, learn, seem, promise.*
 
 After prepositions, we always use the gerund: *interested in reading,
@@ -164,7 +170,7 @@ Verb + particle with a new meaning. They can be separable or inseparable.
 
 *Turn off the TV. = Turn the TV off. = Turn it off.* (separable)
 
-*I'm looking for my keys.* (inseparable - cannot say *looking my keys for*)
+*I'm looking for my keys.* (inseparable. Cannot say *looking my keys for*)
 
 Common phrasal verbs:
 
@@ -181,71 +187,48 @@ Common phrasal verbs:
 
 # Homework
 
-## 1. Complete using the past perfect
+## 1. Complete using the correct tense
 
-🔹 Completar usando el *past perfect*.
+🔹 Completar usando el tiempo verbal correcto.
+
+### Past perfect
 
 1. When I arrived at the airport, the plane __________ already __________ (leave).
-2. She was tired because she __________ (not / sleep) well.
-3. By the time we got to the cinema, the movie __________ (start).
-4. He __________ never __________ (see) the ocean before he moved to Barcelona.
-5. __________ she __________ (finish) her homework before the teacher arrived?
+2. By the time we got to the cinema, the movie __________ (start).
+3. He __________ never __________ (see) the ocean before he moved to Barcelona.
 
-## 2. Complete using the present perfect continuous
+### Present perfect continuous
 
-🔹 Completar usando el *present perfect continuous*.
+4. I __________ (study) English for three years.
+5. How long __________ you __________ (wait)?
+6. It __________ (rain) all day.
 
-1. I __________ (study) English for three years.
-2. How long __________ you __________ (wait)?
-3. She __________ (work) at that company since 2020.
-4. It __________ (rain) all day.
-5. They __________ (live) here for six months.
+### Second conditional
 
-## 3. Complete with the second conditional
+7. If I __________ (have) more time, I __________ (learn) to play the piano.
+8. If you __________ (be) the president, what __________ you __________ (do)?
+9. What __________ you __________ (buy) if you __________ (win) the lottery?
 
-🔹 Completar con el segundo condicional.
-
-1. If I __________ (have) more time, I __________ (learn) to play the piano.
-2. If she __________ (live) closer, we __________ (see) each other more often.
-3. If you __________ (be) the president, what __________ you __________ (do)?
-4. If I __________ (not / have to) work, I __________ (travel) every month.
-5. What __________ you __________ (buy) if you __________ (win) the lottery?
-
-## 4. Complete with the correct relative pronoun (who, which, that, whose, where)
+## 2. Complete with the correct relative pronoun (who, which, that, whose, where)
 
 🔹 Completar con el pronombre relativo correcto.
 
 1. The man __________ lives next door is a teacher.
-2. The book __________ I bought yesterday is very interesting.
-3. That's the restaurant __________ we had dinner last Friday.
-4. The woman __________ car was stolen called the police.
-5. The movie __________ we watched last night was boring.
-6. I have a friend __________ speaks five languages.
+2. That's the restaurant __________ we had dinner last Friday.
+3. The woman __________ car was stolen called the police.
+4. I have a friend __________ speaks five languages.
 
-## 5. Rewrite in the passive voice
-
-🔹 Reescribir en voz pasiva.
-
-1. Shakespeare wrote Romeo and Juliet.
-2. They speak Spanish in Mexico.
-3. Someone stole my bicycle.
-4. They are building a new hospital.
-5. People eat a lot of rice in China.
-
-## 6. Complete with the gerund or infinitive
+## 3. Complete with the gerund or infinitive
 
 🔹 Completar con el gerundio o el infinitivo.
 
 1. I enjoy __________ (cook) for my friends.
 2. She decided __________ (change) jobs.
-3. He avoids __________ (eat) sugar.
-4. We plan __________ (visit) Rome next year.
-5. I'm interested in __________ (learn) Japanese.
-6. She agreed __________ (help) me.
-7. He keeps __________ (forget) his keys.
-8. I want __________ (buy) a new car.
+3. We plan __________ (visit) Rome next year.
+4. I'm interested in __________ (learn) Japanese.
+5. He keeps __________ (forget) his keys.
 
-## 7. Complete with the correct phrasal verb: turn off, pick up, give up, look for, find out, get up, put on, take off, look after, come back
+## 4. Complete with the correct phrasal verb: turn off, pick up, give up, look for, find out, get up, put on, look after
 
 🔹 Completar con el *phrasal verb* correcto.
 
@@ -253,102 +236,27 @@ Common phrasal verbs:
 2. I __________ at 7 AM every morning.
 3. She's __________ her keys. She can't find them anywhere.
 4. He __________ smoking last year.
-5. __________ your coat - it's cold outside.
+5. __________ your coat. It's cold outside.
 6. I need to __________ my neighbor's cat this weekend.
-7. When did you __________ from your holiday?
-8. I just __________ that she got married!
 
-## 8. Translate. You can use a dictionary to look up words you don't know.
+## 5. Translate. You can use a dictionary to look up words you don't know.
 
 🔹 Traducir. Puedes usar un diccionario para buscar las palabras que no conoces.
 
-### Past perfect and present perfect continuous
-
 1. Cuando llegué, ella ya se había ido.
-2. Nunca había comido sushi antes de ir a Japón.
-3. Llevo tres años estudiando inglés.
-4. Lleva lloviendo todo el día.
+2. Llevo tres años estudiando inglés.
+3. Si tuviera más dinero, viajaría por el mundo. (*travel the world,* sin preposición)
+4. Hamlet fue escrito por Shakespeare.
+5. Mi hermana decidió cambiar de trabajo.
+6. Ella está buscando sus llaves.
 
-### Second conditional
-
-5. Si tuviera más dinero, viajaría por el mundo.
-6. Si fuera tú, aceptaría la oferta.
-7. ¿Qué harías si ganaras la lotería?
-
-### Relative clauses
-
-8. El hombre que vive al lado es médico.
-9. Ese es el restaurante donde cenamos.
-10. La mujer a quien le robaron el coche llamó a la policía.
-
-### Passive voice
-
-11. Hamlet fue escrito por Shakespeare.
-12. El inglés se habla en muchos países.
-13. Mi bicicleta fue robada anoche.
-
-### Gerund and infinitive
-
-14. Disfruto cocinando para mis amigos.
-15. Ella decidió cambiar de trabajo.
-16. Estoy interesado en aprender japonés.
-
-### Phrasal verbs
-
-17. Apaga la televisión, por favor.
-18. Ella está buscando sus llaves.
-19. Él dejó de fumar el año pasado.
-
-## 9. Translate (mixed tenses and structures)
+## 6. Translate (mixed tenses and structures)
 
 🔹 Traducir (tiempos y estructuras mezclados).
 
-1. I always eat at a restaurant on Friday nights.
-2. She is studying right now.
-3. Yesterday I went to the gym.
-4. It was raining when I left the house.
-5. I used to play tennis every weekend.
-6. I have visited Paris three times.
-7. When I arrived, the movie had already started.
-8. I have been waiting for two hours.
-9. If I had more time, I would learn Italian.
-10. The book that I bought yesterday is very interesting.
-11. English is spoken in many countries.
-12. I enjoy reading.
-13. Turn off the TV, please.
-
-## 10. Write a short essay about your life
-
-🔹 Escribe una redacción corta sobre tu vida.
-
-Write a text that includes as many structures as possible:
-- Present simple for your routines
-- Present progressive for what you are doing now
-- Past simple for important events
-- Past progressive for descriptions
-- Used to for childhood habits
-- Present perfect for life experiences
-- Present perfect continuous for ongoing situations
-- Past perfect for sequencing events
-- Future with *will* and *going to* for plans
-- Second conditional for an imaginary situation
-- Passive voice where appropriate
-- Relative clauses to describe people and things
-- At least 2 phrasal verbs
-- At least 2 linking words
-
-🔹 Escribe un texto que incluya tantas estructuras como sea posible:
-- *Present simple* para tus rutinas
-- *Present progressive* para lo que estás haciendo ahora
-- *Past simple* para eventos importantes
-- *Past progressive* para descripciones
-- *Used to* para hábitos de la infancia
-- *Present perfect* para experiencias de vida
-- *Present perfect continuous* para situaciones en curso
-- *Past perfect* para secuenciar eventos
-- Futuro con *will* y *going to* para planes
-- Segundo condicional para una situación imaginaria
-- Voz pasiva donde sea apropiado
-- Oraciones de relativo para describir personas y cosas
-- Al menos 2 *phrasal verbs*
-- Al menos 2 conectores
+1. Yesterday I went to the gym.
+2. I used to play tennis every weekend.
+3. When I arrived, the movie had already started.
+4. I have been waiting for two hours.
+5. If I had more time, I would learn Italian.
+6. Turn off the TV, please.

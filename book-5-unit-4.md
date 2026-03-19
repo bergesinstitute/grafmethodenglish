@@ -16,7 +16,7 @@ indirect speech). In Spanish, this works in a very similar way.
 
 When we report what someone said, the tenses usually shift one step back:
 
-🔹 Cuando reportamos lo que alguien dijo, los tiempos verbales normalmente
+🔹 Cuando expresamos en estilo indirecto lo que alguien dijo, los tiempos verbales normalmente
 retroceden un paso:
 
     present simple => past simple
@@ -43,29 +43,27 @@ retroceden un paso:
 
 ## Say vs. tell (say vs. tell)
 
-*Say* is used without a personal object (or with *to* + person).
-*Tell* is always used with a personal object.
+*Tell* always needs an explicit indirect object (a person). *Say* does not,
+but if we want to mention the person, we use *to.*
 
-🔹 *Say* se usa sin objeto personal (o con *to* + persona).
-*Tell* siempre se usa con un objeto personal.
+🔹 *Tell* siempre necesita un objeto indirecto explícito (una persona). *Say* no,
+pero si queremos mencionar a la persona, usamos *to.*
 
-    She said she was tired. (correct)
+    ✔ She said she was tired.
 
-    She said to me that she was tired. (correct)
+    ✗ She told she was tired. (needs an explicit indirect object)
 
-    She told me she was tired. (correct)
+    ✔ She told me she was tired.
 
-    She told she was tired. (incorrect - needs an object)
+    ✔ She said to me that she was tired.
 
-    She said me she was tired. (incorrect - use "told")
-
-## Reporting questions (reportar preguntas)
+## Reporting questions (preguntas en estilo indirecto)
 
 ### Yes/no questions
 
-We use *if* or *whether* ['wɛðər]:
+We use *if* or *whether* ['wɛðər]. They are interchangeable, but *whether* is slightly more formal.
 
-🔹 Usamos *if* o *whether* ['wɛðər]:
+🔹 Usamos *if* o *whether* ['wɛðər]. Son intercambiables, pero *whether* es un poco más formal.
 
     "Are you coming?" => She asked if I was coming. (Ella preguntó si yo iba).
 
@@ -87,11 +85,11 @@ We keep the question word, but use normal word order (not question order):
 
 > 🔹 En las preguntas indirectas, no usamos el auxiliar *do/did* y no usamos signo de interrogación.
 
-## Reporting commands and requests (reportar órdenes y peticiones)
+## Reporting commands and requests (órdenes y peticiones en estilo indirecto)
 
-We use *told* + person + *to* + infinitive:
+We use *told* (for commands) or *asked* (for requests) + person + *to* + infinitive:
 
-🔹 Usamos *told* + persona + *to* + infinitivo:
+🔹 Usamos *told* (para órdenes) o *asked* (para peticiones) + persona + *to* + infinitivo:
 
     "Sit down." => She told me to sit down. (Ella me dijo que me sentara).
 
@@ -99,25 +97,36 @@ We use *told* + person + *to* + infinitive:
 
     "Please help me." => She asked me to help her.
 
+> For negative commands, we place *not* before *to*: *told me not to open.*
+
+> 🔹 Para órdenes negativas, colocamos *not* antes de *to*: *told me not to open.*
+
 ## Other time and place changes (otros cambios de tiempo y lugar)
 
 When reporting, references to time and place often change:
 
-🔹 Al reportar, las referencias de tiempo y lugar suelen cambiar:
+🔹 En el estilo indirecto, las referencias de tiempo y lugar suelen cambiar:
 
     today => that day
+    "I saw her today." => He said he had seen her that day.
 
     yesterday => the day before / the previous day
+    "I arrived yesterday." => She said she had arrived the day before.
 
     tomorrow => the next day / the following day
+    "I will call you tomorrow." => He said he would call me the next day.
 
     here => there
+    "I love it here." => She said she loved it there.
 
     this => that
+    "I like this song." => He said he liked that song.
 
     now => then
+    "I'm busy now." => She said she was busy then.
 
     ago => before / earlier
+    "I moved here two years ago." => He said he had moved there two years before.
 
 # Communication vocabulary (vocabulario: comunicación)
 
@@ -172,8 +181,7 @@ M: He said he would move in September. He asked me if I wanted to visit him.
 
 C: That's exciting. Did he mention anything about his girlfriend?
 
-M: He said they had broken up. He told me she hadn't wanted to move
-to another country.
+M: He said they had broken up. He told me she didn't want to move.
 
 C: That's too bad. What else did he say?
 
@@ -186,26 +194,55 @@ Tell Pedro to call me. I can give him her number.
 M: Great! He'll be happy to hear that. He complained that he didn't know
 anyone in the city.
 
-# A note on weak forms of said, told, and asked (nota sobre las formas débiles)
+# Homework
 
-In connected speech, *said, told,* and *asked* are often pronounced with reduced vowels:
+## 1. Change to reported speech
 
-🔹 En el habla conectada, *said, told* y *asked* a menudo se pronuncian con vocales reducidas:
+🔹 Cambiar a estilo indirecto.
 
-    said => [sɛd] (the vowel is already short)
+1. "I am very happy." => She said __________.
+2. "I went to the cinema." => He told me __________.
+3. "I will call you tomorrow." => She said __________.
+4. "I can't come to the party." => He said __________.
+5. "I have been waiting for an hour." => She told me __________.
+6. "We are going to move." => They said __________.
 
-    told => [toʊld]
+## 2. Report the questions
 
-    asked => [æskt] (the E and D are not pronounced)
+🔹 Transforma las preguntas a estilo indirecto.
 
-Also, *that* after *said/told* is usually reduced to [ðət] or even dropped completely.
+1. "Do you like coffee?" => She asked me __________.
+2. "Where do you live?" => He asked me __________.
+3. "Have you ever been to Japan?" => She asked me __________.
+4. "What time does the train leave?" => He asked __________.
+5. "Are you coming tonight?" => She asked me __________.
+6. "When did you arrive?" => He asked me __________.
 
-🔹 Además, *that* después de *said/told* normalmente se reduce a [ðət] o incluso se elimina
-por completo.
+## 3. Report the commands
 
-# Reading comprehension (comentario de texto)
+🔹 Transforma las órdenes a estilo indirecto.
 
-## Ali Baba and the Forty Thieves (Alí Babá y los cuarenta ladrones)
+1. "Open the window." => She told me __________.
+2. "Don't touch that!" => He told the children __________.
+3. "Please sit down." => She asked me __________.
+4. "Be quiet!" => The teacher told the students __________.
+
+## 4. Translate. You can use a dictionary to look up words you don't know.
+
+🔹 Traducir. Puedes usar un diccionario para buscar las palabras que no conoces.
+
+1. Ella dijo que estaba cansada.
+2. Él me dijo que había ido a París.
+3. Ella me preguntó si quería ir al cine.
+4. Él preguntó dónde vivía yo.
+5. Ella me dijo que me sentara.
+6. Él dijo que me llamaría al día siguiente.
+7. Ella me contó que había encontrado un trabajo nuevo.
+8. Él me preguntó si había estado alguna vez en Japón.
+
+## 5. Reading comprehension (comentario de texto)
+
+### Ali Baba and the Forty Thieves (Alí Babá y los cuarenta ladrones)
 
 Ali Baba lived in Persia and had a brother called Kassim. Ali Baba was a
 woodcutter.[1] He worked hard every day, but he was poor. Kassim was the opposite:
@@ -401,57 +438,3 @@ said the words "Open, Sesame" again.
 5. Who was Morgiana, and what did she do to save Ali Baba?
 6. Does the story end well or badly?
 7. What do you think the moral of the story is?
-
-# Homework
-
-## 1. Change to reported speech
-
-🔹 Cambiar a estilo indirecto.
-
-1. "I am very happy." => She said __________.
-2. "I went to the cinema." => He told me __________.
-3. "I will call you tomorrow." => She said __________.
-4. "I can't come to the party." => He said __________.
-5. "I have been waiting for an hour." => She told me __________.
-6. "We are going to move." => They said __________.
-
-## 2. Report the questions
-
-🔹 Reporta las preguntas.
-
-1. "Do you like coffee?" => She asked me __________.
-2. "Where do you live?" => He asked me __________.
-3. "Have you ever been to Japan?" => She asked me __________.
-4. "What time does the train leave?" => He asked __________.
-5. "Are you coming tonight?" => She asked me __________.
-6. "When did you arrive?" => He asked me __________.
-
-## 3. Report the commands
-
-🔹 Reporta las órdenes.
-
-1. "Open the window." => She told me __________.
-2. "Don't touch that!" => He told the children __________.
-3. "Please sit down." => She asked me __________.
-4. "Be quiet!" => The teacher told the students __________.
-
-## 4. Translate. You can use a dictionary to look up words you don't know.
-
-🔹 Traducir. Puedes usar un diccionario para buscar las palabras que no conoces.
-
-1. Ella dijo que estaba cansada.
-2. Él me dijo que había ido a París.
-3. Ella me preguntó si quería ir al cine.
-4. Él preguntó dónde vivía yo.
-5. Ella me dijo que me sentara.
-6. Él dijo que me llamaría al día siguiente.
-7. Ella me contó que había encontrado un trabajo nuevo.
-8. Él me preguntó si había estado alguna vez en Japón.
-
-## 5. Answer using complete sentences
-
-🔹 Responde usando oraciones completas.
-
-1. What did someone tell you recently that surprised you?
-2. What is the best advice anyone has ever given you?
-3. Has anyone ever asked you a question you couldn't answer?

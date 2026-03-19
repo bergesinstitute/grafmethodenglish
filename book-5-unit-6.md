@@ -10,9 +10,9 @@ Este es uno de los temas más confusos para los estudiantes de inglés.
 
 ## Used to + infinitive (review)
 
-*Used to* describes past habits that are no longer true:
+*Used to* describes past habits:
 
-🔹 *Used to* describe hábitos pasados que ya no son ciertos:
+🔹 *Used to* describe hábitos pasados:
 
 *I used to live in Madrid.* (Antes vivía en Madrid). => I don't live there anymore.
 
@@ -55,7 +55,7 @@ a algo nuevo:
 
 ## Comparison (comparación)
 
-    I used to drive to work. (Antes iba en coche al trabajo). => past habit, no longer true
+    I used to drive to work. (Antes iba en coche al trabajo). => past habit
 
     I am used to driving to work. (Estoy acostumbrado a ir en coche al trabajo). => it feels normal now
 

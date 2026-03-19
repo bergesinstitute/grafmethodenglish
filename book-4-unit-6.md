@@ -3,12 +3,12 @@
 ## What it is (qué es)
 
 The first conditional is used for possible or probable situations:
-*If it rains, I'll stay home.* The second conditional is for imaginary or unlikely
+*If it rains, I'll stay home.* The second conditional is for imaginary or hypothetical
 situations. It is built with *if* + past simple, followed by *would* + infinitive.
 
 🔹 El primer condicional se usa para situaciones posibles o probables:
 *If it rains, I'll stay home.* El segundo condicional es para situaciones imaginarias
-o improbables. Se forma con *if* + *past simple*, seguido de *would* + infinitivo.
+o hipotéticas. Se forma con *if* + *past simple*, seguido de *would* + infinitivo.
 
     If I had more money, I would travel the world.
     (Si tuviera más dinero, viajaría por el mundo).
@@ -110,7 +110,7 @@ We can use *not* in either clause or in both:
 
     First conditional: If + present simple, will + infinitive => real/possible
 
-    Second conditional: If + past simple, would + infinitive => imaginary/unlikely
+    Second conditional: If + past simple, would + infinitive => imaginary/hypothetical
 
 # Emotions and feelings vocabulary (vocabulario: emociones y sentimientos)
 

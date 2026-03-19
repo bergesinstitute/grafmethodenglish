@@ -2,12 +2,12 @@
 
 ## What it is (qué es)
 
-The third conditional is used to talk about imaginary situations in the past - things
+The third conditional is used to talk about imaginary situations in the past. Things
 that didn't happen, and their imaginary consequences. It is built with
 *if* + past perfect, followed by *would have* + past participle.
 
-🔹 El tercer condicional se usa para hablar de situaciones imaginarias en el pasado -
-cosas que no ocurrieron, y sus consecuencias imaginarias. Se forma con
+🔹 El tercer condicional se usa para hablar de situaciones imaginarias en el pasado.
+Cosas que no ocurrieron, y sus consecuencias imaginarias. Se forma con
 *if* + *past perfect*, seguido de *would have* + participio pasado.
 
     If I had studied harder, I would have passed the exam.
@@ -23,7 +23,7 @@ The action didn't happen. We are imagining a different past.
 ## More examples (más ejemplos)
 
 *If I had known about the party, I would have gone.*
-(Si hubiera sabido de la fiesta, habría ido).
+(Si me hubieran avisado de la fiesta, habría ido).
 
 *If we had left earlier, we would have caught the flight.*
 (Si hubiéramos salido antes, habríamos cogido el vuelo).
@@ -54,13 +54,13 @@ We can use *could have* or *might have* instead of *would have:*
 
 ## Summary of all three conditionals (resumen de los tres condicionales)
 
-    First: If + present, will + infinitive => possible future
+    First: *If* + present, *will* + infinitive => possible future
     If it rains, I'll stay home.
 
-    Second: If + past simple, would + infinitive => imaginary present/future
+    Second: *If* + past simple, *would* + infinitive => imaginary present/future
     If I had more money, I would travel.
 
-    Third: If + past perfect, would have + past participle => imaginary past
+    Third: *If* + past perfect, *would have* + past participle => imaginary past
     If I had studied, I would have passed.
 
 ## Mixed conditionals (condicionales mixtos)
@@ -76,14 +76,14 @@ imaginaria del pasado tiene una consecuencia presente, o viceversa.
 *If I had studied medicine, I would be a doctor now.*
 (Si hubiera estudiado medicina, ahora sería médico).
 
-Structure: if + past perfect, would + infinitive.
+Structure: *if* + past perfect, *would* + infinitive.
 
 ### Present cause, past result (causa presente, resultado pasado)
 
-*If I spoke French, I would have applied for that job.*
-(Si hablara francés, me habría presentado a ese trabajo).
+*If I were taller, I would have played basketball in college.*
+(Si fuera más alto, habría jugado al baloncesto en la universidad).
 
-Structure: if + past simple, would have + past participle.
+Structure: *if* + past simple, *would have* + past participle.
 
 # Life events vocabulary (vocabulario: eventos de la vida)
 
@@ -148,25 +148,21 @@ with regret, we would never move forward ['fɔrwərd] (hacia delante).
 
 # A note on contractions with "have" (nota sobre las contracciones con "have")
 
-In spoken English, *would have, could have,* and *should have* are almost always
+In spoken English, *would have, could have,* and *might have* are almost always
 contracted. It is important to recognize these sounds:
 
-🔹 En inglés hablado, *would have, could have* y *should have* casi siempre se contraen.
+🔹 En inglés hablado, *would have, could have* y *might have* casi siempre se contraen.
 Es importante reconocer estos sonidos:
 
-    would have => would've [wʊdəv] => often sounds like "woulda"
+    would have => would've [wʊdəv] => often sounds like "would of"
 
-    could have => could've [kʊdəv] => often sounds like "coulda"
+    could have => could've [kʊdəv] => often sounds like "could of"
 
-    should have => should've [ʃʊdəv] => often sounds like "shoulda"
+    might have => might've [maɪtəv] => often sounds like "might of"
 
-    might have => might've [maɪtəv] => often sounds like "mighta"
+> In negative sentences, only *not* is contracted, and only with *could* and *would*: *wouldn't have, couldn't have.* With *might,* there is no contraction: *I might not have passed the exam.*
 
-> A very common mistake is writing *would of* instead of *would have.*
-> Even some native speakers make this mistake. Always write *would have.*
-
-> 🔹 Un error muy común es escribir *would of* en lugar de *would have.*
-> Incluso algunos nativos cometen este error. Siempre escribe *would have.*
+> 🔹 En oraciones negativas, solo se contrae *not*, y solo con *could* y *would*: *wouldn't have, couldn't have.* Con *might* no hay contracción: *I might not have passed the exam.*
 
 # Homework
 
@@ -186,30 +182,29 @@ Es importante reconocer estos sonidos:
 🔹 Elige entre el primer, segundo y tercer condicional.
 
 1. If it __________ (rain) tomorrow, I __________ (stay) home. (possible)
-2. If I __________ (be) taller, I __________ (play) basketball. (imaginary present)
+2. If I __________ (be) taller, I __________ (play) basketball. (imaginary)
 3. If I __________ (study) more, I __________ (pass) the exam last week. (imaginary past)
-4. If she __________ (call), tell her I'm busy. (possible)
-5. If I __________ (win) the lottery, I __________ (buy) a yacht. (imaginary present)
+4. If she __________ (call), I __________ (tell) her I'm busy. (possible)
+5. If I __________ (win) the lottery, I __________ (buy) a yacht. (imaginary)
 6. If we __________ (take) the other road, we __________ (arrive) faster yesterday. (imaginary past)
 
 ## 3. Translate. You can use a dictionary to look up words you don't know.
 
 🔹 Traducir. Puedes usar un diccionario para buscar las palabras que no conoces.
 
-1. Si hubiera sabido, te habría llamado.
+1. Si hubiera llovido, nos habríamos quedado en casa.
 2. Si no hubiera llovido, habríamos ido a la playa.
 3. Si hubiera estudiado medicina, ahora sería médico.
-4. ¿Qué habrías hecho si hubieras perdido el avión?
+4. ¿Qué habrías hecho si hubieras perdido el avión? (perder el avión = *miss the flight*)
 5. Si ella no se hubiera mudado a Madrid, no nos habríamos conocido.
 6. Si hubiera llegado antes, podría haber ayudado.
-7. Si hablara francés, me habría presentado a ese trabajo.
-8. Si no hubiera aceptado ese trabajo, mi vida sería muy diferente ahora.
+7. Si no hubiera aceptado ese trabajo, mi vida sería muy diferente ahora.
 
 ## 4. Answer using complete sentences
 
 🔹 Responde usando oraciones completas.
 
-1. What would you have done if you hadn't studied your current profession?
+1. What would you have done if you hadn't studied what you studied? (*what* = lo que)
 2. If you could change one decision from your past, what would it be?
 3. What would have happened if you had been born in a different country?
 4. If you had known ten years ago what you know now, what would you have done differently?

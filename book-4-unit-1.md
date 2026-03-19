@@ -164,10 +164,10 @@ dinner was ruined [ru:ɪnd] (arruinada) because the oven ['ʌvən] (horno) turne
 
 ## Used to / would
 
-We use *used to* for past habits or states that are no longer true. We use *would*
+We use *used to* for past habits or states. We use *would*
 for repeated past actions only (not for states).
 
-🔹 Usamos *used to* para hábitos o estados pasados que ya no son ciertos. Usamos
+🔹 Usamos *used to* para hábitos o estados pasados. Usamos
 *would* solo para acciones pasadas repetidas (no para estados).
 
 *I used to live in Madrid.* (Antes vivía en Madrid). => past state

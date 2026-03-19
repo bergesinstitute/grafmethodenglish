@@ -22,11 +22,11 @@ en el presente pero que no son ciertas. Es como una situación imaginaria presen
 
 ## Wish for the past (wish para el pasado)
 
-We use *wish* + past perfect to express regret about the past - things that happened
+We use *wish* + past perfect to express regret about the past. Things that happened
 (or didn't happen) that we want to change.
 
-🔹 Usamos *wish* + *past perfect* para expresar arrepentimiento sobre el pasado -
-cosas que ocurrieron (o no ocurrieron) y que queremos cambiar.
+🔹 Usamos *wish* + *past perfect* para expresar arrepentimiento sobre el pasado.
+Cosas que ocurrieron (o no ocurrieron) y que queremos cambiar.
 
     I wish I had studied harder. (Ojalá hubiera estudiado más).
 
@@ -68,13 +68,13 @@ o sobre el comportamiento de otras personas.
 
 ## Summary (resumen)
 
-    wish + past simple => present wish (I wish I had a car.)
+    *wish* + past simple => present wish (I wish I had a car.)
 
-    wish + past perfect => past regret (I wish I had bought that car.)
+    *wish* + past perfect => past regret (I wish I had bought that car.)
 
-    wish + would => complaint/desire for change (I wish it would rain.)
+    *wish* + *would* => complaint/desire for change (I wish it would rain.)
 
-    if only => stronger version of wish
+    *if only* => stronger version of *wish*
 
 # Dreams and aspirations vocabulary (vocabulario: sueños y aspiraciones)
 
@@ -116,10 +116,9 @@ Sofía: I wish I had learned to play an instrument when I was young.
 
 Tomás: It's never too late! I started playing the guitar at 35.
 
-S: Really? I wish I had that kind of patience. If only I didn't work so many hours,
-I would have time for hobbies.
+S: Really? I wish I had that kind of patience. If only I didn't work so many hours!
 
-T: I know the feeling. I wish my job weren't so demanding [dɪ'mændɪŋ] (exigente).
+T: I know the feeling. I wish my job wasn't so demanding [dɪ'mændɪŋ] (exigente).
 But I make time for the guitar on weekends.
 
 S: Do you have any regrets?
@@ -138,15 +137,19 @@ S: I wish that too. If only more people had access ['æksɛs] (acceso) to those 
 T: Well, at least we're learning English now. I wish I had started sooner,
 but better late than never!
 
+> Notice how Tomás says *I wish my job wasn't* instead of *weren't.* In conversation, people often use *wasn't* instead of *weren't.* Both are correct.
+
+> 🔹 Fíjate en que Tomás dice *I wish my job wasn't* en lugar de *weren't.* En la conversación, la gente suele usar *wasn't* en lugar de *weren't.* Ambos son correctos.
+
 # Too, enough, so, such
 
 ## Too (demasiado)
 
 *Too* [tu:] goes before an adjective or adverb. It means *demasiado* and
-always has a negative implication - there is more than is good or necessary.
+always has a negative implication. It means something is excessive.
 
 🔹 *Too* [tu:] va antes de un adjetivo o adverbio. Significa *demasiado* y
-siempre tiene una implicación negativa - hay más de lo bueno o necesario.
+siempre tiene una implicación negativa. Significa que algo es excesivo.
 
     It's too hot. (Hace demasiado calor).
 
@@ -154,19 +157,13 @@ siempre tiene una implicación negativa - hay más de lo bueno o necesario.
 
     This bag is too heavy. (Esta bolsa es demasiado pesada).
 
-We can add *to* + infinitive to say what is impossible because of the excess:
+We can add *to* + infinitive to indicate that an action cannot be done due to an excess of something:
 
-🔹 Podemos añadir *to* + infinitivo para decir qué es imposible debido al exceso:
+🔹 Podemos añadir *to* + infinitivo para indicar que una acción no se puede hacer debido a un exceso de algo:
 
 *It's too cold to go outside.* (Hace demasiado frío para salir).
 
 *He's too young to drive.* (Es demasiado joven para conducir).
-
-> Don't confuse *too* (demasiado) with *too* (también) or *two* (dos).
-> They sound the same!
-
-> 🔹 No confundas *too* (demasiado) con *too* (también) o *two* (dos).
-> Suenan igual.
 
 ## Enough (suficiente / bastante)
 
@@ -206,6 +203,8 @@ es singular y contable, añadimos *a/an.*
 
     They are such nice people! (¡Son gente tan amable!)
 
+    These are such beautiful flowers! (¡Son flores tan bonitas!)
+
 ## So/such + that (resultado)
 
 Both *so* and *such* can be followed by *that* to express a result:
@@ -240,54 +239,6 @@ P: Did the jacket fit?
 
 E: Perfectly. It's so comfortable that I wore it home.
 
-# A note on the most challenging sounds for Spanish speakers (repaso de sonidos difíciles)
-
-Let's review the sounds that are most difficult for Spanish speakers:
-
-🔹 Repasemos los sonidos más difíciles para los hispanohablantes:
-
-### The two TH sounds
-
-Voiced [ð] (like a soft D with the tongue between the teeth): *the, this, that, there*
-
-Voiceless [θ] (like blowing air with the tongue between the teeth): *think, three, month, bath*
-
-### The schwa [ə]
-
-The most common sound in English. A short, relaxed, neutral vowel: *about, banana, sofa, the*
-
-### The R sound [r]
-
-Tongue curled back, not touching the palate, no tongue vibration: *red, river, right, really*
-
-### The initial S + consonant
-
-No E before the S: *speak, street, small, stop*
-
-# A note on diphthongs (nota sobre los diptongos)
-
-English has several diphthongs - vowel sounds that glide from one position to another.
-Here are the most important ones:
-
-🔹 El inglés tiene varios diptongos - sonidos vocálicos que se deslizan de una posición a otra.
-Estos son los más importantes:
-
-    [eɪ] as in day, say, make, rain
-
-    [aɪ] as in my, time, right, buy
-
-    [ɔɪ] as in boy, noise, choice, enjoy
-
-    [aʊ] as in now, house, about, sound
-
-    [oʊ] as in go, know, home, road
-
-It is important to pronounce both parts of the diphthong. Many Spanish speakers
-tend to shorten them to a single vowel.
-
-🔹 Es importante pronunciar las dos partes del diptongo. Muchos hispanohablantes
-tienden a acortarlos a una sola vocal.
-
 # Homework
 
 ## 1. Complete with the correct form after wish
@@ -321,10 +272,10 @@ tienden a acortarlos a una sola vocal.
 1. Ojalá tuviera más tiempo libre.
 2. Ojalá hubiera viajado más de joven.
 3. Desearía que dejara de llover.
-4. Si tan solo hablara inglés perfectamente.
-5. Ojalá no hubiera dicho eso.
+4. ¡Si tan solo hablara inglés perfectamente!
+5. Ojalá Juan no hubiera dicho eso.
 6. Desearía que mi jefe me escuchara.
-7. Si tan solo hubiera estudiado medicina.
+7. ¡Si tan solo hubiera estudiado medicina!
 8. Ojalá viviera cerca del mar.
 
 ## 4. Complete with too, enough, so, or such
@@ -337,7 +288,7 @@ tienden a acortarlos a una sola vocal.
 4. The movie was __________ boring that I fell asleep.
 5. We don't have __________ money to buy a house.
 6. It was __________ a long day!
-7. The music is __________ loud. Can you turn it down?
+7. The music is __________ loud that I can't concentrate.
 8. He is smart __________ to solve the problem.
 
 ## 5. Translate (too / enough / so / such)
@@ -348,7 +299,7 @@ tienden a acortarlos a una sola vocal.
 2. ¡Es un día tan bonito!
 3. La película era tan larga que me dormí.
 4. No tenemos suficiente tiempo.
-5. No soy lo suficientemente alto para llegar.
+5. No es lo suficientemente mayor para conducir.
 
 ## 6. Answer using complete sentences
 
@@ -358,4 +309,3 @@ tienden a acortarlos a una sola vocal.
 2. What is something you wish you had done differently in the past?
 3. Is there anything about your city you wish would change?
 4. What do you wish you had known when you were younger?
-5. If only you could live anywhere, where would it be?
