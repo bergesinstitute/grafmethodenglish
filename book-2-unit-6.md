@@ -80,7 +80,7 @@ Los verbos *can, must* y *should* tienen contracciones negativas:
 
     shouldn't ['ʃʊdənt]
 
-> *Can't* se pronuncia generalmente [kant] en Estados Unidos y [kɑ:nt] en Reino Unido.
+> *Can't* se pronuncia generalmente [kænt] en Estados Unidos y [kɑ:nt] en Reino Unido.
 
 Dicho esto, la contracción negativa de *must* no se usa mucho, y la de *can* recomendamos evitarla porque a
 veces si hablamos rápido es difícil diferenciarla de la versión afirmativa.
