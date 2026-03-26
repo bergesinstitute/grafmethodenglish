@@ -41,7 +41,7 @@ retroceden un paso:
 
 > 🔹 *That* después de *said* es opcional: *She said (that) she was tired.*
 
-## Say vs. tell (say vs. tell)
+## Say vs. tell
 
 *Tell* always needs an explicit indirect object (a person). *Say* does not,
 but if we want to mention the person, we use *to.*

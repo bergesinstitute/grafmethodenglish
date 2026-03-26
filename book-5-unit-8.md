@@ -42,9 +42,9 @@ These show a difference or an unexpected result:
 
     even though [i:vən ðoʊ] - aunque / a pesar de que
 
-    despite [dɪ'spaɪt] - a pesar de + noun / gerund
+    despite [dɪ'spaɪt] + noun / gerund - a pesar de
 
-    in spite of [ɪn spaɪt əv] - a pesar de + noun / gerund
+    in spite of [ɪn spaɪt əv] + noun / gerund - a pesar de
 
     whereas [wɛr'æz] - mientras que
 
@@ -76,9 +76,9 @@ These show a difference or an unexpected result:
 
     as a result [æz ə rɪ'zʌlt] - como resultado
 
-    due to [du: tu:] - debido a
+    due to [du: tu:] + noun / gerund - debido a
 
-    because of [bɪ'kɔz əv] - a causa de
+    because of [bɪ'kɔz əv] + noun / gerund - a causa de
 
     since [sɪns] - ya que / puesto que
 
@@ -114,7 +114,7 @@ These show a difference or an unexpected result:
 
     afterwards ['æftərwərdz] - después
 
-    eventually [ɪ'vɛntʃuəli] - finalmente / con el tiempo
+    eventually [ɪ'vɛntʃuəli] - finalmente / con el tiempo / en algún momento
 
 *Firstly, I want to thank everyone for coming. Secondly, I have some news.*
 
@@ -122,11 +122,11 @@ These show a difference or an unexpected result:
 
 *He tried many times. Eventually, he succeeded.*
 
-> *Eventually* does NOT mean *eventualmente* in Spanish. It means *finalmente*
-> or *con el tiempo.*
+> *Eventually* does NOT mean *eventualmente* in Spanish. It means *finalmente*,
+> *con el tiempo*, or *en algún momento*.
 
-> 🔹 *Eventually* NO significa *eventualmente* en español. Significa *finalmente*
-> o *con el tiempo.*
+> 🔹 *Eventually* NO significa *eventualmente* en español. Significa *finalmente*,
+> *con el tiempo* o *en algún momento*.
 
 ## Example (ejemplo)
 
@@ -200,24 +200,6 @@ Professor: Good discussion. For your next essay, I want you to analyze this topi
 using linking words. You should include arguments for and against,
 and reach a conclusion.
 
-# A note on pausing and phrasing (nota sobre las pausas y el fraseo)
-
-In natural English, we don't speak in one continuous stream. We break sentences
-into *thought groups* and pause briefly between them. Linking words often
-signal where to pause:
-
-🔹 En inglés natural, no hablamos de forma continua. Dividimos las oraciones en
-*grupos de pensamiento* y hacemos pausas breves entre ellos. Los conectores a menudo
-señalan dónde pausar:
-
-*Although it was raining, / we went for a walk. / However, / we got very wet.*
-
-The slashes show natural pause points. Pausing in the right places makes
-your English much easier to understand.
-
-🔹 Las barras muestran los puntos de pausa naturales. Pausar en los lugares correctos
-hace que tu inglés sea mucho más fácil de entender.
-
 # Homework
 
 ## 1. Complete with the correct linking word
@@ -229,9 +211,8 @@ hace que tu inglés sea mucho más fácil de entender.
 3. He studied hard. __________, he passed the exam. (por lo tanto)
 4. __________ it was expensive, we bought it. (aunque)
 5. She speaks Spanish, Italian, and Portuguese. __________, she's learning Arabic. (además)
-6. I left early __________ catch the bus. (para)
-7. __________, I want to thank you. __________, I have a question. (en primer lugar / en segundo lugar)
-8. Many cities, __________ London and Paris, have excellent museums. (como)
+6. __________, I want to thank you. __________, I have a question. (en primer lugar / en segundo lugar)
+7. Many cities, __________ London and Paris, have excellent museums. (como)
 
 ## 2. Choose between although/even though and despite/in spite of
 
@@ -256,9 +237,9 @@ hace que tu inglés sea mucho más fácil de entender.
 7. Muchos países, como España e Italia, tienen un clima mediterráneo.
 8. Él prefiere el campo, mientras que ella prefiere la ciudad.
 
-## 4. Write a short essay using linking words
+## 4. Write a short paragraph using linking words
 
-🔹 Escribe una redacción corta usando conectores.
+🔹 Escribe un párrafo corto usando conectores.
 
 Write a paragraph about the advantages and disadvantages of learning a language online.
 Use at least 6 different linking words from this unit.
