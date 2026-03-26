@@ -14,7 +14,7 @@ porque cambian según la oración.
 
 Positive sentence => negative tag. Negative sentence => positive tag.
 
-🔹 Oración positiva => tag negativo. Oración negativa => tag positivo.
+🔹 Oración positiva => *tag* negativo. Oración negativa => *tag* positivo.
 
     You are coming, aren't you? (Vienes, ¿no?)
 
@@ -26,9 +26,11 @@ Positive sentence => negative tag. Negative sentence => positive tag.
 
 ## How to form them (cómo formarlas)
 
-Use the auxiliary verb from the sentence. If there is no auxiliary, use *do/does/did:*
+Use the auxiliary verb or modal from the sentence. If the verb is *be*, use *be.*
+If there is none of these, use *do/does/did:*
 
-🔹 Usamos el verbo auxiliar de la oración. Si no hay auxiliar, usamos *do/does/did:*
+🔹 Usamos el verbo auxiliar o modal de la oración. Si el verbo es *be*, usamos *be.*
+Si no hay ninguno de estos, usamos *do/does/did:*
 
 ### With be
 
@@ -36,11 +38,7 @@ Use the auxiliary verb from the sentence. If there is no auxiliary, use *do/does
 
     They were late, weren't they?
 
-### With have (as auxiliary)
-
-    You have been to Paris, haven't you?
-
-    She has finished, hasn't she?
+    I'm not late, am I?
 
 ### With modals
 
@@ -50,13 +48,17 @@ Use the auxiliary verb from the sentence. If there is no auxiliary, use *do/does
 
     She should go, shouldn't she?
 
-### With will
-
     They will come, won't they?
 
-    It won't rain, will it?
+    You won't forget, will you?
 
-### With do/does/did (when there's no other auxiliary)
+### With have (as auxiliary)
+
+    You have been to Paris, haven't you?
+
+    She has finished, hasn't she?
+
+### With do/does/did
 
     You like pizza, don't you?
 
@@ -66,25 +68,37 @@ Use the auxiliary verb from the sentence. If there is no auxiliary, use *do/does
 
     He doesn't work here, does he?
 
-> With *I am*, the tag is *aren't I?* (not *amn't I?*):
-> *I'm right, aren't I?*
+    You have a car, don't you?
 
-> 🔹 Con *I am*, la tag es *aren't I?* (no *amn't I?*):
-> *I'm right, aren't I?*
+> With *I am*, the negative tag is *aren't I?* (not *amn't I?*). In formal
+> English you can also say *am I not?*
+> *I'm right, aren't I?* / *I'm right, am I not?*
+
+> 🔹 Con *I am*, el *tag* negativo es *aren't I?* (no *amn't I?*). En inglés
+> formal también se puede decir *am I not?*
+> *I'm right, aren't I?* / *I'm right, am I not?*
 
 ## Intonation matters (la entonación importa)
 
-With rising intonation, a question tag is a genuine question - you don't know the answer:
+**Rising intonation** (the voice goes up): the question tag is a genuine question.
+You don't know the answer.
 
-🔹 Con entonación ascendente, una *question tag* es una pregunta genuina - no sabes la respuesta:
+🔹 **Entonación ascendente** (la voz sube): la *question tag* es una pregunta
+genuina. No sabes la respuesta.
 
-*You don't have a car, do you?* (rising - I'm not sure)
+*You don't have a car, do you?* (Rising. I'm not sure)
 
-With falling intonation, a question tag is just seeking confirmation - you expect agreement:
+**Falling intonation** (the voice goes down): the question tag is just seeking
+confirmation. You expect agreement.
 
-🔹 Con entonación descendente, una *question tag* simplemente busca confirmación:
+🔹 **Entonación descendente** (la voz baja): la *question tag* simplemente busca
+confirmación.
 
-*Nice day, isn't it?* (falling - I expect you to agree)
+*It's a nice day, isn't it?* (Falling. I expect you to agree)
+
+In general, most question tags in casual conversation use falling intonation.
+
+🔹 En general, la mayoría de las *question tags* en conversación informal usan entonación descendente.
 
 # Had better and would rather (had better y would rather)
 
@@ -110,7 +124,7 @@ o advertencias. Va seguido del infinitivo sin *to:*
 
 ## Would rather (preferir)
 
-*Would rather* (often contracted to *'d rather*) means *prefer to*. It is also
+*Would rather* (often contracted to *'d rather*) means *prefer*. It is also
 followed by the infinitive without *to:*
 
 🔹 *Would rather* (a menudo contraído como *'d rather*) significa *preferir*.
@@ -120,8 +134,7 @@ También va seguido del infinitivo sin *to:*
 
     She'd rather not go. (Ella preferiría no ir).
 
-    Would you rather eat at home or go to a restaurant?
-    (¿Preferirías comer en casa o ir a un restaurante?)
+    Would you rather eat at home or go to a restaurant? (¿Preferirías comer en casa o ir a un restaurante?)
 
 ### Would rather + past simple (for preferences about other people)
 
@@ -167,14 +180,14 @@ When we use *would rather* with a different subject, we use the past simple
 
 # Conversation
 
-Sofía: Nice weather today, isn't it?
+Sofía: It's a nice day, isn't it?
 
 Marcos: It is! You're going to the party tonight, aren't you?
 
 S: I'd rather not go, actually. I'm very tired.
 
 M: You'd better go. Elena organized it for her birthday and she'd be upset
-[ʌp'sɛt] (disgustada) if you didn't come.
+[ʌp'sɛt] (molesta) if you didn't come.
 
 S: You're right, aren't you? I should go. I'd rather arrive late than not go
 at all.
@@ -192,31 +205,60 @@ M: Yes. You haven't bought a present yet, have you?
 
 S: Oh no! I completely forgot! I'd better go to a shop first.
 
-M: You'd better hurry then. I'd rather you didn't arrive too late -
+M: You'd better hurry then. I'd rather you didn't arrive too late.
 Elena would notice.
 
-# A note on intonation in question tags (nota sobre la entonación en question tags)
+# Homework
 
-As mentioned above, intonation changes the meaning:
+## 1. Add the correct question tag
 
-🔹 Como mencionamos antes, la entonación cambia el significado:
+🔹 Añade la *question tag* correcta.
 
-**Rising intonation** (the voice goes up): This is a real question. You want information.
+1. She is your sister, __________?
+2. They don't live here, __________?
+3. He can speak English, __________?
+4. You haven't been to Japan, __________?
+5. We should leave now, __________?
+6. She will come tomorrow, __________?
+7. You like chocolate, __________?
+8. She didn't call, __________?
+9. I'm late, __________?
+10. They were happy, __________?
 
-*She's from Spain, isn't she?* (rising) => I'm not sure. Is she?
+## 2. Complete with had better or would rather
 
-**Falling intonation** (the voice goes down): You are just making conversation
-or asking for agreement.
+🔹 Completar con *had better* o *would rather*.
 
-*Lovely day, isn't it?* (falling) => I know it's lovely. I just want you to agree.
+1. You __________ study tonight. The exam is tomorrow.
+2. I __________ stay home than go out in this rain.
+3. She __________ not forget her passport.
+4. We __________ eat at home. The restaurants are too expensive.
+5. You __________ hurry. The train leaves in five minutes.
+6. I __________ you didn't tell anyone about this.
 
-In general, most question tags in casual conversation use falling intonation.
+## 3. Translate. You can use a dictionary to look up words you don't know.
 
-🔹 En general, la mayoría de las *question tags* en conversación informal usan entonación descendente.
+🔹 Traducir. Puedes usar un diccionario para buscar las palabras que no conoces.
 
-# Reading comprehension (comentario de texto)
+1. Ella no habla francés, ¿verdad?
+2. Será mejor que te des prisa.
+3. Preferiría quedarme en casa.
+4. Tú eres médico, ¿no?
+5. Ellos no han terminado, ¿verdad?
+6. Preferiría que no fumaras aquí.
 
-## The Adventure of the Speckled Band (la aventura de la banda moteada)
+## 4. Answer using complete sentences
+
+🔹 Responde usando oraciones completas.
+
+1. You're studying English, aren't you? How long have you been studying?
+2. Would you rather live in the city or in the countryside?
+3. What is something you'd better do this week?
+4. Would you rather have more money or more free time?
+
+## 5. Reading comprehension (comentario de texto)
+
+### The Adventure of the Speckled Band (la aventura de la banda moteada)
 
 One morning in the spring of 1883, a young woman came to visit my friend Sherlock
 Holmes at our apartment in Baker Street. Her name was Helen Stoner, and she was
@@ -361,7 +403,7 @@ first person it found: Roylott himself.
 
 [30] bite [baɪt] - mordedura / picadura
 
-### Questions (preguntas)
+🔹 Responde basándote en el texto.
 
 1. Why was Helen Stoner afraid?
 2. What were Julia's last words?
@@ -370,53 +412,3 @@ first person it found: Roylott himself.
 5. What was "the speckled band"?
 6. How did Roylott die?
 7. What do you think of Holmes's final words?
-
-# Homework
-
-## 1. Add the correct question tag
-
-🔹 Añade la *question tag* correcta.
-
-1. She is your sister, __________?
-2. They don't live here, __________?
-3. He can speak English, __________?
-4. You haven't been to Japan, __________?
-5. We should leave now, __________?
-6. It will rain tomorrow, __________?
-7. You like chocolate, __________?
-8. She didn't call, __________?
-9. I'm late, __________?
-10. They were happy, __________?
-
-## 2. Complete with had better or would rather
-
-🔹 Completar con *had better* o *would rather*.
-
-1. You __________ study tonight. The exam is tomorrow.
-2. I __________ stay home than go out in this rain.
-3. She __________ not forget her passport.
-4. We __________ eat at home. The restaurants are too expensive.
-5. You __________ hurry. The train leaves in five minutes.
-6. I __________ you didn't tell anyone about this.
-
-## 3. Translate. You can use a dictionary to look up words you don't know.
-
-🔹 Traducir. Puedes usar un diccionario para buscar las palabras que no conoces.
-
-1. Hace buen tiempo, ¿verdad?
-2. Ella no habla francés, ¿verdad?
-3. Será mejor que te des prisa.
-4. Preferiría quedarme en casa.
-5. Tú eres médico, ¿no?
-6. Ellos no han terminado, ¿verdad?
-7. Preferiría que no fumaras aquí.
-8. Será mejor que no le digas nada.
-
-## 4. Answer using complete sentences
-
-🔹 Responde usando oraciones completas.
-
-1. You're studying English, aren't you? How long have you been studying?
-2. Would you rather live in the city or in the countryside?
-3. What is something you'd better do this week?
-4. Would you rather have more money or more free time?
