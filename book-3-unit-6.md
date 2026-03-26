@@ -310,6 +310,8 @@ I'll start next Monday. I think I'll love it.
 
 [16] salary ['sæləri] - salario / sueldo
 
+[17] come true [kʌm tru:] - hacerse realidad
+
 ### Questions (preguntas)
 
 1. Where did the narrator and Ana find Madame Luna?
@@ -318,5 +320,3 @@ I'll start next Monday. I think I'll love it.
 4. Did Ana's prediction come true?[17]
 5. What two job offers did the narrator receive?
 6. Which one did the narrator choose? Why?
-
-[17] come true [kʌm tru:] - hacerse realidad
